@@ -1,0 +1,766 @@
+sep=,,
+;001_QUEST_STONES_AND_WOODS/quest,,
+_001_QUEST_STONES_AND_WOODS_OBJECTIVE_QUEST_2,Вернуть камни {{owner}},Return stones {{owner}}
+_001_QUEST_STONES_AND_WOODS_DESCRIPTION_QUEST_1,Дескрипшен,Description
+_001_QUEST_STONES_AND_WOODS_HEADER_QUEST_1,Заголовок квеста,Quest title
+_001_QUEST_STONES_AND_WOODS_OBJECTIVE_QUEST_1,Цель квеста,Quest goal
+;002_QUEST_GIVE_ITEM_TO_ANOTHER_NPC/quest,,
+_002_QUEST_GIVE_ITEM_TO_ANOTHER_NPC_DESCRIPTION_QUEST_1,Дескрипшен,Description
+_002_QUEST_GIVE_ITEM_TO_ANOTHER_NPC_HEADER_QUEST_1,Заголовок квеста,Quest title
+_002_QUEST_GIVE_ITEM_TO_ANOTHER_NPC_OBJECTIVE_QUEST_1,Цель квеста,Quest goal
+;003_MOVE_ME_TO_POINT/quest,,
+_003_MOVE_ME_TO_POINT_DESCRIPTION_QUEST_1,Дескрипшен,Description
+_003_MOVE_ME_TO_POINT_HEADER_QUEST_1,Сопроводить к месту,Accompany to a place
+_003_MOVE_ME_TO_POINT_OBJECTIVE_QUEST_1,Цель квеста,Quest goal
+;004_PAGES_ON_CEMETRY/quest,,
+_004_PAGES_ON_CEMETRY_OBJECTIVE_QUEST_5,Вернуться и отчитать {{owner}},Come back and report {{owner}}
+_004_PAGES_ON_CEMETRY_OBJECTIVE_QUEST_1,"Выяснить, что происходит",Find out what's going on
+_004_PAGES_ON_CEMETRY_HEADER_QUEST_1,Демон-писатель и записки,The demon writer and his notes
+_004_PAGES_ON_CEMETRY_OBJECTIVE_QUEST_4,Идти в церковь,Go to the church
+_004_PAGES_ON_CEMETRY_OBJECTIVE_QUEST_2,Найти остальные записки,Find the rest of the notes
+_004_PAGES_ON_CEMETRY_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+;005_GNARK_MINE/quest,,
+_005_GNARK_MINE_OBJECTIVE_QUEST_6,Вернуться и отчитать {{owner}},Come back and report {{owner}}
+_005_GNARK_MINE_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_005_GNARK_MINE_OBJECTIVE_QUEST_5,Опробовать мину на граббере,Try the mine on a grabber
+_005_GNARK_MINE_OBJECTIVE_QUEST_3,Опробовать мину на пауке,Try the mine on a spider
+_005_GNARK_MINE_OBJECTIVE_QUEST_1,Опробовать мину на птице,Try the mine on a bird
+_005_GNARK_MINE_OBJECTIVE_QUEST_4,Отчитаться по работе второй мины,Report on the second mine
+_005_GNARK_MINE_OBJECTIVE_QUEST_2,Отчитаться по работе мины,Report on the mine
+_005_GNARK_MINE_HEADER_QUEST_1,Эксперименты с минами,Experiments with mines
+;006_FRACTION_NAME/quest,,
+_006_FRACTION_NAME_OBJECTIVE_QUEST_2,Взять записку у лисы,Take a note from the Fox
+_006_FRACTION_NAME_OBJECTIVE_QUEST_4,Взять записку у робота,Take a note from the Robot
+_006_FRACTION_NAME_DESCRIPTION_QUEST_1,Глава ордена попросил меня собрать три листка вариантами названий ордена.,The Head of the Order wants you to bring him three notes containing the name of the order.
+_006_FRACTION_NAME_HEADER_QUEST_1,Имя для ордена,Order name
+_006_FRACTION_NAME_OBJECTIVE_QUEST_3,Найти записку лисы,Find the Fox's note
+_006_FRACTION_NAME_OBJECTIVE_QUEST_1,Найти запись демона в пауке,Find the Forger's note inside the spider
+_006_FRACTION_NAME_OBJECTIVE_QUEST_5,Отдать записки {{owner}},Take the notes to {{owner}}
+;007_FOX_ELIXIR_1/quest,,
+_007_FOX_ELIXIR_1_OBJECTIVE_QUEST_2,Выпить эликсир,Drink the potion
+_007_FOX_ELIXIR_1_OBJECTIVE_QUEST_1,Идти к месту испытания,Go to the testing area
+_007_FOX_ELIXIR_1_HEADER_QUEST_1,Испытание зелья,Potion test
+_007_FOX_ELIXIR_1_DESCRIPTION_QUEST_1,"Мне надо отправиться в указанное место, выпить зелье и сразится с монстром.","I need to go to the specified place, drink the potion, and fight the monsters. Sounds safe."
+_007_FOX_ELIXIR_1_OBJECTIVE_QUEST_5,Рассказать о эффекте {{owner}},Report on the effect {{owner}}
+_007_FOX_ELIXIR_1_OBJECTIVE_QUEST_3,Убить монстра,Kill a monster
+_007_FOX_ELIXIR_1_OBJECTIVE_QUEST_4,Убить рогача,Kill a stag
+;008_FOX_ELIXIR_2/quest,,
+_008_FOX_ELIXIR_2_OBJECTIVE_QUEST_2,Выпить эликсир,Drink the potion
+_008_FOX_ELIXIR_2_OBJECTIVE_QUEST_1,Идти к месту испытания,Go to the testing area
+_008_FOX_ELIXIR_2_HEADER_QUEST_1,Испытание зелья 2,Potion test 2
+_008_FOX_ELIXIR_2_DESCRIPTION_QUEST_1,Лиса обещала что это зелье сделает меня невидимым. Надо отправиться на паучий остров и выпить его там.,The fox said the elixir would make me invisible. I need to go to Spider Island and drink it there. Sounds like a lovely place.
+_008_FOX_ELIXIR_2_OBJECTIVE_QUEST_3,Рассказать об эффекте {{owner}},Report on the effect {{owner}}
+;009_KNOWN_VILLY/quest,,
+_009_KNOWN_VILLY_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_009_KNOWN_VILLY_HEADER_QUEST_1,Разузнать про старину Вилли,Find info about Willy
+_009_KNOWN_VILLY_OBJECTIVE_QUEST_3,Расспросить героя,Ask the hero
+_009_KNOWN_VILLY_OBJECTIVE_QUEST_1,Расспросить демона-торговца,Ask the merchant demon
+_009_KNOWN_VILLY_OBJECTIVE_QUEST_2,Расспросить старика у шахты,Ask the old man near the mine
+;010_SAVE_MOPS/quest,,
+_010_SAVE_MOPS_OBJECTIVE_QUEST_2,Вернуться к кусту {{owner}},Go back to the bush {{owner}}
+_010_SAVE_MOPS_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_010_SAVE_MOPS_OBJECTIVE_QUEST_1,Разобраться с гнарками,Deal with gnarks
+_010_SAVE_MOPS_HEADER_QUEST_1,Разобраться с обидчиками,Deal with offenders
+;011_ORDER_GREAT_REWARD/quest,,
+_011_ORDER_GREAT_REWARD_HEADER_QUEST_1,Великая награда ордена,Great reward from the Order
+_011_ORDER_GREAT_REWARD_OBJECTIVE_QUEST_2,Вернуться к демону {{owner}},Head back to the Forger {{owner}}
+_011_ORDER_GREAT_REWARD_DESCRIPTION_QUEST_1,Выполнить все задания с доски,Complete every task written on the board.
+_011_ORDER_GREAT_REWARD_OBJECTIVE_QUEST_1,Выполнить задания с доски,Complete the tasks written on the board
+;012_HELP_FOX/quest,,
+_012_HELP_FOX_HEADER_QUEST_1,Доска: Помочь лисе,Plank: Help Fox
+_012_HELP_FOX_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_012_HELP_FOX_OBJECTIVE_QUEST_1,Помочь лисе,Help Fox
+;013_HELP_ROBOT/quest,,
+_013_HELP_ROBOT_HEADER_QUEST_1,Доска: Помочь роботу,Plank: Help the Robot
+_013_HELP_ROBOT_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_013_HELP_ROBOT_OBJECTIVE_QUEST_1,Помочь роботу,Help the Robot
+;014_ORDER_FOX_DOOR/quest,,
+_014_ORDER_FOX_DOOR_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_014_ORDER_FOX_DOOR_HEADER_QUEST_1,Открыть дверь изнутри,Open the door from the inside.
+;015_ROBOT_GET_SILVER/quest,,
+_015_ROBOT_GET_SILVER_DESCRIPTION_QUEST_1,Мечи ордена сами собой серебрянными не станут. Нужно принести листья серебрянки для краски.,The swords won't turn into silver on their own. I need to collect silverfish leaves and make a paint out of them.
+_015_ROBOT_GET_SILVER_HEADER_QUEST_1,Найти серебрянку,Find silverfish leaves
+_015_ROBOT_GET_SILVER_OBJECTIVE_QUEST_1,Найти серебрянку {{complete_count}}/{{target_count}},Find silverfish leaves {{complete_count}}/{{target_count}}
+_015_ROBOT_GET_SILVER_OBJECTIVE_QUEST_2,Отдать серебрянку роботу {{owner}},Give the robot silverfish leaves {{owner}}
+;016_TRADE_CERTIFICATE/quest,,
+_016_TRADE_CERTIFICATE_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_016_TRADE_CERTIFICATE_OBJECTIVE_QUEST_2,Отдать сертификат страже {{owner}},Give the certificate to the guards {{owner}}
+_016_TRADE_CERTIFICATE_OBJECTIVE_QUEST_1,Раздобыть сертификат на торговлю,Obtain the merchant's certificate
+_016_TRADE_CERTIFICATE_HEADER_QUEST_1,Сертификат торговца,Merchant's certificate
+;017_TRADE_GOAWAY_GRABBER/quest,,
+_017_TRADE_GOAWAY_GRABBER_OBJECTIVE_QUEST_2,Вернуться за сертификатом к {{owner}},Go back and take the certificate from the {{owner}}
+_017_TRADE_GOAWAY_GRABBER_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_017_TRADE_GOAWAY_GRABBER_HEADER_QUEST_1,Прогнать граббера,Banish the grabber
+;018_DRINK_GNARKS/quest,,
+_018_DRINK_GNARKS_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_018_DRINK_GNARKS_OBJECTIVE_QUEST_2,Отдать алкоголь {{owner}},Give the beverage to {{owner}}
+_018_DRINK_GNARKS_HEADER_QUEST_1,Праздник у гнарков,Feast at gnarks
+_018_DRINK_GNARKS_OBJECTIVE_QUEST_1,Раздобыть алкоголь для гнарков,Find a beverage for the gnarks
+;019_GET_BLACK_HORNER/quest,,
+_019_GET_BLACK_HORNER_OBJECTIVE_QUEST_4,Открыть черного рогача,Open the black stag
+_019_GET_BLACK_HORNER_OBJECTIVE_QUEST_2,Привести черного рогача,Take the black stag to
+_019_GET_BLACK_HORNER_OBJECTIVE_QUEST_1,Найти черного рогача,Find the black stag
+_019_GET_BLACK_HORNER_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_019_GET_BLACK_HORNER_OBJECTIVE_QUEST_3,Получить награду у {{owner}},Get a reward from {{owner}}
+_019_GET_BLACK_HORNER_HEADER_QUEST_1,Привести черного рогача,Take the black stag to
+;020_GET_REPLACE_FOR_HORNER/quest,,
+_020_GET_REPLACE_FOR_HORNER_HEADER_QUEST_1,Найти замену быку,Find something to replace the bull
+_020_GET_REPLACE_FOR_HORNER_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_020_GET_REPLACE_FOR_HORNER_OBJECTIVE_QUEST_2,Принести семян {{owner}},Take the seeds to {{owner}}
+_020_GET_REPLACE_FOR_HORNER_OBJECTIVE_QUEST_1,Раздобыть семян,Find seeds
+;021_FIGHT_WITH_BLACK_HORNER/quest,,
+_021_FIGHT_WITH_BLACK_HORNER_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_021_FIGHT_WITH_BLACK_HORNER_HEADER_QUEST_1,Победить черного рогача,Defeat the black stag
+;022_FIND_VILLY/quest,,
+_022_FIND_VILLY_HEADER_QUEST_1,Найти старину Вилли,Find Old Willy
+_022_FIND_VILLY_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+;023_VILLY_PRISON_BREAK/quest,,
+_023_VILLY_PRISON_BREAK_OBJECTIVE_QUEST_1,Найти ключ,Find the key
+_023_VILLY_PRISON_BREAK_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_023_VILLY_PRISON_BREAK_OBJECTIVE_QUEST_2,Открыть клетку,Open the cage
+_023_VILLY_PRISON_BREAK_OBJECTIVE_QUEST_3,Поговорить с {{owner}},Talk with {{owner}}
+_023_VILLY_PRISON_BREAK_HEADER_QUEST_1,Устроить побег шерифу,Help the sheriff escape.
+;024_REPAIR_CAMERA/quest,,
+_024_REPAIR_CAMERA_OBJECTIVE_QUEST_1,Найти запчасть от камеры,Find the spare part for the camera.
+_024_REPAIR_CAMERA_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_024_REPAIR_CAMERA_OBJECTIVE_QUEST_2,Принести запчасть {{owner}},Take the spare camera part to {{owner}}
+_024_REPAIR_CAMERA_HEADER_QUEST_1,Синема,Cinema
+;025_FIRST_TAKE/quest,,
+_025_FIRST_TAKE_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_025_FIRST_TAKE_HEADER_QUEST_1,Первый дубль,First double
+_025_FIRST_TAKE_OBJECTIVE_QUEST_1,Убей голема,Kill the golem
+_025_FIRST_TAKE_OBJECTIVE_QUEST_2,Убей голема еще раз,Kill the golem again
+_025_FIRST_TAKE_OBJECTIVE_QUEST_3,Убей граббера на камеру,Make a movie demonstrating how to kill a grabber.
+;026_DEAD_FOREST/quest,,
+_026_DEAD_FOREST_DESCRIPTION_QUEST_1,"Деревья в лесу стали высыхать, лиса попросила меня узнать причину.",The trees in the forest are drying up. Fox wants me to find out what's wrong with them.
+_026_DEAD_FOREST_HEADER_QUEST_1,Мертвый лес,Dead forest
+_026_DEAD_FOREST_OBJECTIVE_QUEST_1,Найти причину вымирания леса,Find out why the forest is dying
+_026_DEAD_FOREST_OBJECTIVE_QUEST_5,Рассказать лисе {{owner}} про лекарства,Tell the Fox {{owner}} about the treatment
+_026_DEAD_FOREST_OBJECTIVE_QUEST_2,Убить большого паука,Kill the big spider
+_026_DEAD_FOREST_OBJECTIVE_QUEST_3,Убить гнарка,Kill the gnark
+;027_BORG_VS_GOLEM/quest,,
+_027_BORG_VS_GOLEM_HEADER_QUEST_1,Загадка порталлов,Mystery of portals
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_1,Исследовать портальное место 1,Explore portal area 1
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_2,Исследовать портальное место 2,Explore portal area 2
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_3,Исследовать портальное место 3,Explore portal area 3
+_027_BORG_VS_GOLEM_DESCRIPTION_QUEST_1,"Лиса Ари попросила узнать что случилось с ее сестрами, занимающимися созданием порталлов.",A fox named Ari asked me to find out what happened to her sisters. They were involved in the creation of the portals.
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_4,Рассказать все лисе {{owner}},Report everything to Fox {{owner}}
+;027_BORG_VS_GOLEM/quest_borg,,
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_BORG_2,Взять награду у лисы {{owner}},Claim your reward {{owner}}
+_027_BORG_VS_GOLEM_HEADER_QUEST_BORG_1,Колумбийский путч: квазинация,Columbia overthrow: quasination
+_027_BORG_VS_GOLEM_DESCRIPTION_QUEST_BORG_1,Описание квеста,Quest description
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_BORG_1,Отомстить боргу,Avenge the borg
+;027_BORG_VS_GOLEM/quest_golem,,
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_GOLEM_2,Взять награду у лисы {{owner}},Claim your reward {{owner}}
+_027_BORG_VS_GOLEM_HEADER_QUEST_GOLEM_1,Колумбийский путч: квазинация,Columbia overthrow: quasination
+_027_BORG_VS_GOLEM_DESCRIPTION_QUEST_GOLEM_1,Описание квеста,Quest description
+_027_BORG_VS_GOLEM_OBJECTIVE_QUEST_GOLEM_1,Отомстить каменному голему сильно,Avenge the stone golem
+;028_CREATOR/quest,,
+_028_CREATOR_OBJECTIVE_QUEST_5,Вывести робота {{owner}},Take the robot to {{owner}}
+_028_CREATOR_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_028_CREATOR_OBJECTIVE_QUEST_3,Отдать книгу охраннику,Give a book to the security guard
+_028_CREATOR_OBJECTIVE_QUEST_4,Открыть дверь,Open the door
+_028_CREATOR_OBJECTIVE_QUEST_1,Поговорить с охранником,Talk to the guard
+_028_CREATOR_OBJECTIVE_QUEST_2,Получить сертификат охранника,Acquire the security guard certificate
+_028_CREATOR_HEADER_QUEST_1,Спасение творца,Rescue the creator
+;029_GET_PET_FOR_ME/quest,,
+_029_GET_PET_FOR_ME_HEADER_QUEST_1,Кролик для Голема,Rabbit for the golem
+_029_GET_PET_FOR_ME_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_029_GET_PET_FOR_ME_OBJECTIVE_QUEST_1,Поймать кролика,Catch a rabbit
+_029_GET_PET_FOR_ME_OBJECTIVE_QUEST_3,Принести кролика {{owner}},Take the rabbit to {{owner}}
+;030_GNARK_TRUST/quest,,
+_030_GNARK_TRUST_OBJECTIVE_QUEST_2,Вернуться к {{owner}},Go back to {{owner}}
+_030_GNARK_TRUST_HEADER_QUEST_1,Доверие гнарков,Gnarks' trust
+_030_GNARK_TRUST_OBJECTIVE_QUEST_1,Заслужить доверие Кровавого Вилли,Earn the trust of Bloody Willy
+_030_GNARK_TRUST_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+;031_BOOM_DRONT/quest,,
+_031_BOOM_DRONT_OBJECTIVE_QUEST_4,Вернуться с отчетом,Go back and make your report
+_031_BOOM_DRONT_DESCRIPTION_QUEST_1,Демон с арены попросил убить дронтов-подрывников и рассказать ему подойдут ли они для арены,The demon in the arena asked me to kill several explosive dodo birds and then report on whether or not they'd be good for the arena.
+_031_BOOM_DRONT_HEADER_QUEST_1,Убить взрывных куриц,Kill the explosive dodo birds
+_031_BOOM_DRONT_OBJECTIVE_QUEST_1,Убить дронтов,Kill the dodo birds
+;032_GUARD_CERTIFICATE/quest,,
+_032_GUARD_CERTIFICATE_OBJECTIVE_QUEST_2,Вернуться к {{owner}},Go back to {{owner}}
+_032_GUARD_CERTIFICATE_DESCRIPTION_QUEST_1,Описание квеста,Quest description
+_032_GUARD_CERTIFICATE_OBJECTIVE_QUEST_1,Прогнать пауков из библиотеки,Chase the spiders out of the library.
+_032_GUARD_CERTIFICATE_HEADER_QUEST_1,Удостоверение охранника,Guard ID card
+;033_SPIRIT_PIGMEI/quest,,
+_033_SPIRIT_PIGMEI_DESCRIPTION_QUEST_1,"Мне надо отправиться в указанное место, прочитать свиток и сразится с духами.","I need to go to the specified place, read the scroll, and fight the spirits."
+_033_SPIRIT_PIGMEI_OBJECTIVE_QUEST_1,Отправится в разрушенный лагерь,Go to the demolished camp
+_033_SPIRIT_PIGMEI_OBJECTIVE_QUEST_2,Прочитать свиток,Read the scroll
+_033_SPIRIT_PIGMEI_OBJECTIVE_QUEST_5,Рассказать о эффекте {{owner}},Report on the effect {{owner}}
+_033_SPIRIT_PIGMEI_HEADER_QUEST_1,Убить Духов,Kill the spirits
+_033_SPIRIT_PIGMEI_OBJECTIVE_QUEST_3,Убить монстра,Kill a monster
+_033_SPIRIT_PIGMEI_OBJECTIVE_QUEST_4,Убить пигмеев призраков,Kill the pygmy ghosts
+;034_ROBOT_FUEL/quest,,
+_034_ROBOT_FUEL_OBJECTIVE_QUEST_2,Вернуться к роботу,Go back to the robot
+_034_ROBOT_FUEL_HEADER_QUEST_1,Добыть масло для роботов,Find oil for the robots
+_034_ROBOT_FUEL_OBJECTIVE_QUEST_1,Канистры с маслом {{complete_count}}/{{target_count}},Cans with oil {{complete_count}}/{{target_count}}
+_034_ROBOT_FUEL_DESCRIPTION_QUEST_1,Надо обыскать заброшенный город и найти канистры с маслом,I need to search the abandoned city and find cans of oil.
+;035_WHEELSFORBANDITS/quest,,
+_035_WHEELSFORBANDITS_OBJECTIVE_QUEST_1,Достать 4 колеса,Find four wheels
+_035_WHEELSFORBANDITS_HEADER_QUEST_1,Достать колеса,Find wheels for the cart
+_035_WHEELSFORBANDITS_DESCRIPTION_QUEST_1,Колеса,Wheels
+_035_WHEELSFORBANDITS_OBJECTIVE_QUEST_3,Отдать бабло братку,Give money to your bro
+_035_WHEELSFORBANDITS_OBJECTIVE_QUEST_2,Толкнуть кому-то одному,Sell something to a member of your brotherhood
+;037_BANDIT_BROTHERHOOD/quest,,
+_037_BANDIT_BROTHERHOOD_HEADER_QUEST_1,"Доказать, что достоин братства",Prove you’re worthy to join the brotherhood
+_037_BANDIT_BROTHERHOOD_OBJECTIVE_QUEST_1,Достать колеса,Find wheels
+_037_BANDIT_BROTHERHOOD_OBJECTIVE_QUEST_3,Разыскать посылку,Find the parcel
+_037_BANDIT_BROTHERHOOD_OBJECTIVE_QUEST_2,Собрать дань,Collect tribute.
+_037_BANDIT_BROTHERHOOD_DESCRIPTION_QUEST_1,"Чтобы вступить в бандитское братсво, надо выполнить задания","To join the brotherhood of bandits, complete tasks"
+;038_WHEELS_FOR_BANDITS/quest,,
+_038_WHEELS_FOR_BANDITS_HEADER_QUEST_1,Колеса для братанов,Wheels for bros
+_038_WHEELS_FOR_BANDITS_OBJECTIVE_QUEST_1,Отработать колеса у торговца,Acquire the wheels from the trader
+_038_WHEELS_FOR_BANDITS_OBJECTIVE_QUEST_2,Притащить колеса,Deliver the wheels
+_038_WHEELS_FOR_BANDITS_DESCRIPTION_QUEST_1,"Чтобы вступить в бандитское братсво, надо достать колеса","To join the brotherhood of bandits, deliver the wheels"
+;039_MONETS_FOR_BANDITS/quest,,
+_039_MONETS_FOR_BANDITS_HEADER_QUEST_1,Дань для братанов,Tribute for bros
+_039_MONETS_FOR_BANDITS_OBJECTIVE_QUEST_2,Притащить дань,Deliver tribute
+_039_MONETS_FOR_BANDITS_OBJECTIVE_QUEST_1,Собрать дань с деревенщин,Collect tribtue from the villagers
+_039_MONETS_FOR_BANDITS_DESCRIPTION_QUEST_1,"Чтобы вступить в бандитское братсво, надо достать дань","To join the brotherhood of bandits, collect tribute"
+;040_CARGO_FOR_BANDITS/quest,,
+_040_CARGO_FOR_BANDITS_OBJECTIVE_QUEST_1,Найти ценный груз,Find valuable cargo
+_040_CARGO_FOR_BANDITS_HEADER_QUEST_1,Потерянная коробка,Lost box
+_040_CARGO_FOR_BANDITS_OBJECTIVE_QUEST_2,Притащить коробку,Deliver the box
+_040_CARGO_FOR_BANDITS_DESCRIPTION_QUEST_1,"Чтобы вступить в бандитское братсво, надо достать дань","To join the brotherhood of bandits, collect tribute"
+;041_SINGING_SPIDER_FOR_STAN/quest,,
+_041_SINGING_SPIDER_FOR_STAN_DESCRIPTION_QUEST_1,Надо помочь Стэну и вернуть его поющего паука,Help Stan find his singing spider
+_041_SINGING_SPIDER_FOR_STAN_OBJECTIVE_QUEST_2,Получить награду у Стэна,Earn a reward from Stan
+_041_SINGING_SPIDER_FOR_STAN_HEADER_QUEST_1,Поющий паук,Singing spider
+_041_SINGING_SPIDER_FOR_STAN_OBJECTIVE_QUEST_1,Уговорить паука быть со Стеном,Persuade the spider to be with Stan
+;042_RETURN_WINE_FOR_SPIDER/quest,,
+_042_RETURN_WINE_FOR_SPIDER_HEADER_QUEST_1,Голос певца,Singer’s voice
+_042_RETURN_WINE_FOR_SPIDER_DESCRIPTION_QUEST_1,"Надо вернуть пауку голос, он просил вино.",Help the spider restore his voice. He asked for wine.
+_042_RETURN_WINE_FOR_SPIDER_OBJECTIVE_QUEST_1,Найти вино для паука,Find wine for the spider
+_042_RETURN_WINE_FOR_SPIDER_OBJECTIVE_QUEST_2,Принести вино пауку,Take the wine to the spider
+;043_GET_COSTUME_FOR_SPIDER/quest,,
+_043_GET_COSTUME_FOR_SPIDER_OBJECTIVE_QUEST_2,Вернуть костюм пауку,Take the outfit to the spider
+_043_GET_COSTUME_FOR_SPIDER_OBJECTIVE_QUEST_1,Достать пауку костюм,Find the outfit for the spider
+_043_GET_COSTUME_FOR_SPIDER_HEADER_QUEST_1,Костюм для выступлений,Spider’s outfit
+_043_GET_COSTUME_FOR_SPIDER_DESCRIPTION_QUEST_1,Надо достать пауку костюм для выступлений,Find the outfit the spider wears during his shows
+;044_FIGHT_SPIDERS_FOR_STAN/quest,,
+_044_FIGHT_SPIDERS_FOR_STAN_DESCRIPTION_QUEST_1,"Все пошло не по плану, надо показать пауку кто тут главный.",Something went wrong. Teach the spider a lesson.
+_044_FIGHT_SPIDERS_FOR_STAN_OBJECTIVE_QUEST_2,Поговорить с пауком-певцом еще раз,Talk with the singing spider again
+_044_FIGHT_SPIDERS_FOR_STAN_OBJECTIVE_QUEST_1,Разобраться с друзьями паука-певца,Deal with singer’s friends
+_044_FIGHT_SPIDERS_FOR_STAN_HEADER_QUEST_1,Разобраться с пауками,Deal with the spiders
+;045_EQUIPMENT_FOR_BANDITS/quest,,
+_045_EQUIPMENT_FOR_BANDITS_DESCRIPTION_QUEST_1,"Бандитам нужно качественное снаряжение, чтобы стать сильнее",Bandits need good equipment to become stronger
+_045_EQUIPMENT_FOR_BANDITS_OBJECTIVE_QUEST_1,Достать снарягу,Find the equipment
+_045_EQUIPMENT_FOR_BANDITS_OBJECTIVE_QUEST_2,Притащить снарягу,Deliver the equipment
+_045_EQUIPMENT_FOR_BANDITS_HEADER_QUEST_1,Снаряга для бандитов,Equipment for the bandits
+;046_SHADOW_FIGHT_CLEAR/quest,,
+_046_SHADOW_FIGHT_CLEAR_OBJECTIVE_QUEST_2,Вернуться чистым к гнарку,Return clean to the Gnark
+_046_SHADOW_FIGHT_CLEAR_OBJECTIVE_QUEST_1,Искупаться в озере,Swim in the lake
+_046_SHADOW_FIGHT_CLEAR_DESCRIPTION_QUEST_1,"Надо искупаться в озере, очистить свой разум. Я чувствую себя глупо.",I should swim in the lake and clear my mind. I feel silly.
+_046_SHADOW_FIGHT_CLEAR_HEADER_QUEST_1,Сумасшедший гнарк: Очищение,Crazy Gnark: Purification
+;047_SHADOW_FIGHT_GET_HELMET/quest,,
+_047_SHADOW_FIGHT_GET_HELMET_OBJECTIVE_QUEST_2,Вернуться к гнарку,Return to the gnark
+_047_SHADOW_FIGHT_GET_HELMET_OBJECTIVE_QUEST_1,Найти шапку из фольги,Find the Foil Cap
+_047_SHADOW_FIGHT_GET_HELMET_HEADER_QUEST_1,Сумасшедший гнарк: Шапочка из фольги,Crazy gnark: Foil Cap
+_047_SHADOW_FIGHT_GET_HELMET_DESCRIPTION_QUEST_1,"Я видел возле озера очищения демона, он предлагал мне какую-то шапку, надо пойти проверить.",I saw a demon near the Lake of Purification. He offered me a cap... I should go see what it is.
+;048_SHADOW_FIGHT_FINAL/quest,,
+_048_SHADOW_FIGHT_FINAL_OBJECTIVE_QUEST_4,Вернуться за наградой,Return for your reward
+_048_SHADOW_FIGHT_FINAL_DESCRIPTION_QUEST_1,Какие-то странные вещи происходят рядом с тем сумасшедшим гнарком. Или там распылили галлюциногены? Надо создать меч и покончить с этим.,Strange things happen near that crazy Gnark. Did someone spray psychedelics in his vicinity? I need to craft a sword and then be done with this.
+_048_SHADOW_FIGHT_FINAL_OBJECTIVE_QUEST_1,Наполнить колбу особой водой,Fill the flask with special water
+_048_SHADOW_FIGHT_FINAL_OBJECTIVE_QUEST_2,Создать меч другой реальности,Craft a sword from another reality
+_048_SHADOW_FIGHT_FINAL_HEADER_QUEST_1,Сумасшедший гнарк: Другое измерение,Crazy Gnark: Another dimension
+_048_SHADOW_FIGHT_FINAL_OBJECTIVE_QUEST_3,Уничтожить существ,Eliminate the creatures
+;050_BLUE_DRONT_FOR_BLACKSMITH/quest,,
+_050_BLUE_DRONT_FOR_BLACKSMITH_OBJECTIVE_QUEST_3,Вернуть синего дронта кузнецу,Return the blue dodo to the blacksmith
+_050_BLUE_DRONT_FOR_BLACKSMITH_OBJECTIVE_QUEST_2,Найти замену мертвой птице,Find a replacement for the dead bird
+_050_BLUE_DRONT_FOR_BLACKSMITH_DESCRIPTION_QUEST_1,"Нужно помочь вернуть кузнецу его синего дронта, который пропал",Help the blacksmith find his missing blue dodo
+_050_BLUE_DRONT_FOR_BLACKSMITH_OBJECTIVE_QUEST_1,Отыскать синего дронта,Find the blue dodo
+_050_BLUE_DRONT_FOR_BLACKSMITH_HEADER_QUEST_1,Синий дронт кузнеца,Blacksmith's blue dodo
+;051_BERRY_FOR_COLORMAN/quest,,
+_051_BERRY_FOR_COLORMAN_HEADER_QUEST_1,В поисках синей краски,In search of blue paint
+_051_BERRY_FOR_COLORMAN_OBJECTIVE_QUEST_1,Добыть ягод для синей краски {{complete_count}}/{{target_count}},Find berries for making blue paint
+_051_BERRY_FOR_COLORMAN_OBJECTIVE_QUEST_3,Поймать маленького дронта,Catch a little dodo
+_051_BERRY_FOR_COLORMAN_OBJECTIVE_QUEST_4,Принести краску и птицу Красочнику,Take the paint and the bird to the painter
+_051_BERRY_FOR_COLORMAN_OBJECTIVE_QUEST_2,Создать синюю краску,Make blue paint
+_051_BERRY_FOR_COLORMAN_DESCRIPTION_QUEST_1,"Так как настоящий синий дронт мертв, нужно найти краску и перекрасить обычного. В этом поможет Красочник","Since the true blue dodo is dead, I need to find an ordinary one and paint it. The painter will help me."
+;052_LEGENDARY_WEAPON/quest,,
+_052_LEGENDARY_WEAPON_OBJECTIVE_QUEST_1,Достать оружие,Find a weapon
+_052_LEGENDARY_WEAPON_HEADER_QUEST_1,Легендарное оружие,Legendary weapon
+_052_LEGENDARY_WEAPON_OBJECTIVE_QUEST_2,Принести оружие Стэну,Take the weapon to Stan
+_052_LEGENDARY_WEAPON_DESCRIPTION_QUEST_1,"Стэн хочет, чтобы ты принес оружие легендарного Вонана Карвара",Stan wants you to fetch the weapon of the legendary Bonan the Carbarian.
+;053_ROBOT_1_TROUBLES/quest,,
+_053_ROBOT_1_TROUBLES_HEADER_QUEST_1,Внутри что-то есть,Something inside
+_053_ROBOT_1_TROUBLES_OBJECTIVE_QUEST_1,Достать инструмент,Get the tool
+_053_ROBOT_1_TROUBLES_OBJECTIVE_QUEST_2,Починить робота,Repair the robot
+_053_ROBOT_1_TROUBLES_DESCRIPTION_QUEST_1,"Робот жалуется, что внутри него что-то шумит. Надо устранить шум.",The robot is complaining about heaing noises inside of itself. Make the noise stop.
+;054_ROBOT_2_TROUBLES/quest,,
+_054_ROBOT_2_TROUBLES_OBJECTIVE_QUEST_1,Добыть чистое масло {{complete_count}}/{{target_count}},Find pure oil {{complete_count}}/{{target_count}}
+_054_ROBOT_2_TROUBLES_OBJECTIVE_QUEST_2,Отдать роботу масло,Give the oil to the robot
+_054_ROBOT_2_TROUBLES_HEADER_QUEST_1,Повышенная шерстлявость,Lots o' fur
+_054_ROBOT_2_TROUBLES_DESCRIPTION_QUEST_1,"Робот жалуется, что его детали каждое утро покрыты шерстью - это плохо для него. Нужно достать много масла для прочистки.",The robot is complaining that his parts are covered with fur every morning when he wakes up. This is bad for it. I'm going to need a lot of oil for cleaning it.
+;055_ROBOT_3_TROUBLES/quest,,
+_055_ROBOT_3_TROUBLES_OBJECTIVE_QUEST_1,Достать новые детали,Find new parts
+_055_ROBOT_3_TROUBLES_OBJECTIVE_QUEST_2,Принести роботу детали,Take the parts to the robot
+_055_ROBOT_3_TROUBLES_HEADER_QUEST_1,Ржавый внутри,Rusty inside
+_055_ROBOT_3_TROUBLES_DESCRIPTION_QUEST_1,"Робот жалуется, что все его детали заржавели и стали непригодны. Надо достать новые.",The robot is complaining that all of its parts are rusty and unusable. Find new ones.
+;056_FACTORY_PROBLEMS/quest,,
+_056_FACTORY_PROBLEMS_DESCRIPTION_QUEST_1,"Главный робот жалуется, что мешают зайцы. Просит достать охрану.",The main robot is complaining that the rabbit is bothering him. He's asking for protection.
+_056_FACTORY_PROBLEMS_HEADER_QUEST_1,Заводские проблемы,Factory problems
+_056_FACTORY_PROBLEMS_OBJECTIVE_QUEST_4,Отвести барса на завод,Take the panther to the factory
+_056_FACTORY_PROBLEMS_OBJECTIVE_QUEST_1,Поговорить с троллем,Talk with the troll
+_056_FACTORY_PROBLEMS_OBJECTIVE_QUEST_2,Поймать кролика,Catch a rabbit
+_056_FACTORY_PROBLEMS_OBJECTIVE_QUEST_3,Прикормить барса,Feed the panther
+;057_FLUFFY_CURSE/quest,,
+_057_FLUFFY_CURSE_OBJECTIVE_QUEST_1,Договориться с лисой,Strike a bargain with the fox.
+_057_FLUFFY_CURSE_OBJECTIVE_QUEST_2,Доложить об успехе роботам,Report your success to the robots.
+_057_FLUFFY_CURSE_HEADER_QUEST_1,Пушистое проклятье,Fluffy curse
+_057_FLUFFY_CURSE_DESCRIPTION_QUEST_1,"Роботы подозревают в нашествии кроликов лису. Если это действительно она, то ее надо остановить","The robots suspect the fox is the guilty part in the invasion of the rabbits. If it’s really her, she must be stopped."
+;058_FOX_DEFENDER/quest,,
+_058_FOX_DEFENDER_HEADER_QUEST_1,Защитник лисы,Defending against the fox
+_058_FOX_DEFENDER_DESCRIPTION_QUEST_1,Лиса натравила на вас ручного рогача. Победите его,Fox unleashed a tamed stag against you. Defeat him
+_058_FOX_DEFENDER_OBJECTIVE_QUEST_1,Победить рогача,Defeat the stag
+_058_FOX_DEFENDER_OBJECTIVE_QUEST_2,Поговорить с лисой,Talk with the fox
+;059_CLEAR_THE_SHARD/quest,,
+_059_CLEAR_THE_SHARD_HEADER_QUEST_1,Генеральная уборка,Full-scale cleaning
+_059_CLEAR_THE_SHARD_DESCRIPTION_QUEST_1,"Лиса хочет, чтобы вы очистили осколок от масла. Тогда она согласится прекратить нашествие кроликов","The fox wants you to clean the oil off the shard, and in return, she'll stop the invasion of the rabbits."
+_059_CLEAR_THE_SHARD_OBJECTIVE_QUEST_2,Отдать Лисе доказательства,Take the evidence to the fox.
+_059_CLEAR_THE_SHARD_OBJECTIVE_QUEST_1,Собрать все масляные лужи {{complete_count}}/{{target_count}},Collect every puddle of oil {{complete_count}}/{{target_count}}
+;060_VONAN_KARVAR/quest_fight,,
+_060_VONAN_KARVAR_HEADER_QUEST_FIGHT_1,Победить Вонана,Defeat Bonan
+_060_VONAN_KARVAR_OBJECTIVE_QUEST_FIGHT_1,Убить Вонана,Kill Bonan
+_060_VONAN_KARVAR_DESCRIPTION_QUEST_FIGHT_1,"Чтобы достать легендарное оружие, придется убить Вонана","To get the legendary weapon, kill Bonan"
+;060_VONAN_KARVAR/quest_peace,,
+_060_VONAN_KARVAR_OBJECTIVE_QUEST_PEACE_2,Взломать сундук,Break the chest
+_060_VONAN_KARVAR_HEADER_QUEST_PEACE_1,Дипломатические отношения,Diplomatic relations
+_060_VONAN_KARVAR_OBJECTIVE_QUEST_PEACE_3,Забрать журнал,Take the magazine
+_060_VONAN_KARVAR_OBJECTIVE_QUEST_PEACE_4,Принести журналы Вонану,Take the magazines to Bonan
+_060_VONAN_KARVAR_OBJECTIVE_QUEST_PEACE_1,Узнать про журналы,Find some info about the magazines
+_060_VONAN_KARVAR_DESCRIPTION_QUEST_PEACE_1,"Чтобы достать легендарное оружие, придется договориться с Вонаном","To acquire the legendary weapon, simply agree with Bonan"
+;061_ENCOUNTER_FOX/quest,,
+_061_ENCOUNTER_FOX_DESCRIPTION_QUEST_1,"На лису напали, надо срочно ей помочь",Someone attacked the fox. Help her.
+_061_ENCOUNTER_FOX_OBJECTIVE_QUEST_1,Убить нападающих,Kill the attackers.
+_061_ENCOUNTER_FOX_OBJECTIVE_QUEST_2,Поговорить с лисой,Talk with the fox.
+_061_ENCOUNTER_FOX_HEADER_QUEST_1,Спасти лису от грабителей,Rescue the fox from robbers.
+;062_HELP_FOR_FISHERMAN/quest,,
+_062_HELP_FOR_FISHERMAN_OBJECTIVE_QUEST_2,Поговорить с рыбаком,Talk with the fisherman
+_062_HELP_FOR_FISHERMAN_HEADER_QUEST_1,Помочь рыбаку,Help the fisherman
+_062_HELP_FOR_FISHERMAN_DESCRIPTION_QUEST_1,Рыбак даст резиновые сапоги только взамен на помощь,The fisherman will give his boots if you help him
+_062_HELP_FOR_FISHERMAN_OBJECTIVE_QUEST_1,Убить зыбуна,Kill the marshy monster
+;063_FIND_LOCKPICKS/quest,,
+_063_FIND_LOCKPICKS_OBJECTIVE_QUEST_1,Достать электронные отмычки,Find digital lock picks
+_063_FIND_LOCKPICKS_DESCRIPTION_QUEST_1,"Нужно достать вещи, необходимые для починки резервуара",Find items required to fix the tank
+_063_FIND_LOCKPICKS_OBJECTIVE_QUEST_2,Поговорить с главным роботом,Talk with the boss robot
+_063_FIND_LOCKPICKS_HEADER_QUEST_1,Подготовка к починке,Preparing for the repair
+;064_FIND_RESIN_BOOTS/quest,,
+_064_FIND_RESIN_BOOTS_OBJECTIVE_QUEST_1,Достать резиновые сапоги,Bring rain boots
+_064_FIND_RESIN_BOOTS_DESCRIPTION_QUEST_1,"Нужно достать вещи, необходимые для починки резервуара",Find items required to fix the tank
+_064_FIND_RESIN_BOOTS_OBJECTIVE_QUEST_2,Поговорить с главным роботом,Talk with the boss robot
+_064_FIND_RESIN_BOOTS_HEADER_QUEST_1,Подготовка к починке,Preparing for the repair
+;065_FIND_OIL/quest,,
+_065_FIND_OIL_OBJECTIVE_QUEST_1,Достать масло высшей пробы,Find high quality oil
+_065_FIND_OIL_DESCRIPTION_QUEST_1,"Нужно достать вещи, необходимые для починки резервуара",Find items required to fix the tank
+_065_FIND_OIL_OBJECTIVE_QUEST_2,Поговорить с главным роботом,Talk with the boss robot
+_065_FIND_OIL_HEADER_QUEST_1,Подготовка к починке,Preparing for the repair
+;066_FILL_UP_THE_RESERVOIR/quest,,
+_066_FILL_UP_THE_RESERVOIR_OBJECTIVE_QUEST_1,Взломать ворота,Open the gate
+_066_FILL_UP_THE_RESERVOIR_DESCRIPTION_QUEST_1,Все приготовления к починке закончены. Осталось только починить резервуар,Everything is ready for repairs. It’s left to fix the tank
+_066_FILL_UP_THE_RESERVOIR_OBJECTIVE_QUEST_2,Залить масло в резервуар,Pour oil in the tank
+_066_FILL_UP_THE_RESERVOIR_OBJECTIVE_QUEST_3,Поговорить с главным роботом,Talk with the boss robot
+_066_FILL_UP_THE_RESERVOIR_HEADER_QUEST_1,Починка резервуара,Fix the tank
+;067_WIN_THE_TROLL/quest,,
+_067_WIN_THE_TROLL_HEADER_QUEST_1,Договориться с троллями,Make a bargain with trolls.
+_067_WIN_THE_TROLL_OBJECTIVE_QUEST_1,Победить самого сильного тролля,Defeat the strongest troll.
+_067_WIN_THE_TROLL_OBJECTIVE_QUEST_2,Поговорить с главарем,Talk with the boss
+_067_WIN_THE_TROLL_DESCRIPTION_QUEST_1,"Тролль даст сапоги, только если победишь самого сильного тролля",The troll with give the boots if you defeat the strongest troll.
+;068_TRIBUTE_TO_GODS/quest,,
+_068_TRIBUTE_TO_GODS_OBJECTIVE_QUEST_2,Вернуться к троллю за наградой,Go back to the troll and get a reward.
+_068_TRIBUTE_TO_GODS_HEADER_QUEST_1,Дань богам,Tribute to the gods
+_068_TRIBUTE_TO_GODS_DESCRIPTION_QUEST_1,Нужно раздобыть шкур для богов. Ну по крайней мере тролль так говорит.,Bring skins for the gods. At least this is what the troll says.
+_068_TRIBUTE_TO_GODS_OBJECTIVE_QUEST_1,Раздобыть шкуры {{complete_count}}/{{target_count}},Find skins {{complete_count}}/{{target_count}}
+;069_FAKE_GODS/quest,,
+_069_FAKE_GODS_OBJECTIVE_QUEST_3,Вернуться к троллю и рассказать все,Go back to the troll and tell everything.
+_069_FAKE_GODS_OBJECTIVE_QUEST_2,Выяснить что происходит,Find out what's going on
+_069_FAKE_GODS_HEADER_QUEST_1,Гнев богов,Wrath of the gods
+_069_FAKE_GODS_OBJECTIVE_QUEST_1,Идти к тотему,Go to the totem
+_069_FAKE_GODS_DESCRIPTION_QUEST_1,"Нужно разобраться, что тут вообще происходит, кому тролли носят еду.",Find out what’s going on and who trolls bring food to.
+;070_IRON_MONSTER/quest,,
+_070_IRON_MONSTER_OBJECTIVE_QUEST_2,Вернуться к Стэну за наградой,Go back to Stan for the reward.
+_070_IRON_MONSTER_HEADER_QUEST_1,Железный монстр,Iron monster
+_070_IRON_MONSTER_DESCRIPTION_QUEST_1,Стэн попросил меня разобраться с железным монстром,Stan asked me to deal with the iron monster.
+_070_IRON_MONSTER_OBJECTIVE_QUEST_1,Убить железного монстра и забрать запчасти,Kill the iron monster and take parts.
+;071_FAMILIES_TRUST/quest,,
+_071_FAMILIES_TRUST_HEADER_QUEST_1,Доверие семей,Trust of families
+_071_FAMILIES_TRUST_OBJECTIVE_QUEST_2,Заслужить доверие бутлегерс,Earn trust of butleggers
+_071_FAMILIES_TRUST_OBJECTIVE_QUEST_3,Заслужить доверие райдерс,Earn trust of riders
+_071_FAMILIES_TRUST_DESCRIPTION_QUEST_1,Заслужить доверие семей,Earn trust of families
+_071_FAMILIES_TRUST_OBJECTIVE_QUEST_1,Заслужить доверие сталкерс,Earn trust of stalkers
+_071_FAMILIES_TRUST_OBJECTIVE_QUEST_4,Поговорить с помощником главаря,Talk to the boss assistant
+;072_LOST_STALKER/quest,,
+_072_LOST_STALKER_OBJECTIVE_QUEST_2,Вызволить реткина-сталкера,Rescue stalker ratkin
+_072_LOST_STALKER_DESCRIPTION_QUEST_1,Найти и вернуть пропавшего реткина-сталкера,Find and bring back the missing stalker ratkin
+_072_LOST_STALKER_OBJECTIVE_QUEST_1,Найти пропавшего реткина-сталкера,Find the missing stalker ratkin
+_072_LOST_STALKER_OBJECTIVE_QUEST_3,Поговорить с главой сталкеров,Talk with the boss of stalkers
+_072_LOST_STALKER_HEADER_QUEST_1,Пропавший сталкер,Missing stalker
+;073_ORANGE_CHIPS/quest,,
+_073_ORANGE_CHIPS_DESCRIPTION_QUEST_1,Достать микросхемы из обломков корабля.,Bring chips from the shuttle wrecks
+_073_ORANGE_CHIPS_OBJECTIVE_QUEST_1,Достать оранжевые микросхемы из обломков корабля,Bring orange chips from the shuttle wrecks
+_073_ORANGE_CHIPS_HEADER_QUEST_1,Найти микросхемы,Find chips
+_073_ORANGE_CHIPS_OBJECTIVE_QUEST_3,Принести микросхемы главе сталкеров,Bring the chips to the boss of stalkers
+;074_WHITE_DRINK/quest,,
+_074_WHITE_DRINK_OBJECTIVE_QUEST_1,Выпить виски,Drink whiskey
+_074_WHITE_DRINK_HEADER_QUEST_1,Доверие бутлеггерс,Trust of butleggers
+_074_WHITE_DRINK_OBJECTIVE_QUEST_2,Победить двух крыс,Defeat two rats
+_074_WHITE_DRINK_OBJECTIVE_QUEST_3,Поговорить с главой бутлеггерс,Talk with the boss of butleggers
+_074_WHITE_DRINK_DESCRIPTION_QUEST_1,Получить доверие бутлеггерс,Win trust of butleggers
+;075_PLANTATION_PROBLEM/quest,,
+_075_PLANTATION_PROBLEM_OBJECTIVE_QUEST_2,Поговорить с главой бутлеггерс,Talk with the boss of butleggers
+_075_PLANTATION_PROBLEM_HEADER_QUEST_1,Проблемы на плантации,Problems on the plantation
+_075_PLANTATION_PROBLEM_OBJECTIVE_QUEST_1,Решить проблемы на плантации,Solve problems on the plantation
+_075_PLANTATION_PROBLEM_DESCRIPTION_QUEST_1,"Чтобы заслужить доверие бутлеггерс, надо решить проблемы на плантации","To earn trust of butleggers, solve their problems with the plantation."
+;076_CATCH_THE_MONSTER/quest,,
+_076_CATCH_THE_MONSTER_DESCRIPTION_QUEST_1,"Вас попросили уладить проблему на плантации. Выследите, кто ворует ягоду и устраните вора любым способом",You were asked to solve the problem on the plantation. Track down who steals berries and get rid of the thief by any means.
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_15,Выбить информацию про ключ,Find out information about the key
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_19,Выбраться из подземелья,Escape from the dungeon
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_4,Идти по следам преступника,Track the thief
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_16,Найти ключ от крепкой двери,Find the key from the hard door
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_3,Осмотреть огород,Search the field
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_14,Открыть прочную дверь,Open the hard door
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_1,Поговорить с начальником плантации,Talk to the head of the plantation
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_2,Поговорить с охранником,Talk to the guard
+_076_CATCH_THE_MONSTER_HEADER_QUEST_1,Проблемы на плантации,Problems on the plantation
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_10,Проникнуть в логово монстра,Get into the monster’s lair
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_11,Проследовать по следу,Follow the tracks
+_076_CATCH_THE_MONSTER_OBJECTIVE_QUEST_18,Разобраться с реткином-вором,Deal with the ratkin thief
+;077_GET_FOX_ELIXIR/quest,,
+_077_GET_FOX_ELIXIR_HEADER_QUEST_1,Достать зелье транса,Get the trance potion
+_077_GET_FOX_ELIXIR_OBJECTIVE_QUEST_2,Достать рецепт зелья транса,Get the recipe of the trance potion
+_077_GET_FOX_ELIXIR_OBJECTIVE_QUEST_3,Поговорить с главой бутлеггерс,Talk with the boss of butleggers
+_077_GET_FOX_ELIXIR_DESCRIPTION_QUEST_1,"Узнать секретный рецепт лисьего зелья, с помощью которого шаманы лис входят в транс",Find the secret recipe of the fox potion that they use for experiencing trance state
+_077_GET_FOX_ELIXIR_OBJECTIVE_QUEST_1,"Узнать, где лиса-друид",Find the shaman fox
+;078_CRUSH_BLACK_COCOON/quest,,
+_078_CRUSH_BLACK_COCOON_DESCRIPTION_QUEST_1,"Лиса шаманка просит уничтожить черные коконы, так как в лесу развелось слишком много пауков",The shaman fox asks to destroy black cocoons as there are too many spiders in the forest.
+_078_CRUSH_BLACK_COCOON_OBJECTIVE_QUEST_2,Поговорить с лисой-шаманкой,Talk to the shaman fox
+_078_CRUSH_BLACK_COCOON_HEADER_QUEST_1,Уничтожить черные коконы,Destroy black cocoons
+;079_KILL_THE_GOLEM/quest,,
+_079_KILL_THE_GOLEM_OBJECTIVE_QUEST_4,Взять сердце духа земли,Take the heart of the earth spirit
+_079_KILL_THE_GOLEM_OBJECTIVE_QUEST_5,Выбраться из подземелья,Get out from dungeon
+_079_KILL_THE_GOLEM_HEADER_QUEST_1,Достать зелье транса,Get the trance potion
+_079_KILL_THE_GOLEM_OBJECTIVE_QUEST_6,Поговорить с лисой-шаманкой,Talk to the shaman fox
+_079_KILL_THE_GOLEM_OBJECTIVE_QUEST_1,Пробраться в логово духа земли,Get into the earth spirit lair
+_079_KILL_THE_GOLEM_DESCRIPTION_QUEST_1,"Узнать секретный рецепт лисьего зелья, с помощью которого шаманы лис входят в транс",Find the secret recipe of the fox potion that they use for experiencing trance state
+_079_KILL_THE_GOLEM_OBJECTIVE_QUEST_2,Усмирить духа земли,Calm down the earth spirit
+;080_HEARTS_OF_BARSES/quest,,
+_080_HEARTS_OF_BARSES_HEADER_QUEST_1,Допинг для животных,Dope for animals
+_080_HEARTS_OF_BARSES_OBJECTIVE_QUEST_3,Достать сердца барсов {{complete_count}}/{{target_count}},Bring panther hearts {{complete_count}}/{{target_count}}
+_080_HEARTS_OF_BARSES_OBJECTIVE_QUEST_1,Идти к месту обитания барсов,Go to panthers habitat
+_080_HEARTS_OF_BARSES_DESCRIPTION_QUEST_1,"Крысы хотят испытать новый допинг для животных, чтобы те лучше дрались на арене. Для рецепта допинга требуется 10 сердец барсов","Rats want to test their new dope for animals so they fight on the arena better. According to the recipe, they need 10 panther hearts."
+_080_HEARTS_OF_BARSES_OBJECTIVE_QUEST_4,Принести сердца барсов главе райдерс,Bring the hearts to the riders’ boss.
+_080_HEARTS_OF_BARSES_OBJECTIVE_QUEST_2,Убить барсов,Kill panthers
+;081_WIN_THE_TROLL/quest,,
+_081_WIN_THE_TROLL_HEADER_QUEST_1,Допинг для тролля,Dope for the troll
+_081_WIN_THE_TROLL_DESCRIPTION_QUEST_1,Лабораторные крысы райдерс создали допинг для животных и применили его на тролля. Они проверить его на деле. Ваша задача выжить в схватке с троллем.,Lab rider rats created a dope for animals and injected it to a troll. They want to test him now. Your task is to survive in the battle against the troll.
+_081_WIN_THE_TROLL_OBJECTIVE_QUEST_1,Победить в схватке с троллем,Defeat the troll
+_081_WIN_THE_TROLL_OBJECTIVE_QUEST_2,Поговорить с главой райдерс,Talk with the boss of riders
+;082_HELP_TO_DESERT_RETKINS/quest,,
+_082_HELP_TO_DESERT_RETKINS_DESCRIPTION_QUEST_1,Группа реткинов-рейдеров ушла в набег на пустынный осколок. Они передают сигнал бедствия и вам нужно разобраться с их проблемами,A group of ratkin riders went to a raid on the desert shard. They sent SOS signal and you have to deal with their problem.
+_082_HELP_TO_DESERT_RETKINS_OBJECTIVE_QUEST_4,Поговорить с главой Рейдерс,Talk with the boss of riders
+_082_HELP_TO_DESERT_RETKINS_OBJECTIVE_QUEST_3,Помочь группе рейдерсов выбраться с пустынного осколка,Help the group of riders escape the desert shard
+_082_HELP_TO_DESERT_RETKINS_OBJECTIVE_QUEST_2,Помочь рейдерсам отбиться от гнарков,Help riders defeat gnarks
+_082_HELP_TO_DESERT_RETKINS_OBJECTIVE_QUEST_1,Прийти на помощь к группе рейдерс,Help the group of riders
+_082_HELP_TO_DESERT_RETKINS_HEADER_QUEST_1,Рейдерсы в пустыне,Riders in the desert
+;083_FIND_WATER_FOR_RETKINS/quest,,
+_083_FIND_WATER_FOR_RETKINS_HEADER_QUEST_1,Доверие семей,Trust of families
+_083_FIND_WATER_FOR_RETKINS_DESCRIPTION_QUEST_1,Заслужить доверие семей,Earn trust of families
+_083_FIND_WATER_FOR_RETKINS_OBJECTIVE_QUEST_1,Набрать воды во фляжку,Fill the flask with water
+_083_FIND_WATER_FOR_RETKINS_OBJECTIVE_QUEST_2,Поговорить с предводителем группы,Talk to the group leader
+;084_TAKE_RETKINS_TO_PORTAL/quest,,
+_084_TAKE_RETKINS_TO_PORTAL_OBJECTIVE_QUEST_1,Добраться до пустынного портала,Reach the desert portal
+_084_TAKE_RETKINS_TO_PORTAL_DESCRIPTION_QUEST_1,Отвести группу реткинов и пленника-гнарка к порталу,Guide the group of riders and the captured gnark to the portal
+_084_TAKE_RETKINS_TO_PORTAL_OBJECTIVE_QUEST_4,Поговорить с предводителем группы,Talk to the group leader
+_084_TAKE_RETKINS_TO_PORTAL_OBJECTIVE_QUEST_2,Подавить восстание пленного гнарка,Crush a rebellion of the captured gnark
+_084_TAKE_RETKINS_TO_PORTAL_HEADER_QUEST_1,Путь к порталу,Way to the portal
+;085_RESCUE_FOX/quest,,
+_085_RESCUE_FOX_DESCRIPTION_QUEST_1,"Нужно вызволить эту лису, и узнать куда двинулась экспедиция.",Free the fox and find out where the expedition went.
+_085_RESCUE_FOX_HEADER_QUEST_1,Free the fox,Free the fox
+_085_RESCUE_FOX_OBJECTIVE_QUEST_4,Open the cage,Open the cage
+_085_RESCUE_FOX_OBJECTIVE_QUEST_2,Договориться с троллями,Agree with trolls
+_085_RESCUE_FOX_OBJECTIVE_QUEST_5,Talk to the fox,Talk to the fox
+_085_RESCUE_FOX_OBJECTIVE_QUEST_3,...Либо убить троллей,... Or to kill the trolls
+_085_RESCUE_FOX_OBJECTIVE_QUEST_1,"Выяснить, что с группой",Find group
+;086_RETKINS/quest,,
+_086_RETKINS_HEADER_QUEST_1,Выяснить про оружие у крыс,Ask the rats about their weapon
+_086_RETKINS_OBJECTIVE_QUEST_1,Достать информацию у крыс про секретное оружие,Ask rats about their secret weapon
+_086_RETKINS_DESCRIPTION_QUEST_1,"Нужно как-то втереться к ним в доверие, и разузнать подробнее про оружие.",Get a leg in rats and find out more about their weapon
+_086_RETKINS_OBJECTIVE_QUEST_2,Поговорить с лисом,Talk to the fox
+;IC_002_PACK/quest,,
+_IC_002_PACK_DESCRIPTION_QUEST_1,"Дейв сказал, что в лесном братстве мне могут помочь выбраться из этой дыры.",Dave said the forest brotherhood can help me get out of this hole.
+_IC_002_PACK_HEADER_QUEST_1,Лесное братство,Forest brotherhood
+_IC_002_PACK_OBJECTIVE_QUEST_1,Найти лесное братство,Find the forest brotherhood
+_IC_002_PACK_OBJECTIVE_QUEST_2,Найти лису шаманку,Find the shaman fox
+_IC_002_PACK_OBJECTIVE_QUEST_9,Поговорить с лидером лис,Talk to the boss of foxes
+_IC_002_PACK_OBJECTIVE_QUEST_7,Поговорить с лисом,Talk to the fox
+_IC_002_PACK_OBJECTIVE_QUEST_6,Помочь лису отбиться от крыс,Help the fox to defeat rats
+_IC_002_PACK_OBJECTIVE_QUEST_3,Следовать за экспедицией,Follow the expedition
+_IC_002_PACK_OBJECTIVE_QUEST_8,Убрать горящие деревья,Get rid of the burning trees
+;TEST_PACK/quest,,
+_TEST_PACK_OBJECTIVE_QUEST_2,Вернуться к Стэну за наградой,Return to Stan
+_TEST_PACK_HEADER_QUEST_1,Железный монстр,Iron Giant
+_TEST_PACK_DESCRIPTION_QUEST_1,Стэн попросил меня разобраться с железным монстром,Stan ask me to defeat the Iron Giant
+_TEST_PACK_OBJECTIVE_QUEST_1,Убить железного монстра и забрать запчасти,Kill Iron Giant and collect its parts
+_022_FIND_VILLY_OBJECTIVE_QUEST_1,Найти Вилли,Find Villy
+;087_COLLECTOR_MAN/quest,,
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_8,Выбраться из подземелья,Leave the dungeon
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_12,Забрать Камень Всемогущества,Take Stone of Omnipotence
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_2,Исследовать Пещеры Бесконечного Ужаса,Explore the Caves of Infinite Terror
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_10,Найти записи кладоискателя,Find Treasure Hunter's journal
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_9,Найти убежище кладоискателя в Моровых Топях,Find secret shelter in Plague Swamps
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_13,Поговорить с коллекционером,Talk with Collector
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_1,Пробраться в Пещеры Бесконечного Ужаса,Find entrance to the Caves of Infinite Terror
+_087_COLLECTOR_MAN_HEADER_QUEST_1,Проклятый камень,The Cursed Stone
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_3,Собрать страницы дневника (0/5),Collect journal pages (0/5)
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_4,Собрать страницы дневника (1/5),Collect journal pages (1/5)
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_5,Собрать страницы дневника (2/5),Collect journal pages (2/5)
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_6,Собрать страницы дневника (3/5),Collect journal pages (3/5)
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_7,Собрать страницы дневника (4/5),Collect journal pages (4/5)
+_087_COLLECTOR_MAN_OBJECTIVE_QUEST_11,Убить чудовище,Kill the monster
+_087_COLLECTOR_MAN_DESCRIPTION_QUEST_1,"Чтобы получить информацию от кладоискателя, для него надо достать проклятый камень.",I need to find Cursed Stone and exchange it for information.
+;088_TREASURE_HUNTER/quest,,
+_088_TREASURE_HUNTER_HEADER_QUEST_1,Допинг для тролля,Troll's dope
+_088_TREASURE_HUNTER_DESCRIPTION_QUEST_1,Лабораторные крысы райдерс создали допинг для животных и применили его на тролля. Они проверить его на деле. Ваша задача выжить в схватке с троллем.,Rats from Raiders gang create unique dope and use it on troll. Now I need to survive this battle.
+_088_TREASURE_HUNTER_OBJECTIVE_QUEST_1,Победить в схватке с троллем,Defeat the troll
+_088_TREASURE_HUNTER_OBJECTIVE_QUEST_2,Поговорить с главой райдерс,Talk with Raiders Godfather
+;089_SMITHS_LEADER/quest,,
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_4,... или договориться с Гнарками,...or make a deal with Gnarks
+_089_SMITHS_LEADER_DESCRIPTION_QUEST_1,"Демоны обладают обширными познаниями в области путешествий между осколками, но также они чересчур алчные. Придется выполнить их поручения взамен информации",The Forgers knows a lot about tra welling between the worlds. And they are true businessmen. So I need to work for them.
+_089_SMITHS_LEADER_HEADER_QUEST_1,Металлическая угроза,Full Metal Threat
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_3,Перебить Гнарков и освободить город,Kill all Gnarks and free the city
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_1,Поговорить с главой Кузнецов,Talk with Forgers leader
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_7,Посетить мастера Кузнецов,Talk with master blacksmith
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_6,Предложить гнаркам компенсацию,Ask Gnarks about compensation
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_5,Предъявить Люцифреду ультиматум,Deliver an ultimatum to Lucifred
+_089_SMITHS_LEADER_OBJECTIVE_QUEST_2,"Узнать, почему возникли перебои с рудой",Learn why problems with ore supply happened
+;090_TROUBLES_IN_MINING/quest,,
+_090_TROUBLES_IN_MINING_OBJECTIVE_QUEST_1,"Выяснить, что произошло на шахте",Investigate the mine situation
+_090_TROUBLES_IN_MINING_OBJECTIVE_QUEST_2,Договориться с кузнецами для гнарков,Make a deal with Forgers
+_090_TROUBLES_IN_MINING_OBJECTIVE_QUEST_3,Поговорить с гнарком-лидером,Talk with Gnark Leader
+_090_TROUBLES_IN_MINING_HEADER_QUEST_1,Проблемы на шахте,Trouble Mine
+_090_TROUBLES_IN_MINING_DESCRIPTION_QUEST_1,"С шахты прекратились поставки руды, надо решить вопрос",There is some problems with ore delivery from nearest mine city. We need to learn more.
+;091_TROUBLES_IN_TRANSLATIONS/quest,,
+_091_TROUBLES_IN_TRANSLATIONS_OBJECTIVE_QUEST_6,Вернуться к негоцианту,Return to Manfred the Polyglot
+_091_TROUBLES_IN_TRANSLATIONS_DESCRIPTION_QUEST_1,"Вы решили научиться понимать язык троллей, гнарков и големов. На счастье у местного робота есть нужное устройство. Осталось только заполнить его словами","You have decided to learn to understand the language of the Trolls, Golems, and Gnarks. Fortunately, you met Manfred, local polyglot, who has an automatic translator. You only need to fill it with words."
+_091_TROUBLES_IN_TRANSLATIONS_OBJECTIVE_QUEST_2,Купить универсальный переводчик,Buy universal translator
+_091_TROUBLES_IN_TRANSLATIONS_OBJECTIVE_QUEST_3,Научить переводчик языкам гнарков,Fill translator with gnark words
+_091_TROUBLES_IN_TRANSLATIONS_OBJECTIVE_QUEST_4,Научить переводчик языкам големов,Fill translator with golem words
+_091_TROUBLES_IN_TRANSLATIONS_OBJECTIVE_QUEST_5,Научить переводчик языкам троллей,Fill translator with troll words
+_091_TROUBLES_IN_TRANSLATIONS_OBJECTIVE_QUEST_1,Поговорить с болтливым роботом,Talk to Manfred the Polyglot
+_091_TROUBLES_IN_TRANSLATIONS_HEADER_QUEST_1,Трудности перевода,Lost in Translation
+;092_TAKE_GNARKS_WORDS/quest,,
+_092_TAKE_GNARKS_WORDS_OBJECTIVE_QUEST_3,Победить в первом раунде боев на арене,Win the first round
+_092_TAKE_GNARKS_WORDS_OBJECTIVE_QUEST_5,Победить в третьем раунде боев на арене,Win the third round. Good luck!
+_092_TAKE_GNARKS_WORDS_OBJECTIVE_QUEST_4,Победить во втором раунде боев на арене,Win the second round
+_092_TAKE_GNARKS_WORDS_OBJECTIVE_QUEST_6,Поговорить с вожаком гнарков,Talk with Gnark Leader
+_092_TAKE_GNARKS_WORDS_OBJECTIVE_QUEST_1,Попытаться поговорить с вожаком гнарков,Try to talk with Gnark Leader
+_092_TAKE_GNARKS_WORDS_HEADER_QUEST_1,Трудности перевода: гнарки,Lost in Translation: Gnarkish
+_092_TAKE_GNARKS_WORDS_OBJECTIVE_QUEST_2,Узнать как можно больше новых слов гнарков,Learn a lot of new gnark words
+_092_TAKE_GNARKS_WORDS_DESCRIPTION_QUEST_1,"Чтобы научиться говорить на языке гнарков, надо набраться от них словечек и записать их в переводчик. Надо повыполнять задания гнарков","To learn Gnarkish, I need to know more Gnark words. It's time to meet these savages."
+;093_TAKE_GOLEMS_WORDS/quest,,
+_093_TAKE_GOLEMS_WORDS_OBJECTIVE_QUEST_5,Вернуть Великую Каменюку на место,Return the Holy Rock Thing
+_093_TAKE_GOLEMS_WORDS_OBJECTIVE_QUEST_4,Выжить 1 минуту. Не убивать големов!,Survive for one minute. Don't kill the Golems!
+_093_TAKE_GOLEMS_WORDS_OBJECTIVE_QUEST_1,Попытаться поговорить с големом,Try to talk with the Golem
+_093_TAKE_GOLEMS_WORDS_OBJECTIVE_QUEST_3,"Спровоцировать големов, похитив Великую Каменюку",Provoke the Golems: steal the Holy Rock Thing!
+_093_TAKE_GOLEMS_WORDS_HEADER_QUEST_1,Трудности перевода: големы,Lost in Translation: Golemian
+_093_TAKE_GOLEMS_WORDS_OBJECTIVE_QUEST_2,Узнать как можно больше новых слов големов,Learn a lot of new golem words
+_093_TAKE_GOLEMS_WORDS_DESCRIPTION_QUEST_1,"Чтобы научиться говорить на языке големов, надо набраться от них словечек и записать их в переводчик. Надо повыполнять задания големов","To learn golemian, I need to know more golem words. But they are so silent usually."
+_093_GOLEM_PHRASE_0,Грррх!!!,Hm hmm Hmmm-Hm!
+_093_GOLEM_PHRASE_1,Грррх!!,Hmm-Hm-Hmm!!!
+_093_GOLEM_PHRASE_2,Ббрбрбр!!,Hm hm hm hhm hmm hm!!!
+_093_GOLEM_PHRASE_3,Урбффх!!,Hm hm-hmm-hm Hmm-Hm!
+_093_GOLEM_PHRASE_4,Кррррккх!!,Hm hm hm hm hm hm hm hmm!
+_093_GOLEM_PHRASE_5,ДррГРРР!!,Hmmmmm hmmm hm!
+_093_GOLEM_PHRASE_6,БФБФБФ!!!,HM HMM HMMM HMMMM!!!
+;094_TAKE_TROLLS_WORDS/quest,,
+_094_TAKE_TROLLS_WORDS_OBJECTIVE_QUEST_1,Попытаться поговорить с троллем,Try to talk with the Trolls
+_094_TAKE_TROLLS_WORDS_OBJECTIVE_QUEST_5,Разрушить восточное логово барсов,Destroy the eastern leopard lair
+_094_TAKE_TROLLS_WORDS_OBJECTIVE_QUEST_7,Разрушить северное логово барсов,Destroy the northern leopard lair
+_094_TAKE_TROLLS_WORDS_OBJECTIVE_QUEST_3,Разрушить южное логово барсов,Destroy the southern leopard lair
+_094_TAKE_TROLLS_WORDS_HEADER_QUEST_1,Трудности перевода: тролли,Lost in Translation: Trollese
+_094_TAKE_TROLLS_WORDS_OBJECTIVE_QUEST_2,Узнать как можно больше новых слов троллей,Learn a lot of new Troll words
+_094_TAKE_TROLLS_WORDS_DESCRIPTION_QUEST_1,"Чтобы научиться говорить на языке троллей, надо набраться от них словечек и записать их в переводчик. Надо повыполнять задания троллей","To learn Trollese, I need to know more Troll words. Maybe they'll need my help with something."
+;095_WRONG_PRISONER/quest,,
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_3,Выяснить у троллей причину ареста,Ask trolls about prisoner
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_4,Договориться с бандой мародеров,Make a deal with marauders gang
+_095_WRONG_PRISONER_DESCRIPTION_QUEST_1,"Есть человек, очень похожий на нас. Надо его найти и расспросить. Возможно он знает как выбраться","There is a human who ""looks exactly like you, boy"". I need to find this guy."
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_2,Найти торговца,Find merchant
+_095_WRONG_PRISONER_HEADER_QUEST_1,Неправильный пленник,Wrong Prisoner
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_6,Освободить торговца из клетки,Free merchant from the cage
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_1,Поговорить с Люцифредом,Talk with Lucifred
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_7,Поговорить с торговцем,Talk with merchant
+_095_WRONG_PRISONER_OBJECTIVE_QUEST_5,Поговорить с троллями,Talk with Trolls
+;096_MARAUDERS/quest,,
+_096_MARAUDERS_OBJECTIVE_QUEST_3,Зачистить территорию от барсов,Clean the area from leopards
+_096_MARAUDERS_OBJECTIVE_QUEST_1,Зачистить территорию от ледяных големов,Clean the area from snow golems
+_096_MARAUDERS_HEADER_QUEST_1,Земли для мародеров,Land for Marauders
+_096_MARAUDERS_DESCRIPTION_QUEST_1,Мародеры перестанут ходить на осколок троллей только если мы очистим для них другой осколок,Marauders needs a new safe land for exploration
+_096_MARAUDERS_OBJECTIVE_QUEST_5,Поговорить с мародерами,Talk with marauders
+;097_PIRATES_LEADER/quest,,
+_097_PIRATES_LEADER_OBJECTIVE_QUEST_3,Освободить Бена,Free Ben
+_097_PIRATES_LEADER_OBJECTIVE_QUEST_4,Получить награду от капитана,Get reward from pirate captain
+_097_PIRATES_LEADER_OBJECTIVE_QUEST_1,Расспросить пиратов,Ask pirates
+_097_PIRATES_LEADER_HEADER_QUEST_1,Сталь и камень,Steel and Stone
+_097_PIRATES_LEADER_OBJECTIVE_QUEST_2,"Узнать, что случилось с первым помощником",Find out what happened with first assistant Ben
+_097_PIRATES_LEADER_DESCRIPTION_QUEST_1,"Чтобы получить карту, надо помочь роботам-пиратам с их проблемой",I need to help pirate captain to find the way to the Created
+;098_FIND_PIRATES_LEADER/quest,,
+_098_FIND_PIRATES_LEADER_DESCRIPTION_QUEST_1,Найти лидера пиратов,Find pirate captain
+_098_FIND_PIRATES_LEADER_HEADER_QUEST_1,Пиратская карта,Pirate card
+_098_FIND_PIRATES_LEADER_OBJECTIVE_QUEST_1,Поговорить с пиратом,Talk to pirate
+;099_FIND_BOSS_TREASURE_HUNTER/quest,,
+_099_FIND_BOSS_TREASURE_HUNTER_OBJECTIVE_QUEST_1,Найти Великого Кладоискателя,Find the Great Treasure Hunter
+_099_FIND_BOSS_TREASURE_HUNTER_DESCRIPTION_QUEST_1,Найти лидера пиратов,Find pirate captain
+_099_FIND_BOSS_TREASURE_HUNTER_HEADER_QUEST_1,Пиратская карта,Pirate map
+_099_FIND_BOSS_TREASURE_HUNTER_OBJECTIVE_QUEST_2,Потребовать карту у Кладоискателя,Demand the map
+;100_BOSS_TREASURE_HUNTER/quest,,
+_100_BOSS_TREASURE_HUNTER_DESCRIPTION_QUEST_1,Найти лидера пиратов,Find Pirate Leader
+_100_BOSS_TREASURE_HUNTER_HEADER_QUEST_1,Пиратская карта,Pirate map
+_100_BOSS_TREASURE_HUNTER_OBJECTIVE_QUEST_2,Победить Великого Кладоискателя,Defeat the Great Treasure Hunter
+_100_BOSS_TREASURE_HUNTER_OBJECTIVE_QUEST_1,Потребовать карту у Великого Кладоискателя,Demand the map..again (sigh)
+;101_FIND_COLLECTOR_MAN/quest,,
+_101_FIND_COLLECTOR_MAN_HEADER_QUEST_1,Коллекционер,The Collector
+_Q093_TOO_FAR_RUN_MESSAGE,Слишком далеко отбежал,Too far run
+NOTIFICATION_RETURN_TO_ZONE,Вернуться в область,Return to zone
+_101_FIND_COLLECTOR_MAN_DESCRIPTION_QUEST_1,Найти коллекционера,Find the Collector
+_101_FIND_COLLECTOR_MAN_OBJECTIVE_QUEST_1,Найти Коллекционера,Find the Collector
+_101_FIND_COLLECTOR_MAN_OBJECTIVE_QUEST_2,Поговорить с коллекционером,Talk to the Collector
+;102_FIND_SMITHS/quest,,
+_102_FIND_SMITHS_HEADER_QUEST_1,Кузнецы,The Forgers
+_102_FIND_SMITHS_OBJECTIVE_QUEST_0,Обновить портал перемещений,Refresh movements portal
+_102_FIND_SMITHS_DESCRIPTION_QUEST_1,Найти Кузнецов,Find the Forgers
+_102_FIND_SMITHS_OBJECTIVE_QUEST_2,Поговорить с Кузнецами,Talk to the Forgers
+;IC_003_PACK/quest,,
+_IC_003_PACK_HEADER_QUEST_1,,Lost in Translation
+_IC_003_PACK_DESCRIPTION_QUEST_1,,There is a lot of creatures in the world. You need to learn as many languages as you can. It will be really helpful.
+_IC_003_PACK_OBJECTIVE_QUEST_2,,Find the Forest Brotherhood
+_093_GOLEM_PHRASE_7,HM-HMM,HM-HMM
+_093_GOLEM_PHRASE_8,HMMM-HMM,HMMM-HMM
+_093_GOLEM_PHRASE_9,HMM-HMM,HMM-HMM
+;104_AND_FURTHER_TO_INFINITY/quest,,
+_104_AND_FURTHER_TO_INFINITY_HEADER_QUEST_1,В поисках Цитадели: В бесконечность и дальше!,In search of the Citadel: The infinity and beyond!
+_104_AND_FURTHER_TO_INFINITY_OBJECTIVE_QUEST_5,Доложить об успешном запуске,To report the successful launch
+_104_AND_FURTHER_TO_INFINITY_OBJECTIVE_QUEST_3,Запустить второй зонд,Start a second probe
+_104_AND_FURTHER_TO_INFINITY_OBJECTIVE_QUEST_2,Запустить первый зонд,Start the first probe
+_104_AND_FURTHER_TO_INFINITY_OBJECTIVE_QUEST_4,Запустить третий зонд,Start the third probe
+_104_AND_FURTHER_TO_INFINITY_DESCRIPTION_QUEST_1,Роботы предлагают присоединиться к ним в исследованиях. Наша текущая задача: запустить исследовательские зонды к Центру.,Robots offer to join them in research. Our current task: to launch research probes to the Center.
+_104_AND_FURTHER_TO_INFINITY_OBJECTIVE_QUEST_1,Узнать больше о Созданиях,Learn more about creating
+;105_BRILLIANT_AND_DEADLY/quest,,
+_105_BRILLIANT_AND_DEADLY_OBJECTIVE_QUEST_2,Достать адамантин {{complete_count}}/{{target_count}},Get adamantine {{complete_count}} / {{target_count}}
+_105_BRILLIANT_AND_DEADLY_OBJECTIVE_QUEST_3,,
+_105_BRILLIANT_AND_DEADLY_DESCRIPTION_QUEST_1,,
+_105_BRILLIANT_AND_DEADLY_OBJECTIVE_QUEST_4,Принести адамантин главному инженеру-киборгу,Bring adamantium chief engineer-cyborg
+_105_BRILLIANT_AND_DEADLY_OBJECTIVE_QUEST_1,Поговорить с главным инженером-киборгом,Talk to the chief engineer-cyborg
+_105_BRILLIANT_AND_DEADLY_HEADER_QUEST_1,Сверкающий и смертоносный,Brilliant and deadly
+;106_FIND_CREATURE_SCIENTIST/quest,,
+_106_FIND_CREATURE_SCIENTIST_DESCRIPTION_QUEST_1,"Пока зонды не вернулись из космоса, надо найти главного инженера-киборга и выполнить его задания.","While the probes did not return from space, it is necessary to find the chief engineer of the cyborg and do his job."
+_106_FIND_CREATURE_SCIENTIST_OBJECTIVE_QUEST_1,Найти главного инженера-киборга,Find the chief engineer-cyborg
+_106_FIND_CREATURE_SCIENTIST_OBJECTIVE_QUEST_2,Поговорить с главным инженером-киборгом,Talk to the chief engineer-cyborg
+_106_FIND_CREATURE_SCIENTIST_HEADER_QUEST_1,Найти инженера,Find engineer
+;107_KILL_ELECTRO_MONSTER/quest,,
+_107_KILL_ELECTRO_MONSTER_DESCRIPTION_QUEST_1,"Есть смертоносный монстр, которого мы можем попробовать одолеть. Монстр механический и особо усиленный, победить его можно только электричеством (скиллами кристаллического Голиафа).","There is a deadly monster that we can try to overcome. Monster mechanical and highly amplified, it can be overcome only by electricity (skills crystalline Goliath)."
+_107_KILL_ELECTRO_MONSTER_OBJECTIVE_QUEST_4,Поделиться впечатлениями с инженером,Share your experiences with engineer
+_107_KILL_ELECTRO_MONSTER_OBJECTIVE_QUEST_1,Скрафтить кристаллического голиафа,Crafted crystal goliath
+_107_KILL_ELECTRO_MONSTER_HEADER_QUEST_1,Электро-монстр,Electro-monster
+_107_KILL_ELECTRO_MONSTER_OBJECTIVE_QUEST_2,Убить электро-монстра с помощью кристаллического Голиафа,Kill Electrical monster using crystalline Goliath
+;108_GO_TO_MAIN_CREATURE/quest,,
+_108_GO_TO_MAIN_CREATURE_HEADER_QUEST_1,В поисках цитадели,In search of the citadel
+_108_GO_TO_MAIN_CREATURE_OBJECTIVE_QUEST_1,Найти созданий,Find creatures
+_108_GO_TO_MAIN_CREATURE_OBJECTIVE_QUEST_2,Поговорить с созданиями,Talk to creatures
+_108_GO_TO_MAIN_CREATURE_DESCRIPTION_QUEST_1,Надо отыскать и поговорить с созданиями. Они знают что делать дальше.,It is necessary to find and talk to the creatures. They know what to do next.
+;109_CASUS_BELLI/quest,,
+_109_CASUS_BELLI_HEADER_QUEST_1,В поисках цитадели: Casus Belli,In search of the citadel: Casus Belli
+_109_CASUS_BELLI_OBJECTIVE_QUEST_5,Вернуть зонды Созданиям,Return probes Creatures
+_109_CASUS_BELLI_OBJECTIVE_QUEST_3,Добыть зонд в диких лесах,Get the probe into the wild woods
+_109_CASUS_BELLI_OBJECTIVE_QUEST_2,Добыть зонд в пустыне,Get the probe in the desert
+_109_CASUS_BELLI_OBJECTIVE_QUEST_1,Добыть зонд из сердца джунглей,Get the probe from the heart of the jungle
+_109_CASUS_BELLI_DESCRIPTION_QUEST_1,"Датчики успешно вернулись обратно. Правда, их изрядно раскидали – видимо, что-то пошло не так. Нам нужно собрать их и принести для анализа.","Sensors successfully returned. However, their pretty scattered - apparently something went wrong. We need to collect them and bring to the analysis."
+_109_CASUS_BELLI_OBJECTIVE_QUEST_6,Принять участие в переговорах,To take part in negotiations
+;110_EXPLORER_IN_JUNGLE/quest,,
+_110_EXPLORER_IN_JUNGLE_HEADER_QUEST_1,Да здравствует Король!,Long live the king!
+_110_EXPLORER_IN_JUNGLE_DESCRIPTION_QUEST_1,"Один из зондов попал в джунгли к пигмеям. Чтобы его получить, нужно выполнить задания пигмеев.","One of the probes was in the jungle to the pygmies. To get it, you need to perform the task of pygmies."
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_2,Победить гигантского динозавра,Defeating the giant dinosaur
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_4,Подложить трофей Королю,Lay trophy King
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_10,Провести церемонию пигмейского бракосочетания,To conduct the wedding ceremony Pygmy
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_6,Разобраться с пропажей урожая,Deal with the disappearance of the crop
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_8,Рассказать пигмеям о доблести Короля,Share pygmies of the valor of the King
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_5,Узнать о Втором Подвиге,Learn about the second feat
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_1,Узнать о первом подвиге,Learn about the first feat
+_110_EXPLORER_IN_JUNGLE_OBJECTIVE_QUEST_9,Узнать о Третьем Подвиге,Learn about the Third Podvig
+;111_TEAM_GAME/quest,,
+_111_TEAM_GAME_OBJECTIVE_QUEST_3,,
+_111_TEAM_GAME_OBJECTIVE_QUEST_5,Поднять мяч,Raise the ball
+_111_TEAM_GAME_OBJECTIVE_QUEST_4,...Или достать мяч для гнарков,... Or the ball to gnarkov
+_111_TEAM_GAME_OBJECTIVE_QUEST_7,...Или забрать зонд силой,... Or take the power of the probe
+_111_TEAM_GAME_OBJECTIVE_QUEST_6,Отдать мяч футболистам и получить зонд,Give the players a ball and a probe
+_111_TEAM_GAME_DESCRIPTION_QUEST_1,"Один из зондов попал в руки к гнаркам-футболистам. Чтобы его получить, нужно выполнить их задания.","One of the probes into the hands of a gnarkam-players. To get it, you need to perform their jobs."
+_111_TEAM_GAME_OBJECTIVE_QUEST_8,Поговорить с лидером гнарков,Talk to the leader gnarkov
+_111_TEAM_GAME_HEADER_QUEST_1,Командная игра,Team play
+_111_TEAM_GAME_OBJECTIVE_QUEST_2,Купить зонд у футболистов,Buy probe in football
+_111_TEAM_GAME_OBJECTIVE_QUEST_1,Поговорить с гнарками-футболистами,Talk to gnarkami-players
+;112_SECRET_RELIGION/quest,,
+_112_SECRET_RELIGION_OBJECTIVE_QUEST_3,Дождаться информации от Дейва,Wait for information from Dave
+_112_SECRET_RELIGION_OBJECTIVE_QUEST_2,Поговорить с Дейвом,Talk with Dave
+_112_SECRET_RELIGION_DESCRIPTION_QUEST_1,"Дейв поможет достать координаты цитадели, пока надо заняться другими делами...","Dave will help to get the coordinates of the citadel, it is necessary to do other things ..."
+_112_SECRET_RELIGION_HEADER_QUEST_1,Тайная религия,The Secret religion
+_112_SECRET_RELIGION_OBJECTIVE_QUEST_1,Попытаться узнать координаты цитадели,Try to find the coordinates of the citadel
+;113_SECRET_OF_FORGERS/quest,,
+_113_SECRET_OF_FORGERS_DESCRIPTION_QUEST_1,"Чтобы узнать секреты Кузнецов, надо любым способом заработать репутацию.","To learn the secrets of Kuznetsov, should be in any way to make a reputation."
+_113_SECRET_OF_FORGERS_HEADER_QUEST_1,Секреты Кузнецов,Secrets Kuznetsov
+_113_SECRET_OF_FORGERS_OBJECTIVE_QUEST_1,Попытаться узнать секреты Кузнецов,Try to learn the secrets of Kuznetsov
+_113_SECRET_OF_FORGERS_OBJECTIVE_QUEST_2,Стать лучшим другом Кузнецов {{current_count}}/{{target_count}},Become the best friend Kuznetsov {{current_count}} / {{target_count}}
+_113_SECRET_OF_FORGERS_OBJECTIVE_QUEST_3,Узнать у Кузнецов секрет постройки телепорта,Learn from Kuznetsov secret teleport buildings
+_ITEM_Q111_FOOTBALL_BALL_NAME,Soccer ball,Soccer ball
+_ITEM_Q111_FOOTBALL_BALL_DESCRIPTION,Soccer ball,Soccer ball
+_ITEM_Q116_COORDS_OF_CITADEL_NAME,Coords of citadel,Coords of citadel
+_ITEM_Q116_COORDS_OF_CITADEL_DESCRIPTION,Coords of citadel description,Coords of citadel description
+;114_SECRET_OF_FOXES/quest,,
+_114_SECRET_OF_FOXES_OBJECTIVE_QUEST_1,Попытаться узнать секрет проведения ритуала,Try to learn the secret of the ritual
+_114_SECRET_OF_FOXES_HEADER_QUEST_1,Секреты Братства,Secrets of the Brotherhood
+_114_SECRET_OF_FOXES_OBJECTIVE_QUEST_2,Стать лучшим другом Братства {{current_count}}/{{target_count}},Become the best friend of the Brotherhood {{current_count}} / {{target_count}}
+_114_SECRET_OF_FOXES_OBJECTIVE_QUEST_3,Узнать у Братства секрет проведения ритуала,Learn the secret of the Brotherhood of the ritual
+_114_SECRET_OF_FOXES_DESCRIPTION_QUEST_1,"Чтобы узнать секреты Братства, надо любым способом заработать репутацию.","To learn the secrets of the Brotherhood, it is necessary to earn a reputation in any way."
+;115_FORGOTTEN_SINS/quest,,
+_115_FORGOTTEN_SINS_OBJECTIVE_QUEST_4,Встретить шамана в деревне,Meet the shaman in the village
+_115_FORGOTTEN_SINS_OBJECTIVE_QUEST_1,Найти шамана,Find shaman
+_115_FORGOTTEN_SINS_OBJECTIVE_QUEST_6,Отправиться к Святым Землям Созданий,To go to the Holy Land Creatures
+_115_FORGOTTEN_SINS_OBJECTIVE_QUEST_2,Посетить Замок Воздаяния,Visit Castle of Retribution
+_115_FORGOTTEN_SINS_OBJECTIVE_QUEST_3,Уничтожить Замок,Destroy the Castle
+_115_FORGOTTEN_SINS_OBJECTIVE_QUEST_5,Усилить портал перемещений,Strengthen movement portal
+;116_SECRETS_OF_CREATURES/quest,,
+_116_SECRETS_OF_CREATURES_OBJECTIVE_QUEST_3,Вернуться к Патриарху,Back to the Patriarch
+_116_SECRETS_OF_CREATURES_OBJECTIVE_QUEST_4,Найти в Хранилище Знаний координаты Цитадели,Find in Knowledge Warehouse coordinates Citadel
+_116_SECRETS_OF_CREATURES_OBJECTIVE_QUEST_1,Познакомиться с Патриархом Созданий,Meet Patriarch Creations
+_116_SECRETS_OF_CREATURES_HEADER_QUEST_1,Секреты Созданий,Secrets Creations
+_116_SECRETS_OF_CREATURES_OBJECTIVE_QUEST_2,Стать лучшим другом Созданий {{current_count}}/{{target_count}},Become the best friend Creations {{current_count}} / {{target_count}}
+_116_SECRETS_OF_CREATURES_DESCRIPTION_QUEST_1,"Чтобы получить координаты пустоты, надо стать другом для созданий. А для этого надо выполнить их задания.","To get the coordinates of emptiness, we must be more to build. And for this it is necessary to perform their job."
+;117_NOWHERE_NEAR/quest,,
+_117_NOWHERE_NEAR_HEADER_QUEST_1,Ближе некуда,Closer nowhere
+_117_NOWHERE_NEAR_OBJECTIVE_QUEST_4,Найти самую высокую точку снежного высокогорья,Find the highest point of the snow highlands
+_117_NOWHERE_NEAR_OBJECTIVE_QUEST_5,Найти точку силы в джунглях,Find a point of strength in the jungle
+_117_NOWHERE_NEAR_OBJECTIVE_QUEST_6,Найти центр Первого Мира,Find the center of the First World
+_117_NOWHERE_NEAR_OBJECTIVE_QUEST_3,Обратиться за помощью к Братству,Consult the Brotherhood
+_117_NOWHERE_NEAR_OBJECTIVE_QUEST_1,Обратиться за помощью к Кузнецам,Consult the blacksmiths
+_117_NOWHERE_NEAR_OBJECTIVE_QUEST_2,Обратиться за помощью к Созданиям,Call for help to the creation of
+_117_NOWHERE_NEAR_DESCRIPTION_QUEST_1,"Чтобы усовершенствовать портал для прыжка в пустоту, нужны помощники. В одиночку не справиться. Надо выбрать, кто будет помогать и приступать к делу.","To improve the portal to leap into the void, we need helpers. In not cope alone. We must choose who will help and get down to business."
+;118_ZERO/quest,,
+_118_ZERO_DESCRIPTION_QUEST_1,Мир Ноль обнаружен. Это опасное место и Дейв решил идти туда сам. Надо идти выручать Дейва.,World Zero detected. This is a dangerous place and Dave decided to go there myself. We have to go help out Dave.
+_118_ZERO_OBJECTIVE_QUEST_3,Найти Дейва,Find Dave
+_118_ZERO_HEADER_QUEST_1,Ноль,Zero
+_118_ZERO_OBJECTIVE_QUEST_1,Отправиться в Мир Ноль,To go to the World Zero
+_118_ZERO_OBJECTIVE_QUEST_6,Отправиться в Цитадель,To go to the Citadel
+_118_ZERO_OBJECTIVE_QUEST_2,Поговорить с хранителем Мира Ноль,Talk to the guardian of the World Zero
+_118_ZERO_OBJECTIVE_QUEST_5,Построить телепорт Цитадели,Build teleport Citadel
+_118_ZERO_OBJECTIVE_QUEST_4,Уничтожить Стража Цитадели,Destroy Guard of the Citadel
+;119_WELCOME_TO_THE_VOID/quest,,
+_119_WELCOME_TO_THE_VOID_HEADER_QUEST_1,"Добро пожаловать в Пустоту, приятель","Welcome to the Void, mate"
+_119_WELCOME_TO_THE_VOID_OBJECTIVE_QUEST_1,Изучить Цитадель,Explore the Citadel
+_119_WELCOME_TO_THE_VOID_DESCRIPTION_QUEST_1,Ответы уже близко. Осталось только пойти и взять их.,Answers at hand. It remains only to go and take them.
+_119_WELCOME_TO_THE_VOID_OBJECTIVE_QUEST_5,Победить Пустоту,Defeat the Void
+_119_WELCOME_TO_THE_VOID_OBJECTIVE_QUEST_4,Поговорить с Дейвом,Talk with Dave
+;103_FIND_CREATURES/quest,,
+_103_FIND_CREATURES_DESCRIPTION_QUEST_1,"Надо прыгнуть на мир с Созданиями, они знают что делать дальше","It is necessary to jump to the world of creation, they know what to do next"
+_103_FIND_CREATURES_OBJECTIVE_QUEST_0,Обновить портал перемещений,Refresh movements portal
+_103_FIND_CREATURES_OBJECTIVE_QUEST_1,Найти созданий,Find creatures
+_103_FIND_CREATURES_HEADER_QUEST_1,Найти Созданий,Find Creations
+_103_FIND_CREATURES_OBJECTIVE_QUEST_2,Поговорить с Созданиями,Talk with the creation of

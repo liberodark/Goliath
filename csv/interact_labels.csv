@@ -1,0 +1,88 @@
+sep=,,
+; Interact labels,,
+_SCIFICHEST_NAME,Техносундук,Hitech-chest
+_TREESCIFI_NAME,Технодерево,Hitech-tree
+_TREASURECROSS_NAME,Сокровище,Treasure
+_BONFIRE_LABEL,Костер,Fire
+_CHEST_LABEL,Сундук,Chest
+_CAMP_LABEL,Палатка,Tent
+_CAMPFIRE_LABEL,Костер,Fire
+_MECHMAKER_LABEL,Мехмейкер,Goliath Construction
+_WEAPONMAKER_LABEL,Оружейный верстак (Уровень {{level}}),Weapon Station
+_WORKBENCH_LABEL,Верстак,Workbench
+_AIRBOMB_LABEL,Авиабомба,Air bomb
+_PORTAL_LABEL,Портал,Portal
+_MECHDRONT_LABEL,Робод-ронт,Mech bird
+_TRAP_LABEL,Ловушка,Trap
+_TRAPWITHBERRY_LABEL,Ловушка с ягодой,Trap with berries
+_PORTALPOWER_LABEL,Активированная колонна,Activated portal
+_GARAGE_LABEL,Гараж для мехов,Goliath storage
+_ENERGYCRYSTAL_NAME,Энергокристалл,Energy Crystall
+; Normal names,,
+_CORPSE_NAME,Надгробье,Headstone
+_BONFIRE_NAME,Костер,Fire
+_BREVNO_NAME,Бревно,Rotten log
+_CARWHEELS_NAME,Куча дисков,Odds and ends
+_GARBAGE_NAME,Куча мусора,Rubbish
+_GNEZDO_NAME,Гнездо,Nest
+_PENEK_NAME,Пенек,Rotten stub
+_SHALASH_NAME,Шалаш,Hut
+_SLOTMACHINE_NAME,Игровой автомат,Casino machine
+_SODA_NAME,Автомат с газировкой,Vending machine
+_TABLE_NAME,Письменный стол,Writing desk
+_TIRESBUNCH_NAME,Куча покрышек,Pile of tires
+_TROLLEY_NAME,Вагонетка,Trolley
+_BERRY_NAME,Ягода,Berries
+_BIGSTONE_NAME,Каменный валун,Stone
+_BIGSTONEBRONZE_NAME,Каменный валун,Stone with ore
+_BIGSTONEFOREST_NAME,Каменный валун,Stone with ore
+_BIGSTONEMETAL_NAME,Каменный валун,Stone
+_BLACKSPIDERCOCOON_NAME,Черный кокон,Black cocoon
+_BUSH_NAME,Куст,Bush
+_SMALLROCK_NAME,Камень,Small stone
+_TREE_NAME,Дерево,Tree
+_TREEDRY_NAME,Сухое дерево,Tree
+_TREEFIR_NAME,Елка,Tree
+_BIGSTONEBRONZESNOW_NAME,Каменный валун,Stone
+_BIGSTONEMETALSNOW_NAME,Каменный валун,Stone
+_BIGSTONESNOW_NAME,Каменный валун,Stone
+_MUSHROOMSNOW_NAME,Гриб,Mushroom
+_SKINSDRIER_NAME,Сушилка,Skin dryer
+_SMALLROCKSNOW_NAME,Камень,Stone
+_SNOWTROLLTOTEM_NAME,Тотем троллей,Troll totem
+SCIFICHEST_NAME,Техносундук,Hi-tec storage
+_TREEFIRSNOW_NAME,Елка,Tree
+_BARREL_NAME,Бочка,Barrel
+_BARRELMETAL_01_NAME,Металлическая бочка,Metal barrel
+_BARRELMETALPUDDLE_NAME,Масляная лужа,Puddle of oil
+_UNDERSARCOPHAGUS_NAME,Древний саркофаг,Ancient sarcophagus
+_MISTERYHOUSESWORDINSTONE_NAME,Недоставаемый меч,Unbeliveable sword
+_SCIFIBUNKER_NAME,Двери бункера,Shelter doors
+_SEREBRYNKA_NAME,Серебрянка,Silverfish
+_Q076_TRACE_NAME,Отпечаток ноги,Footprint
+_Q073_SHUTTLE_CHIP_NAME,Обломок корабля,Ship part
+_WOODDOOR_NAME,Деревянная дверь,Wooden door
+_FUNGUS_NAME,Гриб,Mushroom
+_PIRATE_BARRELS_NAME,Бочки,Barrels
+_PIRATE_ANCHOR_NAME,Якорь,Anchor
+_PIRATE_BARREL_NAME,Бочка,Barrel
+_PIRATE_GOLD_NAME,Куча золота,Pile of gold
+_PIRATE_BOAT_NAME,Лодка,Boat
+_PIRATE_SHIPCANNON_NAME,Корабельная пушка,Cannon
+_PIRATE_CANNONBALLS_NAME,Ядра и порох,Cannonballs and powder
+_PIRATE_TRUNKANDSKELETON_NAME,Сундук с сокровищем,Treasure chest
+_PIRATE_SKELETON_NAME,Скелет,Skeleton
+_PIRATE_TRUNK_NAME,Пиратский сундук,Pirate chest
+_UNDERDOOR_NAME,Дверь,Door
+_LAKE_NAME,Озеро,Lake
+_WOODENCAGE_NAME,Клетка,Cage
+_START_ZOND_PLACE_NAME,Установить зонд,Setup explorer
+_PUT_TROPHY_NAME,Положить трофей,Trophy
+_JUNGLE_FLOWER_NAME,Цветок,Flower
+_MEETING_CREATURE_NAME,Главное Создание,Main Creature
+_UNDERVASE_NAME,Ваза,Vase
+_MUSHROOM_NAME,Гриб,Mushroom
+_WELL_NAME,Колодец,Well
+_METEORITECRATER_NAME,Метеоритный кратер,Meteorite crater
+_Q118_BULD_TELEPORT_PLACE_NAME,Построить телепорт в Цитадель,Build teleport
+_Q118_CITADEL_TELEPORT_NAME,Телепорт в Цитадель,Citadel teleport

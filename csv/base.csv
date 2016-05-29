@@ -1,0 +1,14 @@
+sep=,,
+_ALCHEMY_NAME,Алхимическая машина,Alchemy Machine
+_ALCHEMY_DESCRIPTION,Используется для варки зелий,Used for preparing potions.
+_ALCHEMY_DESCRIPTION_UP2,Обновление машины позволит варить вам больше зелий,Upgrade for new potions!
+_MAINBUILDING_NAME,Машина перемещений,Main Building
+_MAINBUILDING_DESCRIPTION,Используется для перемещения между мирами,Used for traveling to new areas.
+_MECHMAKER_NAME,Конструктор,Goliath Construction
+_MECHMAKER_DESCRIPTION,Используется для создания новых голиафов,Used for building new Goliaths.
+_WEAPONMAKER_NAME,Оружейная,Weapon Construction
+_WEAPONMAKER_DESCRIPTION,Используется для создания рук-оружий,Used for building weapons for your Goliaths.
+_GARAGE_NAME,Гараж,Garage
+_GARAGE_DESCRIPTION,Мы можем поставить в него голиафа,Used for storing Goliaths.
+_BUILDING_MAX,У вас максимальное количество этих элементов,Max
+_BUILDING_REQUIRE_LEVEL,{{description}}/n/nТребуется уровень: {{level}},{{description}}/n/nRequires level: {{level}}

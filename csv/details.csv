@@ -1,0 +1,85 @@
+sep=,,
+IRON_ARMOR_HEAD_DESCRIPTION,Укрепленная голова железного голеафа. Пробивает головой чугунные двери. Восприимчив к электрическому урону.,Can withstand a collision with a small truck. HP: 72
+IRON_ARMOR_BODY_DESCRIPTION,Укрепленое тело железного голеафа. Внутри адски высокая температура. Восприимчив к электрическому урону.,"Sturdy, but hellishly hot inside. HP: 176"
+IRON_ARMOR_LEG_DESCRIPTION,Укрепленные ноги железного голеафа. Благодаря мощным железным креплениям выдерживают максимальные перегрузки. Повышенная восприимчивость к электрическому урону.,"Increased strength, reduced speed. HP: 86 SPEED -"
+IRON_ARMOR_HAND_DESCRIPTION,Укрепленные руки железного голеафа. Единственным минусом этих мощных ручищ является восприимчивость к электрическому урону.,Strong enough to open any jar of mayonnaise. HP: 81
+IRON_BASE_HEAD_DESCRIPTION,"Голова базового железного голиафа. Стандартная, создана из средней толщины металлических пластин. Сойдет для раскалывания орехов... или вражеских черепушек...","Sheet metal, perfectly round shape, confident look in the eyes. HP: 46"
+IRON_BASE_BODY_DESCRIPTION,Тело базового железного голиафа. Портативная печка на ножках. Крайне восприимчиво к электрическому урону.,A portable stove on legs. HP: 113
+IRON_BASE_LEG_DESCRIPTION,"Ноги базового железного голиафа. Дают возможность преодолевать огромные расстояния, ямы, кочки и ухабы в короткий срок без проблем.","Tip from the pros: the faster you move them, the faster you go. HP: 55"
+IRON_BASE_HAND_DESCRIPTION,"Руки базового железного голиафа. Базовая модель, в комплекте запасные пальцы.",Spare fingers not included. HP: 52
+IRON_BERSERKER_HEAD_DESCRIPTION,"Голова голиафа вида ""Берсерк"". Особо эффектно эта пылающая, раскаленная конструкция выглядит ночью.",Looks especially nice at night. HP: 59 FIRE RES +
+IRON_BERSERKER_BODY_DESCRIPTION,"Тело голиафа вида ""Берсерк"". Чрезмерную восприимчивость к электрическому урону компенсирует повышенная устойчивость к огню.",Burning hellfire causes enemies to tremble in fear! HP: 145 FIRE RES +
+IRON_BERSERKER_LEG_DESCRIPTION,"Ноги голиафа вида ""Берсерк"". Модифицированная базовая модель, теперь более устойчива к огню.",Hot fast legs. HP: 71  FIRE RES + SPEED +
+IRON_BERSERKER_HAND_DESCRIPTION,"Руки голиафа вида ""Берсерк"". Дополнительно встроенные шипы помогут быстрее и эффективнее поразить врага проникающими ударами.",Sharp-looking fists with additional spikes. HP: 67 FIRE RES +
+IRON_RUBAKA_HEAD_DESCRIPTION,"Голова голиафа вида ""Рубака"". Система воздуховода, установленная в данной модели, позволяет чувствовать себя комфортно, разрезая врагов на части.",An original design with improved ventilation. HP: 69
+IRON_RUBAKA_BODY_DESCRIPTION,"Тело голиафа вида ""Рубака"". Колюще-режущее броневое устройство.",Deadly armored machine for fun and kills. HP: 169
+IRON_RUBAKA_LEG_DESCRIPTION,"Ноги голиафа вида ""Рубака"". Укомплектован шипами, которые наносят урон дополнительно.",Fast and deadly. HP: 82  SPEED +
+IRON_RUBAKA_HAND_DESCRIPTION,"Руки голиафа вида ""Рубака"". Острые как бритва.",Equipped with dangerous blades. Able to pierce through anyone and beautifully cut vegetables. HP: 78
+IRON_TANK_HEAD_DESCRIPTION,"Голова голиафа вида ""Танк"". Максимум брони и немного синего свечения.",The blue glow gives it a mysterious aura. HP: 81
+IRON_TANK_BODY_DESCRIPTION,"Тело голиафа вида ""Танк"". Подвид P-107, лучше не спрашивайте, что случилось с другими 106 экспериментальными объектами.",Beware of a collision with missiles. The missiles will be significantly damaged. HP: 199
+IRON_TANK_LEG_DESCRIPTION,"Ноги голиафа вида ""Танк"". Выдерживают попадание 1000 пуль или 200000 ударов копьем.","Can withstand the force of 100 bullets or 200,000 not particularly strong kicks. HP: 96 SPEED +"
+IRON_TANK_HAND_DESCRIPTION,"Руки голиафа вида ""Танк"". Может сжать и перемолоть в порошок что угодно.","If tanks had hands, they would look like this. HP: 92"
+STONE_TOXIC_HEAD_DESCRIPTION,Голова кислотного каменного голиафа. Устойчива к кислоте.,This may sting your eyes a little bit. HP: 69 ACID RES +
+STONE_TOXIC_BODY_DESCRIPTION,"Тело кислотного каменного голиафа. Имеет встроенный кислотный генератор, преобразующий отходы в энергию.",Powered by toxic waste. Relatively safe for the environment. HP: 169  ACID RES +
+STONE_TOXIC_LEG_DESCRIPTION,Ноги кислотного каменного голиафа. Оставляет за собой поражающий кислотный шлейф.,Avoid expensive carpets and valuable flooring. HP: 83 ACID RES +
+STONE_TOXIC_HAND_DESCRIPTION,Руки кислотного каменного голиафа. Удары этих огромных каменных кулаков наносят дополнительный урон кислотой.,Each strike will break the enemy into pieces. Then dissolve the pieces in acid. HP: 78
+STONE_BASE_HEAD_DESCRIPTION,Голова базового каменного голиафа. Прототипом выступал проверенный веками рыцарский шлем.,"Just your typical, everyday stone robot head. HP: 53"
+STONE_BASE_BODY_DESCRIPTION,Тело базового каменного голиафа. Мобильная каменная крепость.,Mobile stone fortress carved from a single piece of rock. HP: 130
+STONE_BASE_LEG_DESCRIPTION,Ноги базового каменного голиафа. Благодаря своей уникальной форме способно передвигать огромную каменную гору с места на место.,"Unique wheelbase, created just for transporting an aggressive stone the size of a house. HP: 64"
+STONE_BASE_HAND_DESCRIPTION,"Руки базового каменного голиафа. В ближнем бою могут бить по площаде, нанося катастрофический урон всему живому.",Capable of causing catastrophic damage. HP: 60
+STONE_BOMBARDIER_HEAD_DESCRIPTION,"Голова каменного голиафа ""Бомбардир"". Металлические пластины и клепки обеспечивают защиту от серьезных прямых попаданий.",Metal plates and riveting provide strong protection against direct hits. HP: 93  DMG RES +
+STONE_BOMBARDIER_BODY_DESCRIPTION,"Тело каменного голиафа ""Бомбардир"". Более громоздкий, нежели базовый, но и более устойчивый к физическому урону.","Stone body, reinforced with a shield. Maximum security. HP: 229  DMG RES +"
+STONE_BOMBARDIER_LEG_DESCRIPTION,"Ноги каменного голиафа ""Бомбардир"". Более высокая скорость благодаря усовершенствованному рессору, а проходимость дает двойное колесо. Треугольные металлические пластины защищают конструкцию от урона.",Wheels with increased terrain mobility. Makes a nice creaking sound. HP: 113 DMG RES + SPEED +
+STONE_BOMBARDIER_HAND_DESCRIPTION,"Руки каменного голиафа ""Бомбардир"". Крепкие стальные кольца крепят к этим рукам старинные корабельные пушки, которые одновременно служат еще и броней.",Guns instead of hands: practical and simply beautiful. HP: 105 DMG RES +
+STONE_ICE_HEAD_DESCRIPTION,"Голова морозного каменного голиафа. Устойчива к холоду, но уязвима к огню.",Hockey mask frightens children and conceals your identity. HP: 78 ICE RES + FIRE RES -
+STONE_ICE_BODY_DESCRIPTION,Тело морозного каменного голиафа. Сложная механическая надстройка обеспечивает тело дополнительной ледяной броней. Уязвимо к огню.,There's a mini-fridge inside for storing your favorite beverages. HP: 191 ICE RES + FIRE RES -
+STONE_ICE_LEG_DESCRIPTION,"Ноги морозного каменного голиафа. Ледяные шипы поражают всех врагов, попадающих под колесо. Уязвимы к огню.",Strong ice wheel. HP: 94  ICE RES + FIRE RES -
+STONE_ICE_HAND_DESCRIPTION,Руки морозного каменного голиафа. Установлены заостренные поражающие элементы изо льда. Уязвимы к огню.,Direct hits from these ice fists causes pain and goose bumps. HP: 87 ICE RES + FIRE RES -
+WOOD_BASE_BODY_DESCRIPTION,Тело базового деревянного голиафа. Нехитрая конструкция защитит от урона только не первых порах. Крайне уязвимо к огню.,It offers all you should expect from simple wooden armor. Which is - not much. HP: 52
+WOOD_BASE_HAND_DESCRIPTION,"Руки базового деревянного голиафа. Перемотанные обычной тонкой веревкой, эти руки больше подходят для добычи ресурсов, нежели для боя. Уязвимы к огню.",A simple design still capable of bruising insolent monsters. HP: 24
+WOOD_BASE_HEAD_DESCRIPTION,"Голова базового деревянного голиафа. Создан из сучковатого пня, имеется две дырки для обзора. Уязвима к огню.",Created from a gnarled stump. Features two holes for a great view. HP: 21
+WOOD_BASE_LEG_DESCRIPTION,Ноги базового деревянного голиафа. Правильно подобранная порода дерева обеспечивает легкий вес и высокую скорость. Уязвимы к огню.,"Surprisingly mobile for legs made of two boards, fastened with glue and ropes. HP: 26"
+WOOD_COAL_HEAD_DESCRIPTION,"Голова угольного голиафа. Добавлена дополнительная броня из тонких металлических пластин. Улучшенный обзор благодаря дополнительной системе линз. Уязвима к холоду, устойчива к огню.",Burned head with fire protection and air infiltration protection (dubious decision). HP: 27  FIRE RES +++ ICE RES -
+WOOD_COAL_BODY_DESCRIPTION,"Тело угольного голиафа. Медленно тлеющая поверхность дает высокую устойчивость к огню, но повышена уязвимость к холоду.",Using slowly smoldering logs as armor. Interesting choice. HP: 68 FIRE RES +++ ICE RES -
+WOOD_COAL_LEG_DESCRIPTION,"Ноги угольного голиафа. Увеличенная скорость. Уязвима к холоду, устойчива к огню.","Charred, but still fast. HP: 34  FIRE RES +++ ICE RES -"
+WOOD_COAL_HAND_DESCRIPTION,"Руки угольного голиафа. Удары, помимо физического урона, поджигают врагов.","Do not collect dry grass with these hands. HP: 31  FIRE RES +++, Chance to Ignite + ICE RES -"
+WOOD_DEMOMAN_HEAD_DESCRIPTION,"Голова деревянного  голиафа вида ""Подрывник"". Хрупкая деревянная основа усилена толстой металлической пластиной.","This hard hat is not just for looks. But it does look cool, right? HP: 50 ChC +"
+WOOD_DEMOMAN_BODY_DESCRIPTION,"Тело деревянного  голиафа вида ""Подрывник"". Усилено динамической защитой.",Strap some dynamite to your body. What could go wrong? HP: 124
+WOOD_DEMOMAN_LEG_DESCRIPTION,"Ноги деревянного  голиафа вида ""Подрывник"". Более высокая скорость передвижения, уявимость к огню.","Fast legs, great for running away from explosions. HP: 61 SPEED ++"
+WOOD_DEMOMAN_HAND_DESCRIPTION,"Руки деревянного  голиафа вида ""Подрывник"". Каждый удар по врагу сопровождается взрывом, наносящим дополинельный урон. Уязвимость к огню.",An explosive combination of strength and speed. HP: 57 ChC +
+WOOD_FORTIFIED_HEAD_DESCRIPTION,"Голова укрепленного деревянного  голиафа. Недолговечная, но крайне мощная броня отличает эту модификацию от базовой.",Sloped head design provides the best protection. HP: 62 DMG RES +
+WOOD_FORTIFIED_BODY_DESCRIPTION,"Тело укрепленного деревянного  голиафа. Увеличенная защитная функция, благодаря защитному слою из коры. Недолговечное и уязвимое к огню решение.",Reinforced with a protective layer of the bark. HP: 76 DMG RES + SPEED -
+WOOD_FORTIFIED_LEG_DESCRIPTION,Ноги укрепленного деревянного  голиафа. Обшивка из коры дает дополнительную броню.,Bark casing grants additional armor. HP: 152 DMG RES +
+WOOD_FORTIFIED_HAND_DESCRIPTION,"Руки укрепленного деревянного  голиафа. Первые несколько ударов будут крайне мощными, затем древесная кора рассыпится.",Able to fearlessly punish anyone. Except the bark beetle. He is a monster. HP: 70 DMG RES +
+WOOD_SNIPER_HEAD_DESCRIPTION,"Голова деревянного  голиафа вида ""Снайпер"". Сложная система линз и красных светодиодов дает возможность прицелиться и попасть в зрачок комару. Уязвима к огню.",A complex system of lenses and LEDs makes it possible to shoot with your eyes closed. Sometimes you may even hit the target as well! HP: 30 ChC + FIREARMS DMG +
+WOOD_SNIPER_BODY_DESCRIPTION,"Тело деревянного  голиафа вида ""Снайпер"". Окрашено в защитный цвет, крайне уязвимо к огню.",Coloration allows you to hide in the woods and in closets full of camouflage clothing. HP: 73
+WOOD_SNIPER_LEG_DESCRIPTION,"Ноги деревянного  голиафа вида ""Снайпер"". Благодаря облегченной основе, скорость значительно увеличена. Уязвимы к огню.",Fancy sniper coloring included. HP: 36  SPEED +
+WOOD_SNIPER_HAND_DESCRIPTION,"Руки деревянного  голиафа вида ""Снайпер"". Четырехпальцевая конструкция, окрашенная в защитный цвет. Уязвимы к огню.",Steady hands for tricky shots. HP: 34
+WOOD_SPIKED_HEAD_DESCRIPTION,"Голова деревянного  голиафа вида ""Дикарь"". Сложная система из костей, дерева и кожаных ремешков. Дает шанс на критический удар. Уязвима к огню.","Horns can't be used in combat, but they definitely make you look intimidating. HP: 50 ChH +"
+WOOD_SPIKED_BODY_DESCRIPTION,"Тело деревянного  голиафа вида ""Дикарь"". Защитная функция повышена благодаря установленным на тело костям и меховым вкраплениям. А еще это красиво и уязвимо к огню.","Complicated structure of skins, bones, wood, and rage. HP: 124"
+WOOD_SPIKED_LEG_DESCRIPTION,"Ноги деревянного  голиафа вида ""Дикарь"". Развевающиеся на ветру шерстяные клочки каким-то чудесным способом увеличивают скорость всего механизма в целом. Уязвимы к огню.","A bit wild, but still nice legs. HP: 61  SPEED +"
+WOOD_SPIKED_HAND_DESCRIPTION,"Руки деревянного  голиафа вида ""Дикарь"". Колет, режет, убивает. Дает шанс на критический удар. Уязвимы к огню.",Beastly but skillful hands. HP: 57 ChC +
+CRYSTAL_BASE_HEAD_DESCRIPTION,CRYSTAL_BASE_HEAD_DESCRIPTION,
+CRYSTAL_BASE_BODY_DESCRIPTION,CRYSTAL_BASE_BODY_DESCRIPTION,
+CRYSTAL_BASE_LEG_DESCRIPTION,CRYSTAL_BASE_LEG_DESCRIPTION,
+CRYSTAL_BASE_HAND_DESCRIPTION,CRYSTAL_BASE_HAND_DESCRIPTION,
+STONE_KNIGHT_HEAD_DESCRIPTION,STONE_KNIGHT_HEAD_DESCRIPTION,
+STONE_KNIGHT_BODY_DESCRIPTION,STONE_KNIGHT_BODY_DESCRIPTION,
+STONE_KNIGHT_LEG_DESCRIPTION,STONE_KNIGHT_LEG_DESCRIPTION,
+STONE_KNIGHT_HAND_DESCRIPTION,STONE_KNIGHT_HAND_DESCRIPTION,
+STONE_SPEC_HEAD_DESCRIPTION,STONE_SPEC_HEAD_DESCRIPTION,
+STONE_SPEC_BODY_DESCRIPTION,STONE_SPEC_BODY_DESCRIPTION,
+STONE_SPEC_LEG_DESCRIPTION,STONE_SPEC_LEG_DESCRIPTION,
+STONE_SPEC_HAND_DESCRIPTION,STONE_SPEC_HAND_DESCRIPTION,
+CRYSTAL_SUPERHERO_HEAD_DESCRIPTION,CRYSTAL_BASE_HEAD_DESCRIPTION,
+CRYSTAL_SUPERHERO_BODY_DESCRIPTION,CRYSTAL_BASE_BODY_DESCRIPTION,
+CRYSTAL_SUPERHERO_LEG_DESCRIPTION,CRYSTAL_BASE_LEG_DESCRIPTION,
+CRYSTAL_SUPERHERO_HAND_DESCRIPTION,CRYSTAL_BASE_HAND_DESCRIPTION,
+CRYSTAL_NIGHTMARE_HEAD_DESCRIPTION,CRYSTAL_BASE_HEAD_DESCRIPTION,
+CRYSTAL_NIGHTMARE_BODY_DESCRIPTION,CRYSTAL_BASE_BODY_DESCRIPTION,
+CRYSTAL_NIGHTMARE_LEG_DESCRIPTION,CRYSTAL_BASE_LEG_DESCRIPTION,
+CRYSTAL_NIGHTMARE_HAND_DESCRIPTION,CRYSTAL_BASE_HAND_DESCRIPTION,
+CRYSTAL_MAGICIAN_HEAD_DESCRIPTION,CRYSTAL_BASE_HEAD_DESCRIPTION,
+CRYSTAL_MAGICIAN_BODY_DESCRIPTION,CRYSTAL_BASE_BODY_DESCRIPTION,
+CRYSTAL_MAGICIAN_LEG_DESCRIPTION,CRYSTAL_BASE_LEG_DESCRIPTION,
+CRYSTAL_MAGICIAN_HAND_DESCRIPTION,CRYSTAL_BASE_HAND_DESCRIPTION,

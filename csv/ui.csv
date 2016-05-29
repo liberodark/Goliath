@@ -1,0 +1,236 @@
+sep=,,
+;Notifications,,
+_NARRATIVE_INVENTORY_FULL,Инвентарь полон!,Inventory full!
+_NARRATIVE_INFO,Инфо,Info
+_NARRATIVE_ITEM_ADDED,Добавлен предмет,Item added
+_NARRATIVE_SCROLL_ADDED,Добавлен рецепт,Recipe added
+_NARRATIVE_PART_UNLOCKED,Разблокирована запчасть,Spare part unlocked
+_NARRATIVE_SUBSET_UNLOCKED,Разблокирован подтип,Goliath subtype unlocked
+_NARRATIVE_QUEST_FAILED,Квест провален,Quest failed!
+_NARRATIVE_QUEST_FAILED_DESCRIPTION,Вы не справились с заданием,You didn't complete the task!
+_NARRATIVE_WORLD_UNLOCK_HEADER,Карта,Info
+_NARRATIVE_WORLD_UNLOCK_DESCRIPTION,Добавлен новый мир на карту!,New world on map!
+_NARRATIVE_REPUTATION,Репутация изменена,Reputation changed!
+_NARRATIVE_REPUTATION_DESCRIPTION_FOX_PLUS,Репутация лис +{{value}},The Brotherhood reputation +{{value}}
+_NARRATIVE_REPUTATION_DESCRIPTION_FOX_MINUS,Репутация лис {{value}},The Brotherhood reputation {{value}}
+_NARRATIVE_REPUTATION_DESCRIPTION_FOX_FRIEND,Вы заслужили лояльность лис!,You have earned the loyalty of the Brotherhood!
+_NARRATIVE_REPUTATION_DESCRIPTION_FOX_UNFRIEND,Вы потеряли лояльность лис!,You have lost the loyalty of the Brotherhood!
+_NARRATIVE_REPUTATION_DESCRIPTION_DAEMON_PLUS,Репутация демонов +{{value}},The Forgers reputation +{{value}}
+_NARRATIVE_REPUTATION_DESCRIPTION_DAEMON_MINUS,Репутация демонов {{value}},The Forgers reputation {{value}}
+_NARRATIVE_REPUTATION_DESCRIPTION_DAEMON_FRIEND,Вы заслужили лояльность демонов!,You have earned the loyalty of the Forgers!
+_NARRATIVE_REPUTATION_DESCRIPTION_DAEMON_UNFRIEND,Вы потеряли лояльность демонов!,You have lost the loyalty of the Forgers!
+_NARRATIVE_REPUTATION_DESCRIPTION_ROBOT_PLUS,Репутация роботов +{{value}},The Created reputation +{{value}}
+_NARRATIVE_REPUTATION_DESCRIPTION_ROBOT_MINUS,Репутация роботов {{value}},The Created reputation {{value}}
+_NARRATIVE_REPUTATION_DESCRIPTION_ROBOT_FRIEND,Вы заслужили лояльность роботов!,You have earned the loyalty of the Created!
+_NARRATIVE_REPUTATION_DESCRIPTION_ROBOT_UNFRIEND,Вы потеряли лояльность роботов!,You have lost the loyalty of the Created!
+_NARRATIVE_QUEST_TRACKING_HELP,R - Отслеживать,R - TRACK
+_NARRATIVE_NEW_QUEST,Новое задание:,New quest:
+_NARRATIVE_COMPLETE_QUEST,Задание завершено:,Quest completed:
+_NARRATIVE_LEVEL_UP_HEADER,Получен новый уровень {{level}}!,You reached Level {{level}}!
+_NARRATIVE_LEVEL_UP_CONTENT,"Жизни {{hp}}, Золото +{{money}}","HP {{hp}}, Gold +{{money}}"
+_TREASUREMAP_ADD_HEADER,Место на карте,Location on the map
+_TREASUREMAP_ADD_DESCRIPTION,Добавлено место на карте,Location is added to the map
+_TREASUREMAP_NOT_THIS_WORLD_HEADER,Сообщение,Message
+_TREASUREMAP_NOT_THIS_WORLD_DESCRIPTION,Это карта от другого мира,This is a map of another world
+_DISCOVERED_TEXT,Discovered:,Discovered:
+;Tips,,
+_PRELOAD_TIP_0,Даже самые простые задания могут иметь огромные последствия. Продумывайте свои решения!,Even the most simple of tasks can have huge consequences. Carefully think over your decisions!
+_PRELOAD_TIP_1,Голиафы по-разному реагируют на температуру и окружение. Пробуйте и находите самые эффективные комбинации!,Each Goliath responds differently to external temperature and environment. Try to find the most effective combinations!
+_PRELOAD_TIP_2,"Хотите научиться строить новых Голиафов? Выполняйте задания во вкладке ""Эксперименты""!",Want to learn how to build new Goliaths? Then complete the tasks in the EXPERIMENTS tab!
+_PRELOAD_TIP_3,"Помните, что переключать Голиафов можно прямо во время боя. Удивите своих врагов!",You can switch between Goliaths in the middle of a fight! Surprise your enemies!
+_PRELOAD_TIP_4,"Не знаете, что нужно делать дальше? Проверьте свой журнал!",Don't know what to do next? Check your journal!
+_PRELOAD_TIP_5,У каждого Голиафа есть свои сильные и слабые стороны. Подбирайте свою команду исходя из своих целей.,"Every Goliath has unique strengths and weaknesses. So, pick your team based on your goals."
+_PRELOAD_TIP_6,"Помните, что вы можете перевести Голиафа в автономный режим перемещения с помощью LB + B. Это может пригодиться!","You can switch your Goliaths to automove mode using the [LB + B] or ""H"". This can really come in handy!"
+_PRELOAD_TIP_7,Не стоит сразу доверять первому встречному. Мы всё-таки тут выживаем в опасном мире.,"Don't trust someone you've never met. After all, the world of Goliath is a dangerous place."
+_PRELOAD_TIP_8,"Помните, что костер также поможет получить новые предметы. Сгоревшее бревно даст уголь, нагретая смола - клей, а деревянный Голиаф - весело горящего Голиафа.","Transformation through burning: A burned log provides coal, heated resin can act as glue, and a wooden Goliath can be turned into a cheerful fire."
+_PRELOAD_TIP_9,"Сломался Голиаф? Построй нового, еще лучше!",Your Goliath broke down? Build a new and better one!
+_PRELOAD_TIP_10,"Не можете одолеть монстра? Стройте новых Голиафов, попробуйте ловушки или другие типы оружия - все средства хороши!","Can't defeat a monster? Build new Goliaths, or use traps or other kinds of weapons!"
+_PRELOAD_TIP_11,Другие персонажи могут и будут использовать вас в своих целях. Но если награда высока - почему бы и нет?,"Other heroes can and WILL use you for their own good. Why not, if the reward is high enough?"
+_PRELOAD_TIP_12,"Ваши действия могут значительно измерить баланс сил в войне фракций. Осторожно выбирайте союзников, а еще осторожнее - врагов.","Your actions can dramatically change the balance in the war of the factions. Be careful when choosing allies, and even more careful when dealing with enemies!"
+_PRELOAD_TIP_13,Голиафы - ваше самое мощное оружие и ваши лучшие друзья. Радуйте своих друзей новым снаряжением и запчастями!,Goliaths are your most powerful weapon and your best friends. Improve them with new parts and equipment!
+_PRELOAD_TIP_14,Не хочется сражаться? Попробуйте разобрать Голиафа и убежать - Зака заметить гораздо сложнее.,Don't want to fight? Get out of your Goliath apart and run away! Gromov is small and hard to see!
+_PRELOAD_TIP_15,Накопленная ярость позволяет наносить Очень Мощные Удары. Уже накопили? Жмите (Y)!,"Accumulated rage allows you to turn Overdrive mode on! When you've accumulated enough rage, hold attack button ([X] or LMB)!"
+_PRELOAD_TIP_16,Каждая новая запчасть Голиафа дает новый бонус. Пробуйте разные сочетания - результат вас удивит!,Every new part you install on a Goliath gives you a new bonus. Try different combinations. The results will surprise you!
+;Tutorial,,
+_TUTORIAL_FIRST,"Это Зак. Он твой герой, и он неплохой парень. (Нажми A)","This is Andrew Gromov, or ""Grom."" He’s a nice guy and our main hero. (Press A)"
+_TUTORIAL_SECOND,Тебе потребуется много ресурсов во время игры. Попробуй срубить дерево или собрать камень. Для взаимодействия с объектами используй кнопку А (Нажми А чтобы продолжить).,"You will need many resources during the game. Try to cut down a tree, or grab this stone. To interact with objects, use button A (press A to continue)."
+_TUTORIAL_THIRD,Ты можешь крафтить много полезных предметов. Для этого тебе нужна твоя палатка. Нажми Y чтобы разбить лагерь.,"You can craft many useful items. To do this, you’ll need your tent. Press Y to set camp."
+_TUTORIAL_FOUR,"У тебя есть мощный дар – ты умеешь строить и управлять гигантскими роботами, Голиафами. (Зажми LB и выбери голиафа с помощью RS)",You have a powerful gift to create and control giant robots named Goliaths. (Hold LB and choose a Goliath using RS)
+_TUTORIAL_FIVE,"Отлично! Ты накопил достаточно ярости, чтобы нанести МОЩНЫЙ удар! Нажми Y и добей паука!",Perfect! You have accumulated enough rage to strike a powerful blow! Press Y and kill the spider.
+_TUTORIAL_SIX,"Ты можешь использовать различные боевые умения. Зажми LT и нажми Х, чтобы защитить себя от врагов!",You can apply various combat skills. Hold LT and press X to protect Zac from enemies!
+_TUTORIAL_SEVEN,Теперь ты знаешь основы. Удачной игры! (Нажми А).,Now you know the basics. Good luck! (Press A)
+_TUTORIAL_8,Этот мир полон монстров. Нажми X чтобы ударить этого паука по лицу!,This world is full of monsters. Press X to hit the spider!
+_TUTORIAL_9,Используй этот портал!,Use this portal!
+;Character tasks,,
+_COAL_HEAD_TASK,Сжечь деревянного голиафа в зимнем биоме,Burn wood in a winter biome goliath
+_COAL_BODY_TASK,Получить уровень {1},Get level {1}
+_COAL_HANDS_TASK,Убить {1} врагов огненным оружием ({0}/{1}),Kill {1} enemies with fire weapons({0}/{1})
+_COAL_LEGS_TASK,Убить {1} пустынных големов в деревянном голиафе ({0}/{1}),Kill {1} ​​desert golems in a wooden Goliath ({0} / {1})
+_SNIPER_HEAD_TASK,Убить красного граббера используя только руки деревянного угольного меха,Kill the red grabber using only hands wooden coal goliath
+_SNIPER_BODY_TASK,Получить уровень {1},Get the level of {1}
+_SNIPER_HANDS_TASK,Застрелить из револьвера {1} врагов ({0}/{1}),Shoot from a revolver {1} enemies ({0} / {1})
+_SNIPER_LEGS_TASK,Застанить одновременно {1} врагов,Stun both enemies {1}
+_MUSCLE_HEAD_TASK,Break {1} iron goliaths ({0}/{1}),The Break {1} iron goliaths ({0} / {1})
+_MUSCLE_BODY_TASK,Kill the {1} enemies with warmed goliath ({0}/{1}),Kill the {1} enemies with warmed goliath ({0} / {1})
+_MUSCLE_HANDS_TASK,Make {1} critacal hit ({0}/{1}),The Make {1} critacal hit ({0} / {1})
+_MUSCLE_LEGS_TASK,Fend away {1} hit ({0}/{1}),Fend away {1} hit ({0} / {1})
+_RUBAKA_HEAD_TASK,Репутация демонов {1} ({0}/{1}),Reputation demons {1} ({0} / {1})
+_RUBAKA_BODY_TASK,Получить уровень {1},Get the level of {1}
+_RUBAKA_HANDS_TASK,Репутация демонов {1} ({0}/{1}),Reputation demons {1} ({0} / {1})
+_RUBAKA_LEGS_TASK,Репутация демонов {1} ({0}/{1}),Reputation demons {1} ({0} / {1})
+_TOXIC_HEAD_TASK,Убить врага руками деревянного меха (заглушка),Kill an enemy wooden fur hands (plug)
+_TOXIC_BODY_TASK,Получить уровень {1},Get the level of {1}
+_TOXIC_HANDS_TASK,Убить {1} пауков стрелков используя только мощные удары каменного меха ({0}/{1}),Kill {1} ​​shooters spiders using only the powerful blows of the stone fur ({0} / {1})
+_TOXIC_LEGS_TASK,"Убить {1} зыбуна в каменном мехе, не получив от него урона ({0}/{1})","Kill {1} ​​Quagmirran in stone fur, not having received from him damage ({0} / {1})"
+_DEMOMAN_HEAD_TASK,Выполнить квест подрывника,Run quest demolition
+_DEMOMAN_BODY_TASK,Получить уровень {1},Get the level of {1}
+_DEMOMAN_HANDS_TASK,Убить {1} пигмеев в джунглях минами ({0}/{1}),Kill {1} ​​in the jungle pygmies mines ({0} / {1})
+_DEMOMAN_LEGS_TASK,Уничтожить тролля только минами,Destroy the troll only mine
+_FORTIFIED_HEAD_TASK,Убить вертушкой {1} врагов  за раз,Kill spinner {1} of enemies at a time
+_FORTIFIED_BODY_TASK,Получить уровень {1},Get the level of {1}
+_FORTIFIED_HANDS_TASK,Убить реткина-босса кулаками базового деревянного меха,Kill retkina boss punched a basic wooden fur
+_FORTIFIED_LEGS_TASK,Во время снежной бури убить барса деревянным мехом не получив урона,During a snow storm kill leopard fur wood without getting damage
+_SPIKED_HEAD_TASK,Репутация лис {1} ({0}/{1}),Fox Reputation {1} ({0} / {1})
+_SPIKED_BODY_TASK,Получить уровень {1},Get the level of {1}
+_SPIKED_HANDS_TASK,Репутация лис {1} ({0}/{1}),Fox Reputation {1} ({0} / {1})
+_SPIKED_LEGS_TASK,Репутация лис {1} ({0}/{1}),Fox Reputation {1} ({0} / {1})
+_ICE_HEAD_TASK,Убить {1} снежных големов ({0}/{1}),Kill {1} ​​Snow Golems ({0} / {1})
+_ICE_BODY_TASK,Получить уровень {1},Get the level of {1}
+_ICE_HANDS_TASK,Нанести {1} ледяного урона ({0}/{1}),{1} Apply ice damage ({0} / {1})
+_ICE_LEGS_TASK,Убить граббера каменным мехом в овердрайв режиме,Kill grabber stone fur into overdrive mode
+_ARMOR_HEAD_TASK,Отразить {1} снарядов за {T} сек,Flip {1} shells for {T} s
+_ARMOR_BODY_TASK,Получить уровень {1},Get the level of {1}
+_ARMOR_HANDS_TASK,Убить {1} гнарков лидеров используя только спелл-прыжок ({0}/{1}),Kill {1} ​​gnarkov leaders using only spell jump ({0} / {1})
+_ARMOR_LEGS_TASK,Убить рогача во время грозы железным мехом,Kill stag during thunderstorms iron fur
+_BOMBARDIER_HEAD_TASK,Убить робота стрелка используя только спелл таран,Kill the robot hand using only spell ram
+_BOMBARDIER_BODY_TASK,Получить уровень {1},Get the level of {1}
+_BOMBARDIER_HANDS_TASK,Убить {1} врагов спеллом метеорит за раз,Kill enemies {1} Spell meteorite at a time
+_BOMBARDIER_LEGS_TASK,Сделать {1} выстрелов во врагов не получив урона ({0}/{1}),{1} Make shots at enemies without getting damage ({0} / {1})
+_BERSERK_HEAD_TASK,Нанести одному шипоплюю 1000 урона за бой,Apply one shipoplyuyu 1000 damage per fight
+_BERSERK_BODY_TASK,Получить уровень {1},Get the level of {1}
+_BERSERK_HANDS_TASK,Убить {1} мумий не меняя меха ({0}/{1}),{1} To kill the mummies without changing the fur ({0} / {1})
+_BERSERK_LEGS_TASK,Сломать {1} мехов за {T} секунд,Break {1} for furs {T} seconds
+_KNIGHT_HEAD_TASK,Репутация роботов {1} ({0}/{1}),Reputation robots {1} ({0} / {1})
+_KNIGHT_BODY_TASK,Получить уровень {1},Get the level of {1}
+_KNIGHT_HANDS_TASK,Репутация роботов {1} ({0}/{1}),Reputation robots {1} ({0} / {1})
+_KNIGHT_LEGS_TASK,Репутация роботов {1} ({0}/{1}),Reputation robots {1} ({0} / {1})
+_TANK_HEAD_TASK,Убить {1} врагов мехом на автопилоте ({0}/{1}),{1} Kill enemies with fur on autopilot ({0} / {1})
+_TANK_BODY_TASK,Получить уровень {1},Get the level of {1}
+_TANK_HANDS_TASK,Убить {1} врагов выстрелами за {T} секунд,{1} Kill enemies shots for {T} seconds
+_TANK_LEGS_TASK,Протаранить {1} врагов за раз,{1} to ram enemies at a time
+_SPEC_HEAD_TASK,Убить Граббера тремя мехами на автопилоте,Kill Grabber three bellows on autopilot
+_SPEC_BODY_TASK,Получить уровень {1},Get the level of {1}
+_SPEC_HANDS_TASK,Сломать меха стоя в блоке,Break fur standing in the block
+_SPEC_LEGS_TASK,Напугать {1} дронтов за {T} секунд,Scare {1} of the dodo {T} seconds
+_NIGHTMARE_HEAD_TASK,Убить спеллами кристаллического {1} врагов за {T} секунд,Kill spells crystalline {1} enemies for {T} seconds
+_NIGHTMARE_BODY_TASK,Получить уровень {1},Get the level of {1}
+_NIGHTMARE_HANDS_TASK,Убить {1} кроликов спеллом молния ({0}/{1}),{1} To kill rabbits Spell Lightning ({0} / {1})
+_NIGHTMARE_LEGS_TASK,"Убить врага, убившего зака, за 60 секунд","Kill an enemy who killed Zach, 60 seconds"
+_MAGICIAN_HEAD_TASK,Нанести {1} критических ударов за {T} секунд,Apply {1} Critical Strike {T} seconds
+_MAGICIAN_BODY_TASK,Получить уровень {1},Get the level of {1}
+_MAGICIAN_HANDS_TASK,"Победить электроскорпиона только кристаллическим, не получив от него урона","Win elektroskorpiona only crystalline, not having received from him damage"
+_MAGICIAN_LEGS_TASK,"Убить {1} врагов только кристаллическим, не получив ярость и не меняя меха ({0}/{1})","{1} To kill enemies just crystal, without getting angry and without changing the fur ({0} / {1})"
+_SUPERHERO_HEAD_TASK,Дать пауку искусать Зака до смерти,Post a spider bite Zack to death
+_SUPERHERO_BODY_TASK,Получить уровень {1},Get the level of {1}
+_SUPERHERO_HANDS_TASK,Взорвать {1} мин за {T} секунд,Blow up {1} min {T} for seconds
+_SUPERHERO_LEGS_TASK,"Дать рогачу снести {1} деревьев за {T} секунд, убегая от него","Give Rogachev carry {1} of the trees {T} seconds, running away from him"
+; Constructor UI,,
+_MECH_MAKER_HEAD,Сборщик Мехов,Mechs engineer
+_MECH_MAKER_NAME,Мех в сборке,GOLIATH PARTS TO BE ASSEMBLED
+_MECH_MAKER_SELECT_TYPE,Тип запчасти,Parts type
+_MECH_MAKER_COST_INFO,Общая стоимость,TOTAL COST FOR THIS GOLIATH
+_MECH_MAKER_SELECT_INFO_HEADER,Описание запчасти,Part description
+_MECH_MAKER_SELECT_COST_HEADER,Стоимость запчасти,Part price
+_GARAGE_IN_GARAGE,В гараже,In the garage
+_GARAGE_IN_SLOT,С собой,Travels with Zac
+_GARAGE_EMPTY_SLOT,Пустой слот,Empty slot
+_MECH_GARAGE_HEAD,Стоянка мехов,Parking of mechs
+_GARAGE_DESTROY_MECH,Разобрать,Disassemble
+;Menu,,
+_MENU_MECHMAKER,Новый голиаф,New Goliath
+_MENU_REPAIR,Ремонт голиафа,Goliath repair
+_MENU_REPAIRING,Отремонтировать,Repair
+_MENU_NOTHING_TO_REPAIR,Нечего ремонтировать,Nothing to repair
+_MENU_TAKEALL,Взять все,TAKE ALL
+_MENU_CLOSE,Закрыть,CLOSE
+_MENU_DROP,Выкинуть,DROP
+_MENU_CANCEL,Отмена,CANCEL
+_MENU_MENU,Действия,ACTIONS
+_MENU_DRAG,Тянуть,DRAG
+_MENU_EQUIP,Одеть,EQUIP
+_MENU_UNEQUIP,Снять,UNEQUIP
+_MENU_TASKS,ЭКСПЕРИМЕНТЫ,EXPERIMENTS
+_MENU_OK,ОК,OK
+_MENU_TAKE,Взять,TAKE
+_MENU_MOVE_TO_CHEST,Положить в сундук,DROP TO CHEST
+_MENU_CHEST,Сундук,CHEST
+_MENU_MOVE,Переместить,MOVE
+_MENU_ZOOM,Приблизить,ZOOM
+_MENU_CENTER_HERO,Центр,CENTER
+_MENU_NAVIGATION,Навигация,NAVIGATION
+_MENU_BUILD_CAMP,Лагерь,CAMP
+_MENU_JOURNAL,Журнал,JOURNAL
+_MENU_INVENTORY,Инвентарь,INVENTORY
+_MENU_MAP,Карта,MAP
+_MENU_CAMP,Лагерь,CAMP
+_MENU_CRAFT,CRAFT,Craft
+_MENU_BONFIRE,Костер,BONFIRE
+_TASKS,Задачи,Tasks
+_UNLOCKED_TASK,Разблокировано,Unlocked
+_TRACK,Tracked,Tracked
+;,,
+_PAUSE_MENU_HEADER,Пауза,Pause
+_PAUSE_CONTINUE,Продолжить,Continue
+_PAUSE_OPTIONS,Опции,Options
+_PAUSE_CLOSE,Выход,Exit
+_OPTIONS_C_GAME,Игра,Sound
+_OPTIONS_C_VIDEO,Видео,Video
+_OPTIONS_TAB_GAME,Игра,Sound
+_OPTIONS_TAB_VIDEO,Видео,Video
+_OPTION_RESOLUTION,Разрешение экрана,Screen Resolution
+_OPTION_FULLSCREEN,Полноэкранный режим,Full Screen
+_OPTION_QUALITY,Качество графики,Graphics Quality
+_SFX_VOLUME,Громкость эффектов,Effects Volume
+_COMMON_VOLUME,Общая громкость звука,Master Volume
+_AMBIENT_VOLUME,Громкость фоновых звуков,Ambient Volume
+_MUSIC_VOLUME,Громкость музыки,Music Volume
+_OPTION_Q_LOWEST,Очень низкое,Lowest
+_OPTION_Q_LOW,Низкое,Low
+_OPTION_Q_NORMAL,Нормальное,Normal
+_OPTION_Q_HIGH,Высокое,High
+_OPTION_Q_ULTRA,Очень высокое,Ultra
+_OPTION_ON,Включено,On
+_OPTION_OFF,Выключено,Off
+_MENU_APPLY_OPTIONS,Применить изменения,Apply Changes
+_MENU_DISCARD_OPTIONS,Отменить изменения,Discard Changes
+_MENU_CLOSE_OPTIONS,Закрыть окно,Close
+_MENU_EQUIP_GADGET_0,Назначить гаджетом 0,Equip in Gadget slot 0
+_MENU_EQUIP_GADGET_1,Назначить гаджетом 1,Equip in Gadget slot 1
+_MENU_EQUIP_GADGET_2,Назначить гаджетом 2,Equip in Gadget slot 2
+_MENU_EQUIP_GADGET_3,Назначить гаджетом 3,Equip in Gadget slot 3
+_GADGET_CAN_NOT_USED_CHARACTED,Нельзя использовать сейчас,Cannot be used right now
+_MENU_GADGET_USE,Использовать,Use
+_DRINK_ELIXIR,Выпить,Drink
+_MENU_WEAPON_REPAIR,Починить,Repair
+_WORLD_YOU_ARE_HERE,Ты здесь,You are here!
+_MENU_BUILD,Построить,Build
+_MENU_EXCHANGE,Торговать,TRADE?
+_NOTHING_INTERESTING,Ничего интересного,Nothing interesting
+_MAP_CLOSE,Закрыть окно,CLOSE
+_MAP_TRAVEL,Путешествовать,TRAVEL
+_NARRATIVE_MONEY_ADDED,Деньги,Money
+_MENU_MECHCRAFT,СОЗДАТЬ ГОЛИАФА,CRAFT GOLIATH
+_MENU_BUY_ONE,Купить,Buy one
+_MENU_BUY_ALL,Купить все,Buy all
+_NEW_GAME_WARNING,"Предупреждение! Запуск новой игры будет удалить предыдущую сохранить данные игры. Вы уверены, что вы хотите, чтобы начать новую игру?",Warning! Starting a new game will delete the previous save game data. Are you sure you would like to start a new game?
+_NEW_GAME_YES,да,Yes
+_NEW_GAME_NO,Нет,No
+_GARAGE_REQUIRE_GOLIATH,Оборудованный Голиаф Обязательный,Equipped Goliath Required
+_GARAGE_NO_SLOT,Оборудованный Голиаф Обязательный,Equipped Goliath Required
+_GARAGE_EQUIPPED,Голиаф был получен!,Goliath has been retrieved!
+_GARAGE_STORED,Голиаф был сохранен!,Goliath has been stored!
+_GARAGE_EXCHANGE,Обмен Голиаф завершена!,Goliath exchange complete!
+_HERO_INVISIBLE,Герой невидимая,Hero invisible
+_MENU_SELL_ONE,Продаем один,Sell one
+_MENU_SELL_ALL,Продать все,Sell all
+_MECHMAKER_NO_SLOT,Свободное Голиаф Слот меню требуется!,Free Goliath Menu Slot required!

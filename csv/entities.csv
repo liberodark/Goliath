@@ -1,0 +1,22 @@
+sep=,,
+;Enemies,,
+BARSENTITY,барс,Leopard
+BARSENTITY_MANY,барсов,Leopards
+SPIDERENTITY,паук,Spider
+SPIDERENTITY_MANY,пауков,Spiders
+;Entities,,
+_MECHDRONT_BEEP,BEEP-BEEP,BEEP-BEEP
+_004_ZOMBIE,Испуганный зомби,Scared zombie
+; -- Mech descriptions,,
+_NAME_GOLIATH,Голиаф,Gromov
+_DESC_GOLIATH,"Это я - Голиаф, ловкий и отважный пилот.","I’m Andrew Gromov, a skilled, brave pilot and humble pilot."
+_NAME_IRON_GOLIATH,Железный голиаф,IRON GOLIATH
+_DESC_IRON_GOLIATH,Железная машина для убийств с встроенным подогревом.,Iron killing machine with built-in furnace.
+_NAME_CRYSTAL_GOLIATH,Кристаллический голиаф,CRYSTAL GOLIATH
+_DESC_CRYSTAL_GOLIATH,Кристаллическая машина с последними достижениями науки.,"Deadly, fragile and shiny. Immune to electricity, gain special effects from thunderbolts."
+_NAME_WOOD_GOLIATH,Деревянный голиаф,WOOD GOLIATH
+_DESC_WOOD_GOLIATH,"Ловкий и быстрый робот.  Если он и не сможет победить врага, то точно сумеет убежать от него.","Dexterous and quick. Its attacks are weak, it constantly breaks down and it burns easily."
+_NAME_STONE_GOLIATH,Каменный голиаф,STONE GOLIATH
+_DESC_STONE_GOLIATH,"Сильный, мощный и внушительный робот с нежной и ранимой душой.","It’s somewhere between a sledgehammer and an armored train. Virtually indestructible, but very slow."
+_MECH_FOLLOW,Следовать,Follow
+_MECH_GUARD,Охранять,Guard

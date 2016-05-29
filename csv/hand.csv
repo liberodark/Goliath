@@ -1,0 +1,219 @@
+sep=,,
+; Общее,,
+;Random quests and dialogues,,
+_DIALOGUE_START_PHRASE_0,Привет.,Hello.
+_DIALOGUE_START_PHRASE_1,"Хорошо, что ты пришел.",Glad you came.
+_DIALOGUE_START_PHRASE_2,Что ты хочешь от меня?,What do you want from me?
+_DIALOGUE_START_PHRASE_3,"Это классно, что ты снова тут.",It's nice to see you again.
+_DIALOGUE_START_PHRASE_4,"Ну, говори?",Say it.
+_DIALOGUE_START_PHRASE_5,О чем ты хочешь поговорить?,What do you want to talk about?
+_DIALOGUE_START_PHRASE_6,"Давай, говори быстрее, я кое-кого жду.","Spit it out already, I'm waiting for someone."
+_DIALOGUE_START_PHRASE_7,Ты по делу?,Do you have any business to me?
+_DIALOGUE_START_PHRASE_8,Выкладывай.,Spell it out.
+_DIALOGUE_START_PHRASE_9,Ну?,Well?
+_DIALOGUE_GOAWAY_PHRASE_0,"Я занят, уходи.","I'm busy, please leave."
+_DIALOGUE_GOAWAY_PHRASE_1,Мне нечего тебе сказать. Возможно позже.,I have nothing to tell you. Maybe later.
+_DIALOGUE_GOAWAY_PHRASE_2,Что ты хочешь от меня?,What do you want from me?
+_DIALOGUE_GOAWAY_PHRASE_3,Лучше тебе уйти.,It's better for you to leave.
+_DIALOGUE_GOAWAY_PHRASE_4,Попробуй придти позднее.,Come back later.
+_DIALOGUE_GOAWAY_PHRASE_5,Я сейчас не в настроении разговаривать.,I'm not into conversation.
+_DIALOGUE_GOAWAY_PHRASE_6,У меня нет ничего для тебя сейчас.,I'm not in the talking mood right now.
+_DIALOGUE_GOAWAY_PHRASE_7,А теперь уходи.,And now leave.
+_DIALOGUE_GOAWAY_PHRASE_8,"Отойди, я жду кое-чего.","Move away, I'm waiting for someone."
+_DIALOGUE_GOAWAY_PHRASE_9,Не стоит тебе сейчас со мной разговаривать.,It's better not to talk to me right now.
+_DIALOGUE_GOAWAY_ANSWER_0,"Все, ушел.","Well, I'm out."
+_DIALOGUE_GOAWAY_ANSWER_1,...,
+_DIALOGUE_GOAWAY_ANSWER_2,Просто мимо проходил..,Just passing by…
+_DIALOGUE_GOAWAY_ANSWER_3,"Хорошо, оставлю тебя в покое.","Ok, I'll leave you alone."
+_DIALOGUE_GOAWAY_ANSWER_4,"Ладно, до встречи.","Well, see you."
+_DIALOGUE_GOAWAY_ANSWER_5,Окей.,Ok
+_DIALOGUE_GOAWAY_ANSWER_6,"Ну давай, пока.","Ok, bye."
+_DIALOGUE_GOAWAY_ANSWER_7,Все понятно.,Got it.
+_DIALOGUE_GOAWAY_ANSWER_8,Пока.,Bye.
+_DIALOGUE_GOAWAY_ANSWER_9,У меня есть свои дела.,I have my own business.
+; убийство,,
+_DIALOGUE_RANDOMKILL_ANSWER_0,"Я могу решить любые проблемы, или устроить их.",I can solve any problems or neutralize them.
+_DIALOGUE_RANDOMKILL_ANSWER_1,"Уверен, раз ты здесь стоишь, у тебя есть работа.","I'm sure that if you're standing here, you've got some work to do."
+_DIALOGUE_RANDOMKILL_ANSWER_2,Хочу подзаработать. Методы любые.,I want to make some extra cash.
+_DIALOGUE_RANDOMKILL_ANSWER_3,"Выполняю любые, даже дурацкие задания.","I'll perform any task, even stupid ones."
+_DIALOGUE_RANDOMKILL_ANSWER_4,Готов работать за еду.,Will work for food.
+@DIALOGUE_RANDOMKILL_START_0,Ты очень вовремя. У меня есть одна проблема для тебя.,You're right on time. I've got a problem to solve for you.
+@DIALOGUE_RANDOMKILL_START_1,"Да, есть тут одни. Драться умеешь? А впрочем..","There is a guy, you know. Do you know how to fight? On the second thought…"
+@DIALOGUE_RANDOMKILL_START_2,Есть одна работенка.,There is some work to do.
+@DIALOGUE_RANDOMKILL_START_3,Говорят ты неплохо справлялся раньше. У меня есть задание для тебя.,They say you've done well this far. I've got a task for you.
+@DIALOGUE_RANDOMKILL_START_4,Есть великий квест для настоящих героев.,There is a great quest for true heroes.
+@DIALOGUE_RANDOMKILL_STARTANSWER_1,Это интересно.,This sounds interesting.
+@DIALOGUE_RANDOMKILL_STARTANSWER_2,"Я заинтригован, продолжай.",You've got my attention. Do go on.
+@DIALOGUE_RANDOMKILL_STARTANSWER_3,"Было бы лучше, если бы ты начал говорить о деле.",Please get to the point.
+@DIALOGUE_RANDOMKILL_STARTANSWER_4,"Давай, не тяни, нужны подробности.","Come on, I need details."
+@DIALOGUE_RANDOMKILL_STARTANSWER_0,Продолжай.,Continue.
+@DIALOGUE_RANDOMKILL_QUESTTASK_0,Последнее время мне очень мешают {{targetType}}(s). Не мог бы ты прихлопнуть {{targetCount}} из них?,{{enemyType}}(s) bothering me lately. Could you get rid of {{enemyCount}} of them?
+@DIALOGUE_RANDOMKILL_QUESTTASK_1,Мои заклятые враги - {{targetType}}(s). Принеси мне головы {{targetCount}} из них?,My arch-enemies are {{enemyType}}(s). Bring me {{enemyCount}} of their heads.
+@DIALOGUE_RANDOMKILL_QUESTTASK_2,Готов уничтожить {{targetCount}} {{targetType}}(s)?,Ready to destroy {{enemyCount}}  of {{enemyType}}(s)?
+@DIALOGUE_RANDOMKILL_QUESTTASK_3,Принеси мне головы {{targetCount}} {{targetType}}(s)?,Bring me {{enemyCount}} of {{enemyType}}(s) heads.
+@DIALOGUE_RANDOMKILL_QUESTTASK_4,Нужно устранить пару {{targetType}}(s).,I need you to get rid of {{enemyType}}(s).
+@DIALOGUE_RANDOMKILL_QUESTTASK_ANSWER_0,"Ой, мне срочно нужно по делам.","Oh, I have some urgent business."
+@DIALOGUE_RANDOMKILL_QUESTTASK_ANSWER_1,Ну в общем я попозже зайду и поговорим.,I'll come back and talk to you later. Maybe.
+@DIALOGUE_RANDOMKILL_QUESTTASK_ANSWER_2,"Опасные ребята, я не готов к таким заказам.",They're tough guys. I'm not ready for that.
+@DIALOGUE_RANDOMKILL_QUESTTASK_ANSWER_3,"Кажется я передумал, не нужна мне твоя работа.","I've changed my mind, I don't need your job."
+@DIALOGUE_RANDOMKILL_QUESTTASK_ANSWER_4,"(сделать вид, что меня тут не было)",(pretend that I've never been here)
+; фразы на диалог с убийством (промежуточный),,
+@DIALOGUE_RANDOMKILL_NOTREADY_PHRASE_0,"Сколько можно ждать, все сделал?",What's taking so long? Are you done?
+@DIALOGUE_RANDOMKILL_NOTREADY_PHRASE_1,"Ну что, ты их убил?",Have you killed them?
+@DIALOGUE_RANDOMKILL_NOTREADY_PHRASE_2,Надеюсь ты выполнил задание?,I hope you've accomplished your task.
+@DIALOGUE_RANDOMKILL_NOTREADY_PHRASE_3,Убил кого нужно?,Did you kill the right guy?
+@DIALOGUE_RANDOMKILL_NOTREADY_PHRASE_4,Ты справился с заданием?,Have you accomplished the task?
+@DIALOGUE_RANDOMKILL_NOTREADY_ANSWER_0,"Чуть-чуть не успел, уже иду доделывать.","I'm almost done, rushing to finish it."
+@DIALOGUE_RANDOMKILL_NOTREADY_ANSWER_1,"Нет, осталось совсем немного, иду.","No, it's almost done."
+@DIALOGUE_RANDOMKILL_NOTREADY_ANSWER_2,"Твое задание лучшее, скоро все будет сделано.",It will be done soon.
+@DIALOGUE_RANDOMKILL_NOTREADY_ANSWER_3,"Скоро все будет, не переживай.","Don't worry, it will be done soon."
+@DIALOGUE_RANDOMKILL_NOTREADY_ANSWER_4,"Я почти закончил, подожди.","Almost finished, wait."
+@DIALOGUE_RANDOMKILL_AWARD_PHRASE_0,"Все сделал как надо, держи награду.",You've done everything right. Here is your reward.
+@DIALOGUE_RANDOMKILL_AWARD_PHRASE_1,"Спасибо, держи, это тебе.","Thank you, here you go."
+@DIALOGUE_RANDOMKILL_AWARD_PHRASE_2,"Отлично, держи награду!","Wonderful, here is your reward!"
+@DIALOGUE_RANDOMKILL_AWARD_PHRASE_3,"Ты надежный парень, держи, это тебе.",You are a reliable man. This is for you.
+@DIALOGUE_RANDOMKILL_AWARD_PHRASE_4,"Ну наконец-то. Держи, это твоя награда.",Finally. Here is your reward
+@DIALOGUE_RANDOMKILL_AWARD_ANSWER_0,Спасибо!,Thank you!
+@DIALOGUE_RANDOMKILL_AWARD_ANSWER_1,Это был лучший заказ в моей практике...,It was the best assignment...
+@DIALOGUE_RANDOMKILL_AWARD_ANSWER_2,"Если что понадобится, я рядом.","If you need something, I'll be in touch."
+@DIALOGUE_RANDOMKILL_AWARD_ANSWER_3,"Такие задания - мой конек, зови если понадоблюсь.","I specialize in such assignments, so if you need my help, don't hesitate to call me."
+@DIALOGUE_RANDOMKILL_AWARD_ANSWER_4,А почему так мало?,Why so few?
+@DIALOGUE_RANDOMKILL_NOTREADY_PHRASE,Насчет убийства..,Talking about killings…
+@DIALOGUE_RANDOMKILL_READY_PHRASE,Я тут порубил кое-кого..,I have slashed a person…
+QUEST_RANDOMKILL_HEADER,Случайное убийство от {{owner}},Random killing from {{owner}}
+QUEST_RANDOMKILL_DESCRIPTION,"Я не думаю, что это задание важно, но тем не менее {{owner}} попросил меня это сделать.","I didn't think this task is important, but {{owner}} asked me to do it."
+QUEST_RANDOMKILL_OBJECTIVE,Убить {{complete_count}}/{{target_count}} {{target_param_0}},Kill {{complete_count}}/{{target_count}} {{target_param_0}}
+QUEST_RANDOMKILL_OBJECTIVE_RETURN,Вернуться за наградой к {{owner}},Go back to get your reward from {{owner}}
+_DIALOGUE_RANDOMITEM_ANSWER_0,Тебе ничего не нужно?,Is there anything you need?
+_DIALOGUE_RANDOMITEM_ANSWER_1,Может я могу тебе помочь?,Can I help you?
+_DIALOGUE_RANDOMITEM_ANSWER_2,"Что стоишь, потерял что-то?",What's wrong? Did you lose something?
+_DIALOGUE_RANDOMITEM_ANSWER_3,У тебя есть для меня задание?,Do you have a task for me?
+_DIALOGUE_RANDOMITEM_ANSWER_4,Может тебе что-нибудь нужно?,Do you need something?
+@DIALOGUE_RANDOMITEM_START_0,Ты очень вовремя. Мне кое-что нужно найти.,You're just in time. I need you to find something.
+@DIALOGUE_RANDOMITEM_START_1,Не мог бы ты найти кое-что для меня?,Could you find something for me?
+@DIALOGUE_RANDOMITEM_START_2,"Мне нужно вернуть пару вещей, можешь помочь мне?","I need to return a couple of things, can you help me?"
+@DIALOGUE_RANDOMITEM_START_3,Ну.. может быть ты смог бы мне кое-что принести.,Well… maybe you could bring me something.
+@DIALOGUE_RANDOMITEM_START_4,Мне нужно что-бы ты принес мне пару вещей.,I need you to bring me couple of things.
+@DIALOGUE_RANDOMITEM_STARTANSWER_1,Я и поиск - по жизни вместе.,Me and searching are together forever.
+@DIALOGUE_RANDOMITEM_STARTANSWER_2,Найти что-то? Без проблем.,Finding something? Not a question.
+@DIALOGUE_RANDOMITEM_STARTANSWER_3,"Ну, тебя я нашел, значит и остальное без проблем найду.","Well, I' ve found you, so it won't be hard to find something else."
+@DIALOGUE_RANDOMITEM_STARTANSWER_4,Подробнее? Может у меня есть что тебе предложить.,Need more details? There may be something that I can offer you.
+@DIALOGUE_RANDOMITEM_STARTANSWER_0,"Считай уже нашел, расскажи подробнее.",It's as good as found. Tell me more.
+@DIALOGUE_RANDOMITEM_QUESTTASK_0,"Где-то тут завалялось {{targetCount}} {{targetType}}(s). Очень нужны, принеси?",{{itemCount}} {{itemType}}(s) was (were) here somewhere. Can you fetch what I need?
+@DIALOGUE_RANDOMITEM_QUESTTASK_1,"Не спрашивай зачем, но мне надо {{targetCount}} {{targetType}}(s). Уже несешь?","Don't ask me why, but I need {{itemCount}} {{itemType}}(s). Do you have them?"
+@DIALOGUE_RANDOMITEM_QUESTTASK_2,Готов найти {{targetCount}} {{targetType}}(s)?,Are you ready to find {{itemCount}} {{itemType}}(s)?
+@DIALOGUE_RANDOMITEM_QUESTTASK_3,Принеси мне {{targetCount}} {{targetType}}(s)?,Bring me {{itemCount}} {{itemType}}(s)?
+@DIALOGUE_RANDOMITEM_QUESTTASK_4,Нужно найти {{targetType}}. Принеси мне {{targetCount}} {{targetType}}(s).,You need to find {{itemType}}. Bring me {{itemCount}} {{itemType}}(s).
+@DIALOGUE_RANDOMITEM_QUESTTASK_ANSWER_0,"Ой, мне срочно нужно по делам.","Oh, I have some urgent business."
+@DIALOGUE_RANDOMITEM_QUESTTASK_ANSWER_1,"Ищи сам, а я попозже зайду и поговорим.","Look for it by yourself, I'll be back later. Then we'll talk."
+@DIALOGUE_RANDOMITEM_QUESTTASK_ANSWER_2,"Не уверен что у меня получится, пока.",I doubt that I can do this. Bye.
+@DIALOGUE_RANDOMITEM_QUESTTASK_ANSWER_3,"Кажется я передумал, не нужна мне работа.","I've changed my mind, I don't need the job."
+@DIALOGUE_RANDOMITEM_QUESTTASK_ANSWER_4,"Сделать вид, что меня тут не было.",Pretend you were never here.
+@DIALOGUE_RANDOMITEM_NOTREADY_PHRASE_0,"Сколько можно ждать, ты принес то что я просил?","It took you forever, but did you bring what I asked?"
+@DIALOGUE_RANDOMITEM_NOTREADY_PHRASE_1,"Ну что, нашел мне то, что нужно?",So did you find what I need?
+@DIALOGUE_RANDOMITEM_NOTREADY_PHRASE_2,"Ты ведь все сделал, ты обещал мне кое-что принести, где оно?","Are you finished? You've promised to bring me something, where is it?"
+@DIALOGUE_RANDOMITEM_NOTREADY_PHRASE_3,Ты нашел все что нужно?,Have you found everything necessary?
+@DIALOGUE_RANDOMITEM_NOTREADY_PHRASE_4,Ну? Ты все нашел? Или мне попросить кого-то еще?,Well? Have you found everything necessary or shall I ask someone else?
+@DIALOGUE_RANDOMITEM_NOTREADY_ANSWER_0,"Чуть-чуть не успел, уже иду, все будет.",I will have it for you soon.
+@DIALOGUE_RANDOMITEM_NOTREADY_ANSWER_1,"Нет, не нашел, но видел, сейчас вот пойду и принесу.","No, I haven't, but saw it. I'll bring it to you right now."
+@DIALOGUE_RANDOMITEM_NOTREADY_ANSWER_2,"Все отлично, в процессе поиска, не переживай.","Everything just fine. Don't worry, I'm searching."
+@DIALOGUE_RANDOMITEM_NOTREADY_ANSWER_3,"Скоро все будет, не переживай.","Don’t worry, I'll find it in no time."
+@DIALOGUE_RANDOMITEM_NOTREADY_ANSWER_4,Скорее уйти доделывать задание.,Leave in a rush to finish the task.
+@DIALOGUE_RANDOMITEM_NOTREADY_FAIL_ANSWER_0,"Ой, потерял по пути, сейчас все будет!","Oh, I've lost it on the way here! I'll bring it right now."
+@DIALOGUE_RANDOMITEM_NOTREADY_FAIL_ANSWER_1,"Кажется я нашел, и потерял. Все странно.",I think I found and lost it. That's odd.
+@DIALOGUE_RANDOMITEM_NOTREADY_FAIL_ANSWER_2,Похоже меня обокрали. Придется искать заного.,I was robbed. I need to look for it again.
+@DIALOGUE_RANDOMITEM_NOTREADY_FAIL_ANSWER_3,"Ой, потерял.","Oh, I've lost it."
+@DIALOGUE_RANDOMITEM_NOTREADY_FAIL_ANSWER_4,"Где-то здесь же было (осмотрел карманы), сейчас найду!",It was right here (searching in pockets). I'll find it in no time!
+@DIALOGUE_RANDOMITEM_AWARD_PHRASE_0,"Это то, что нужно! Держи награду!",This exactly what I need! Here is your reward!
+@DIALOGUE_RANDOMITEM_AWARD_PHRASE_1,"Спасибо, держи, это тебе.","Thank you, here you go."
+@DIALOGUE_RANDOMITEM_AWARD_PHRASE_2,"Отлично, держи!",Excellent! Here you go.
+@DIALOGUE_RANDOMITEM_AWARD_PHRASE_3,"Ты надежный парень, держи, это тебе.",You are a reliable man. This is for you.
+@DIALOGUE_RANDOMITEM_AWARD_PHRASE_4,"Ну наконец-то. Держи, это твоя награда.",Finally. Here is your reward.
+@DIALOGUE_RANDOMITEM_AWARD_ANSWER_0,Спасибо!,Thank you!
+@DIALOGUE_RANDOMITEM_AWARD_ANSWER_1,Молодец..,Good job.
+@DIALOGUE_RANDOMITEM_AWARD_ANSWER_2,"Если что понадобится, я рядом.","If you need something, I'll be in touch."
+@DIALOGUE_RANDOMITEM_AWARD_ANSWER_3,"Такие задания - мой конек, зови если понадоблюсь.","I specialize in such assignments, so if you need my help, don't hesitate to call me."
+@DIALOGUE_RANDOMITEM_AWARD_ANSWER_4,Держу!,Got it!
+@DIALOGUE_RANDOMITEM_NOTREADY_PHRASE,Насчет нужных тебе вещей..,About things that you need…
+@DIALOGUE_RANDOMITEM_READY_PHRASE,Я тут принес тебе кое-что..,I've brought something for you…
+QUEST_RANDOMITEM_HEADER,Найти предмет для {{owner}},Find item for {{owner}}
+QUEST_RANDOMITEM_DESCRIPTION,"Я не думаю, что это задание важно, но тем не менее {{owner}} попросил меня это сделать.","I don't think that this task is important, but {{owner}} asked me to do it."
+QUEST_RANDOMITEM_OBJECTIVE,Найти {{complete_count}}/{{target_count}} {{target_param_0}},Find {{complete_count}}/{{target_count}} {{target_param_0}}
+QUEST_RANDOMITEM_OBJECTIVE_RETURN,Вернуться за наградой к {{owner}},Go back to get a reward from {{owner}}
+; Робот зомби,,
+DIALOGUE_ROBODRONT_PHRASE,Ты выглядишь грустным. Чем я могу помочь??,You look sad. Is there anything I can do for you?
+DIALOGUE_ROBODRONT_NOTREADY_PHRASE,Насчет той птицы..,About that bird…
+QUEST_ROBODRONT_HEADER,Механическая птица от {{owner}},Mechanical bird from {{owner}}
+QUEST_ROBODRONT_DESCRIPTION,"Он очень странный, если строит механических птиц, но тем не менее мне надо ее найти.","He is really odd, because he's building mechanical birds. Nevertheless I need to find her."
+QUEST_ROBODRONT_OBJECTIVE,Найти робоптицу,Find robot-bird.
+QUEST_ROBODRONT_OBJECTIVE_RETURN,Вернуться за наградой к {{owner}},Go back to get reward from {{owner}}
+; Поговори с другим НПЦ,,
+DIALOGUE_TALK_WITH_ANOTHER_NPC_PHRASE,Нужно что-нибудь?,
+DIALOGUE_TALK_WITH_ANOTHER_NPC_NOT_READY_PHRASE,По поводу твоего задания?,
+DIALOGUE_TALK_WITH_ANOTHER_NPC_READY_PHRASE,Сделяль,
+DIALOGUE_TALK_WITH_ANOTHER_NPC_ANOTHER_PHRASE,Меня к тебе чувак прислал.,
+QUEST_TALKWITHANOTHERNPC_HEADER,Поговорить с братом {{owner}},
+QUEST_TALKWITHANOTHERNPC_DESCRIPTION,Нужно поговорить с существом,
+QUEST_TALKWITHANOTHERNPC_OBJECTIVE,Найти и поговорить с чуваком,
+QUEST_TALKWITHANOTHERNPC_OBJECTIVE_RETURN,Вернуться за наградой к {{owner}},
+; Stories,,
+_ITEM_STORY01_NAME,Запись 7,Record 7
+_ITEM_STORY01_DESCRIPTION,Пошарпанная запись с номером 7,Shabby record number 7
+_STORY01_HEADER,Запись 7,Record 7
+_STORY01_CONTENT,"Это место не перестает меня удивлять. Еще вчера я бродил среди развалин древних храмов и убегал от настоящих мумий, а сегодня оказался среди зимнего леса с брошенными машинами, назначение и устройство которых я так и не смог понять.%n%n Другой на моем месте давно бы начал паниковать или писать сопливые фразы про безумие мира и свое одиночество. Но я уверен пока со мной мои бравые голиафы я не пропаду.","This place never ceases to amaze me. Only yesterday, I wandered among the ruins of ancient temples and escaped the real mummies. Today I found myself in the winter forest with abandoned cars.% n% n Anyone in my place would have started to panic or write snotty phrase about the madness of the world and his loneliness from the beginning. But I'm sure that with my brave Goliath, I’ll be fine."
+_ITEM_STORY02_NAME,Запись 9,Record 9
+_ITEM_STORY02_DESCRIPTION,Запись с номером 9,Record number 9
+_STORY02_HEADER,Запись 9,Record 9
+_STORY02_CONTENT,"Сегодня я видел странного зверя. Почти трех метровое существо с густой шерстью. Оно ходит на задних ногах и часто издает странные звуки, похожие на пение китов. Когда я решил подойти ближе оно заметило меня и растворилось в воздухе. Жаль я не умею рисовать, небольшой набросок этого животного украсил бы мой дневник.","Today I saw a strange beast. It was an almost three-meter high creature with thick fur. It walks on its hind legs, and often makes strange noises, like whales singing. When I decided to come closer, it saw me and disappeared in the air. It’s a pity for me I can’t draw, a small sketch of the animal would have graced my diary."
+_ITEM_STORY03_NAME,Запись 8,Record 8
+_ITEM_STORY03_DESCRIPTION,Запись с номером 8,Record number 8
+_STORY03_HEADER,Запись 8,Record 8
+_STORY03_CONTENT,"Вчера я бродил по развалинам города и нашел целый ящик с пометкой - водяные чипы. Внутри его было полно странных микросхем, я взял себе парочку на всякий случай-  вдруг пригодятся.","Yesterday I wandered among the ruins of the city and found a box with a note “Water chips.” It was full of odd chips, I took a couple just in case, they may come in handy."
+_ITEM_STORY04_NAME,Запись 6,Record 6
+_ITEM_STORY04_DESCRIPTION,Запись с номером 6,Record number 6
+_STORY04_HEADER,Запись 6,Record 6
+_STORY04_CONTENT,"Мне приснился странный сон, как будто мои голиафы обрели сознание и научились превращаться в разную технику - машины, самолеты и т.д.  А потом они стали воевать друг с другом за остатки топлива. Пожалуй лучше прекратить свои эксперименты с режимом автопилота.","I had a strange dream, as if my Goliaths gained consciousness and learned to transform into different techniques - cars, airplanes, etc. And then they began to fight each other for the remaining fuel. Perhaps better to stop my experiments with autopilot."
+_ITEM_STORY05_NAME,Запись 3,Record 3
+_ITEM_STORY05_DESCRIPTION,Запись с номером 3,Record number 3
+_STORY05_HEADER,Запись 3,Record 3
+_STORY05_CONTENT,"Тут полно разных озер, а я совсем не умею плавать. Надо срочно научиться или мне придется все время ходить только по земле, а это так скучно.","Here there are lots of different lakes, but I can’t swim at all. I need to learn how to swim right away or I’ll have to walk all the time. Which is so boring."
+_ITEM_CEMETRYSTORY01_NAME,Страница 13,Page 13
+_ITEM_CEMETRYSTORY01_DESCRIPTION,Страница 13,Page 13
+_CEMETRYSTORY01_HEADER,Айк и чудовища стр. 13,Ike and beasts page 13
+_CEMETRYSTORY01_CONTENT,"Айк вошел на старое заброшенное кладбище. Несмотря на тишину и спокойствие, царившее вокруг, Айк почувствовал липкое прикосновение страха. Спокойствие, здесь никого нет и быть не может","Ike entered an old, abandoned cemetery. Despite the tranquility, he felt a sticky touch of fear. ""Calm down,"" he said to himself. ""There's no one here."""
+_ITEM_CEMETRYSTORY02_NAME,Страница 14,Page 14
+_ITEM_CEMETRYSTORY02_DESCRIPTION,Страница 14,Page 14
+_CEMETRYSTORY02_HEADER,Айк и чудовища стр. 14,Ike and beasts page 14
+_CEMETRYSTORY02_CONTENT,"Айк тяжело дышал, его руки тряслись. Монстр был мертв, на этот раз окончательно. И это можно было бы считать победой, если бы в этот момент Айка не окружали десятки светящихся, голодных глаз","Ike was breathing heavily; his hands were shaking. The monster was dead - for good, this time. He would have considered that a victory if he hadn't been surrounded by dozens of hungry eyes, glowing in the dark."
+_ITEM_CEMETRYSTORY03_NAME,Страница 41,Page 41
+_ITEM_CEMETRYSTORY03_DESCRIPTION,Страница 41,Page 41
+_CEMETRYSTORY03_HEADER,Айк и чудовища стр. 41,Ike and beasts page 41
+_CEMETRYSTORY03_CONTENT,"...а затем он услышал странный звук, как будто что-то очень тяжелое волочится по земле. Айк резко обернулся и его сковал ужас - к нему приближался гигантский скелет, держа в руках цепь. Скелет ухмыльнулся, и в ту же секунду чудовищной силы удар обрушился на бедного путешественника размозжив ему череп","... and then he heard a strange sound, like something heavy being dragged across the ground. He whirled around, and his heart nearly stopped: a giant skeleton with a chain in its hands was walking toward him. The monster smirked, and in the next moment, a blow of enormous power crushed the poor traveler's skull."
+;Kvest,,
+Q013_DoskRobot,Обьявление 1,"Notice, stained with engine oil"
+Q012_DoskFox,Обьявление 2,Scorched notice with suspicious spots
+_011Q_Doska,Доска с обьявлениями,Bulletin board
+_ITEM_Q033_FOXSCROLL_NAME,свиток  вызова духов,scroll to call spirits
+_ITEM_Q033_FOXSCROLL_DESCRIPTION,Мятый свиток с латинскими словами.,Crumpled scroll with Latin writing
+; Corpse,,
+_CORPSE_TEXT_0,"Написано: ""Пал смертью храбрых""","""Everybody make mistakes"""
+_CORPSE_TEXT_1,"Написано: ""Прожил достойную жизнь""","""Manufactured by <Volt and Olaf, Inexhaustible Dreamers> . Pay us a visit """
+_CORPSE_TEXT_2,"Написано: ""Вечная память""","""Ain't no rest for the wicked"""
+_CORPSE_TEXT_3,"Интересно, кто это установил?","I wonder, who put this here? Strange choice of location.. and stone."
+_CORPSE_TEXT_4,"Странно, знакомое место.",This looks familiar.
+_CORPSE_TEXT_5,Вроде это мои вещи.,"Is it..is it my staff? At least, looks like it is."
+_CORPSE_TEXT_6,Написано что-то неразборчиво,Something illegible is written on the headstone.
+_CORPSE_TEXT_7,*Красивое надгробье из камня*,"Great choice of stone. Hope, it was for a good person."
+_CORPSE_TEXT_8,*Красивое надгробье из камня*,That's quite depressing.
+_CORPSE_TEXT_9,Вроде это мои вещи.,Looks like my staff..hm.
+_RESPAWN_TEXT_0,Что это было?,What was that? How? What the..
+_RESPAWN_TEXT_1,"Черт, голова раскалывается...","Damn, my head is splitting...Never going to get used to that."
+_RESPAWN_TEXT_2,Чувствую себя странно.,I feel weird. Don't want to go through this again.
+_RESPAWN_TEXT_3,Как долго я спал?,How long have I been asleep?
+_RESPAWN_TEXT_4,Я должен быть мертв... Что произошло?,I'm supposed to be dead.. What happened?
+_RESPAWN_TEXT_5,Это было странно.,"That was weird. Let's not do that again, Gromov."
+_RESPAWN_TEXT_6,Почему я все еще здесь?,Still here? Doesn't look like afterlife.
+_RESPAWN_TEXT_7,"Черт, все это был не сон.","Hell, it was't all a dream. Lucky me."
+_RESPAWN_TEXT_8,"Черт, все тело онемело..",My whole body feels numb. Should I be worried?
+_RESPAWN_TEXT_9,Как я тут оказался?,"How did I get here? Oh no, I'm not going to start talking to myself again."
+_RESPAWN_NOTIFY,Спустя несколько дней...,A few days later ...

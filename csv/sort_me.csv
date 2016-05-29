@@ -1,0 +1,95 @@
+sep=,,
+BLOCK_TEXT_VALUE,Blocked,Blocked
+_ITEM_TROLL_STICK_DESCRIPTION,"Вы не поверите, но это - палка. Деревянная. Чудеса, да и только...","You won't believe it, but this is a stick. A wooden stick. Fantastic isn't it ..."
+_ITEM_TROLL_STICK_NAME,Палка троллей,Troll stick
+_BEGIN_GAME,"Черт! Стоило догадаться, что этот минотавр - лжец! На Мичиган это явно не похоже. Нужно заряжать портал и двигаться дальше.",Heck! As soon guess that the Minotaur - a liar! In Michigan it obviously does not. It is necessary to charge the portal and move on.
+_GARKBOSS_LABEL,Гнарк босс,Gnark boss
+_BUSHCANYON_NAME,Куст,Canyon bush
+_CACTUS_NAME,Кактус,Cactus
+_CACTUS_FLOWER_NAME,Кактус,Flowering cactus
+_ARMBOXES_1_NAME,Военные ящики,Military boxes
+_ARMBOXES_2_NAME,Военные ящики,Military boxes
+_ARMBOXES_3_NAME,Военные ящики,Military boxes
+_PLANT_NAME,Песчаное образование,Crystal sand
+_PLANT_2_NAME,Песчаное образование,Crystal sand
+_PLANT_3_NAME,Песчаное образование,Crystal sand
+_PALM_NAME,Пальма,Palm
+_DRYBUSH_NAME,Куст,Desert bush
+_ITEM_INFO_HEADER,Инфо,INFO
+_ITEM_PRICE_HEADER,Цена,Price
+_SNOWDRIFTSMALL_NAME,Сугроб,Snowdrift
+_BARRELSOIL_NAME,Бочки с нефтью,Barrels Oil
+_CRYSTALSPLANT_2_NAME,Кристаллические образования,Crystal formation
+_MENU_WEAPON,ОРУЖИЕ,WEAPON
+_UNLOCKED_TASKS,Разблокированные задачи,Unlocked tasks
+_ITEM_SCROLL_IRONMECH_DESCRIPTION,Здесь простым языком описаны сложные схемы создания огромного железного робота,It describes how to create a giant iron robot.
+_TREESWAMP_NAME,Болотное дерево,Swamp tree
+_BOXWOODEN_NAME,Деревянный ящик,Wooden box
+_TOXICMUSHROOM_NAME,Токсичный гриб,Toxic mushroom
+_CELL_DOOR,Дверь камеры,Cell door
+_FENCE_JAIL,Ворота тюрьмы,Jail gates
+_WOOD_TUTOR_NAME,Старый Голиаф,Old Goliath
+_MAINBUILDING_LABEL,Машина перемещений,Teleport device
+_DRYFLOWER_NAME,Сухой цветок,Dry flower
+_ENERGYGATES_NAME,Энерговорота,Energy gates
+_SNOWTRAP_LABEL,Снежная ловушка,Snow trap
+_SHOPPINGCART_NAME,Повозка,Shopping cart
+_WOODTORCH_NAME,Факел,Torch
+control_setting_move_up,Вверх,Up
+control_setting_move_down,Вниз,Down
+control_setting_move_left,Налево,Left
+control_setting_move_right,Направо,Right
+control_setting_attack,Атака,Attack
+control_setting_interact,Взаимодействие,Action
+control_setting_special_attack,Спец. прием,Special move
+control_setting_fire,Стрельба,Shoot
+control_setting_exit,Назад/Меню,Back/Menu
+control_setting_spell_0,Спел1,First Spell
+control_setting_spell_1,Спел2,Second Spell
+control_setting_spell_2,Спел3,Third Spell
+control_setting_change_slot,Выбрать меха,Choose Goliath
+control_setting_journal,Журнал,Journal
+control_setting_inventory,Инвентарь,Inventory
+control_setting_map,Карта,Map
+control_setting_scale,Маштаб,Scale
+control_setting_rotate_camera,Поворот камеры,Rotate camera
+control_setting_press_button,Нажмите кнопку,Press button
+control_setting_scale_rotate_modifer,Сменить маштаб/поворот,Change scale/rotate
+control_setting_select_spell,Выбрать спел,Choose spell
+control_setting_run,Бег,Run
+control_setting_gadget_0,Гаджет1,Gadget 1
+control_setting_gadget_1,Гаджет2,Gadget 2
+control_setting_gadget_2,Гаджет3,Gadget 3
+control_setting_gadget_3,Гаджет4,Gadget 4
+Wood_Base_Head_Reciept_Description,Дает ускоренную перезарядку спеллов и шанс крита в ближнем бою,Faster recharge of abilities and a chance for a critical hit in the close combat
+Wood_Base_Leg_Reciept_Description,Дает увеличенные HP и увеличенную скорость передвижения,Increased HP and increased movement speed
+Wood_Base_Hand_Reciept_Description,Дает увеличенные HP и урон в ближнем бою,Increased HP and damage in the close combat
+Wood_Base_Body_Reciept_Description,Дает увеличенные HP и сопротивление к физическому урону,Increased HP and resistance to physical damage
+Wood_Coal_Head_Reciept_Description,"Дает ускоренную перезарядку спеллов, шанс крита в ближнем бою, защиту от огня. В ночное время освещает область вокруг меха","Fast recharge of spells, a chance of a critical damage in the close combat, and protection against fire. Lights up the area around your mech at night"
+Wood_Coal_Leg_Reciept_Description,"Дает увеличенные HP, увеличенную скорость передвижения, сопротивление к огню. При температуре выше 0 приобретает дополнительное ускорение","Increased HP, increased movement speed, and protection against fire. Moves faster when temperature is above freezing"
+Wood_Coal_Hand_Reciept_Description,Дает увеличенные HP и урон в ближнем бою. Мощные удары наносят дополнительный урон огнем,Increased HP and damage in the close combat. Heavy strikes inflict extra fire damage
+Wood_Coal_Body_Reciept_Description,Дает увеличенные HP и сопротивление к физическому урону. Обеспечивает иммунитет к поджиганиям,Increased HP and resistance to physical damage. Protection against fire
+Wood_Sniper_Head_Reciept_Description,"Дает ускоренную перезарядку спеллов, шанс крита в ближнем бою. Стрелы пробивают врагов насквозь",Fast ability recharge and a chance of a critical damage in the close combat. Arrows shoot through enemies
+Wood_Sniper_Leg_Reciept_Description,Дает увеличенные HP и увеличенную скорость передвижения. Ускоренная перезарядка всех умений,Increased HP and increased movement speed. Fast recharge of all skills
+Wood_Sniper_Hand_Reciept_Description,Дает увеличенные HP и урон в ближнем бою. Увеличенные скорость стрельбы и урон на дистанции,Increased HP and damage in the close combat. Increased rate of fire and damage in long range combat
+Wood_Sniper_Body_Reciept_Description,"Дает увеличенные HP и сопротивление к физическому урону. Появляется возможность наносить мощные выстрелы (x3 урон, отталкивание)","Increased HP and resistance to physical damage. Chance to fire more powerful shots (Damage X3, Knockback)"
+Iron_Base_Head_Reciept_Description,Дает ускоренную перезарядку спеллов и шанс крита в ближнем бою,Fast ability recharge and a chance of critical damage in the close combat
+Iron_Base_Leg_Reciept_Description,Дает увеличенные HP и скорость передвижения,Increased HP and movement speed
+Iron_Base_Hand_Reciept_Description,Дает увеличенные HP и урон в ближнем бою,Increased HP and damage in the close combat
+Iron_Base_Body_Reciept_Description,Дает увеличенные HP и сопротивление физическому урону,Increased HP and resistance to physical damage
+Iron_Rubaka_Head_Reciept_Description,"Дает ускоренную перезарядку спеллов и шанс крита в ближнем бою. Удары по одной цели игнорируют часть ее брони, (-3% брони за удар, максимум -30%)","Fast ability recharge and a chance of a critical damage in the close combat. When attacking one enemy, hits cause damage to enemy defense (-3% of defense per blow, up to 30%)"
+Iron_Rubaka_Body_Reciept_Description,"Дает увеличенные HP и сопротивление физическому урону. Запас пара и скорость восстановления увеличено. При накоплении 30%, 60% и 100% пара мех выстреливает своими шипами вокруг себя","Increased HP and resistance to physical damage. Increased steam stock and increased recharge speed. When accumulating 30%, 60% and 100% of steam, the Goliath shoots its spikes into nearby enemies"
+Iron_Rubaka_Hand_Reciept_Description,Дает увеличенные HP и урон в ближнем бою. Шанс крита в ближнем бою,Increased HP and damage in the close combat. Chance of the critical damage in the close-range battle
+Iron_Rubaka_Leg_Reciept_Description,Дает увеличенные HP и скорость передвижения. Игнорирует штрафы за пересеченную местность,Increased HP and movements speed. Ignores fines for crossing the area
+Iron_Armor_Head_Reciept_Description,Дает ускоренную перезарядку спеллов и шанс крита в ближнем бою. Дополнительная броня,Fast abilities recharge and a chance of a critical damage in close combat. Bonus to defense
+Iron_Armor_Body_Reciept_Description,Дает ускоренную перезарядку спеллов и дополнительную броню. Вокруг меха всегда есть зона раскаленного воздух наносящая урон врагам. Накопление пара увеличивает урон и радиус зоны,Fast spells recharge and extra defense. Creates a cloud of hot air around the mech that causes damage to enemies. Accumulated steam increases cloud damage and range
+Iron_Armor_Leg_Reciept_Description,Дает увеличенные HP и скорость передвижения. Дополнительные стальные пластины усиливают броню,Increased HP and movements speed. Additional steel plates reinforce the defense
+Iron_Armor_Hand_Reciept_Description,Дает увеличенные HP и урон в ближнем бою. Мощные удары поджигают противников,Increased HP and damage in the close combat. Powerful strikes put enemies on fire
+Stone_Base_Head_Reciept_Description,Дает ускоренную перезарядку спеллов и шанс крита в ближнем бою,Fast abilites recharge and a chance of a critical damage in the close combat
+Stone_Base_Body_Reciept_Description,Дает дополнительные HP и сопротивление физическому урону,Additional HP and resistance to physical damage
+Stone_Base_Leg_Reciept_Description,Дает дополнительные HP и увеличенную скорость передвижения,Additional HP and increased movements speed
+Stone_Base_Hand_Reciept_Description,Дает дополнительные HP и урон в ближнем бою,Additional HP and damage in the close combat
+Stone_Toxic_Head_Reciept_Description,"Дает ускоренную перезарядку спеллов, шанс крита в ближнем бою. Появляется возможность накапливать ярость",Fast abilities recharge and a chance of a critical damage in the close combat. Chance to accumulate rage
+Stone_Toxic_Body_Reciept_Description,"Дает дополнительные HP и сопротивление физическому урону. При максимуме ярости мех передвигается, оставляя за собой кислотный след","Additional HP and resistance to physical damage. When the rage level is at its maximum, the Goliath leaves an acid trail in its wake"
+Stone_Toxic_Leg_Reciept_Description,Дает дополнительные HP и увеличенную скорость передвижения. Сопротивление к кислотному урону,Additional HP and increased movements speed. Resistance to acid damage
+Stone_Toxic_Hand_Reciept_Description,Дает дополнительные HP и урон в ближнем бою. Мощные удары наносят дополнительный урон кислотой,Additional HP and damage in the close combat. Powerful strikes inflict extra damage with acid

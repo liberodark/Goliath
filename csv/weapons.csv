@@ -1,0 +1,704 @@
+sep=,,
+WOODMECH_1_SWORD_NAME,Деревянный меч,Wooden Sword [WOOD]
+WOODMECH_1_SWORD_DESCRIPTION,Оставляет убийственные занозы в врагах. /n{{damage}} урона/nШанс крита {{critical_chance}}%,This sword can leave deadly splinters in your enemies. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_SWORD_UNCOMMON_NAME,Улучшенный деревянный меч,Mighty Wooden Sword [WOOD]
+WOODMECH_1_SWORD_UNCOMMON_DESCRIPTION,Оставляет убийственные занозы в врагах. /n{{damage}} урона/nШанс крита {{critical_chance}}%,This sword can leave deadly splinters in your enemies. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_SWORD_EXCELLENT_NAME,Превосходный деревянный меч,Amazing Wooden Sword [WOOD]
+WOODMECH_1_SWORD_EXCELLENT_DESCRIPTION,Оставляет убийственные занозы в врагах. /n{{damage}} урона/nШанс крита {{critical_chance}}%,This sword can leave deadly splinters in your enemies. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_SWORD_MYTHICAL_NAME,Мифический деревянный меч,Mythical Wooden Sword [WOOD]
+WOODMECH_1_SWORD_MYTHICAL_DESCRIPTION,Оставляет убийственные занозы в врагах. /n{{damage}} урона/nШанс крита {{critical_chance}}%,This sword can leave deadly splinters in your enemies. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_SWORD_MAGNIFICENT_NAME,Великолепный деревянный меч,Fabulous Wooden Sword [WOOD]
+WOODMECH_1_SWORD_MAGNIFICENT_DESCRIPTION,Оставляет убийственные занозы в врагах. /n{{damage}} урона/nШанс крита {{critical_chance}}%,This sword can leave deadly splinters in your enemies. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_2_SWORD_FIRE_NAME,Огненный... деревянный меч,Flaming Wooden Sword [WOOD]
+WOODMECH_2_SWORD_FIRE_DESCRIPTION,"В огненном деревянном мече нет ничего удивительного. Можно не боятся, сам он не сгорит. /nЕсть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона./nШанс крита {{critical_chance}}%",Surprisingly durable flaming sword made of wood. Keep away from children. /n {{burning_chance}}% Chance to ignite enemy. /n{{damage}} fire DMG./nCrit {{critical_chance}}%
+WOODMECH_2_SWORD_FIRE_UNCOMMON_NAME,Улучшенный огненный... деревянный меч,Mighty Flaming Wooden Sword [WOOD]
+WOODMECH_2_SWORD_FIRE_UNCOMMON_DESCRIPTION,"В огненном деревянном мече нет ничего удивительного. Можно не боятся, сам он не сгорит. /nЕсть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона./nШанс крита {{critical_chance}}%",Surprisingly durable flaming sword made of wood. Keep away from children. /n {{burning_chance}}% Chance to ignite enemy. /n{{damage}} fire DMG./nCrit {{critical_chance}}%
+WOODMECH_2_SWORD_FIRE_EXCELLENT_NAME,Превосходный огненный... деревянный меч,Amazing Flaming Wooden Sword [WOOD]
+WOODMECH_2_SWORD_FIRE_EXCELLENT_DESCRIPTION,"В огненном деревянном мече нет ничего удивительного. Можно не боятся, сам он не сгорит. /nЕсть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона./nШанс крита {{critical_chance}}%",Surprisingly durable flaming sword made of wood. Keep away from children. /n {{burning_chance}}% Chance to ignite enemy. /n{{damage}} fire DMG./nCrit {{critical_chance}}%
+WOODMECH_2_SWORD_FIRE_MYTHICAL_NAME,Мифический огненный... деревянный меч,Mythical Flaming Wooden Sword [WOOD]
+WOODMECH_2_SWORD_FIRE_MYTHICAL_DESCRIPTION,"В огненном деревянном мече нет ничего удивительного. Можно не боятся, сам он не сгорит. /nЕсть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона./nШанс крита {{critical_chance}}%",Surprisingly durable flaming sword made of wood. Keep away from children. /n {{burning_chance}}% Chance to ignite enemy. /n{{damage}} fire DMG./nCrit {{critical_chance}}%
+WOODMECH_2_SWORD_FIRE_MAGNIFICENT_NAME,Великолепный огненный... деревянный меч,Fabulous Flaming Wooden Sword [WOOD]
+WOODMECH_2_SWORD_FIRE_MAGNIFICENT_DESCRIPTION,"В огненном деревянном мече нет ничего удивительного. Можно не боятся, сам он не сгорит. /nЕсть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона./nШанс крита {{critical_chance}}%",Surprisingly durable flaming sword made of wood. Keep away from children. /n {{burning_chance}}% Chance to ignite enemy. /n{{damage}} fire DMG./nCrit {{critical_chance}}%
+WOODMECH_3_SWORD_COLD_NAME,Деревянный меч мороза,Frosty Wooden Sword [WOOD]
+WOODMECH_3_SWORD_COLD_DESCRIPTION,"Бей быстро, замедляй врагов… просто потому, что ты это можешь. /nМорозит и замедляет врага с шансом {{frost_effect_chance}}%./n{{damage}} урона холодом/nШанс крита {{critical_chance}}%",Use woolen mittens for best results! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG/nCrit {{critical_chance}}%
+WOODMECH_3_SWORD_COLD_UNCOMMON_NAME,Улучшенный деревянный меч мороза,Mighty Frosty Wooden Sword [WOOD]
+WOODMECH_3_SWORD_COLD_UNCOMMON_DESCRIPTION,"Бей быстро, замедляй врагов… просто потому, что ты это можешь. /nМорозит и замедляет врага с шансом {{frost_effect_chance}}%./n{{damage}} урона холодом/nШанс крита {{critical_chance}}%",Use woolen mittens for best results! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG/nCrit {{critical_chance}}%
+WOODMECH_3_SWORD_COLD_EXCELLENT_NAME,Превосходный деревянный меч мороза,Amazing Frosty Wooden Sword [WOOD]
+WOODMECH_3_SWORD_COLD_EXCELLENT_DESCRIPTION,"Бей быстро, замедляй врагов… просто потому, что ты это можешь. /nМорозит и замедляет врага с шансом {{frost_effect_chance}}%./n{{damage}} урона холодом/nШанс крита {{critical_chance}}%",Use woolen mittens for best results! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG/nCrit {{critical_chance}}%
+WOODMECH_3_SWORD_COLD_MYTHICAL_NAME,Мифический деревянный меч мороза,Mythical Frosty Wooden Sword [WOOD]
+WOODMECH_3_SWORD_COLD_MYTHICAL_DESCRIPTION,"Бей быстро, замедляй врагов… просто потому, что ты это можешь. /nМорозит и замедляет врага с шансом {{frost_effect_chance}}%./n{{damage}} урона холодом/nШанс крита {{critical_chance}}%",Use woolen mittens for best results! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG/nCrit {{critical_chance}}%
+WOODMECH_3_SWORD_COLD_MAGNIFICENT_NAME,Великолепный деревянный меч мороза,Fabulous Frosty Wooden Sword [WOOD]
+WOODMECH_3_SWORD_COLD_MAGNIFICENT_DESCRIPTION,"Бей быстро, замедляй врагов… просто потому, что ты это можешь. /nМорозит и замедляет врага с шансом {{frost_effect_chance}}%./n{{damage}} урона холодом/nШанс крита {{critical_chance}}%",Use woolen mittens for best results! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG/nCrit {{critical_chance}}%
+WOODMECH_1_CLUB_NAME,Дубина,Wooden Club [WOOD]
+WOODMECH_1_CLUB_DESCRIPTION,"Классика жанра, кто с такой не бегал? /n{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%",Simple and beautiful. How to fight: put on the enemy's head. Repeat. /n{{damage}} DMG.  {{stun_chance}}% stun chance./nCrit {{critical_chance}}%
+WOODMECH_1_CLUB_UNCOMMON_NAME,Улучшенная дубина,Mighty Wooden Club [WOOD]
+WOODMECH_1_CLUB_UNCOMMON_DESCRIPTION,"Классика жанра, кто с такой не бегал? /n{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%",Simple and beautiful. How to fight: put on the enemy's head. Repeat. /n{{damage}} DMG.  {{stun_chance}}% stun chance./nCrit {{critical_chance}}%
+WOODMECH_1_CLUB_EXCELLENT_NAME,Превосходная дубина,Amazing Wooden Club [WOOD]
+WOODMECH_1_CLUB_EXCELLENT_DESCRIPTION,"Классика жанра, кто с такой не бегал? /n{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%",Simple and beautiful. How to fight: put on the enemy's head. Repeat. /n{{damage}} DMG.  {{stun_chance}}% stun chance./nCrit {{critical_chance}}%
+WOODMECH_1_CLUB_MYTHICAL_NAME,Мифическая дубина,Mythical Wooden Club [WOOD]
+WOODMECH_1_CLUB_MYTHICAL_DESCRIPTION,"Классика жанра, кто с такой не бегал? /n{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%",Simple and beautiful. How to fight: put on the enemy's head. Repeat. /n{{damage}} DMG.  {{stun_chance}}% stun chance./nCrit {{critical_chance}}%
+WOODMECH_1_CLUB_MAGNIFICENT_NAME,Великолепная дубина,Fabulous Wooden Club [WOOD]
+WOODMECH_1_CLUB_MAGNIFICENT_DESCRIPTION,"Классика жанра, кто с такой не бегал? /n{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%",Simple and beautiful. How to fight: put on the enemy's head. Repeat. /n{{damage}} DMG.  {{stun_chance}}% stun chance./nCrit {{critical_chance}}%
+WOODMECH_2_CLUB_COLD_NAME,Морозная дубина,Club of Coolness [WOOD]
+WOODMECH_2_CLUB_COLD_DESCRIPTION,Морозит и замедляет врага с {{frost_effect_chance}}% шансом./n{{damage}} урона холодом. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,Be cool! And freeze your enemies to death! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% Stun chance./nCrit {{critical_chance}}%
+WOODMECH_2_CLUB_COLD_UNCOMMON_NAME,Улучшенная морозная дубина,Mighty Club of Coolness [WOOD]
+WOODMECH_2_CLUB_COLD_UNCOMMON_DESCRIPTION,Морозит и замедляет врага с {{frost_effect_chance}}% шансом./n{{damage}} урона холодом. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,Be cool! And freeze your enemies to death! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% Stun chance./nCrit {{critical_chance}}%
+WOODMECH_2_CLUB_COLD_EXCELLENT_NAME,Превосходная морозная дубина,Amazing Club of Coolness [WOOD]
+WOODMECH_2_CLUB_COLD_EXCELLENT_DESCRIPTION,Морозит и замедляет врага с {{frost_effect_chance}}% шансом./n{{damage}} урона холодом. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,Be cool! And freeze your enemies to death! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% Stun chance./nCrit {{critical_chance}}%
+WOODMECH_2_CLUB_COLD_MYTHICAL_NAME,Мифическая морозная дубина,Mythical Club of Coolness [WOOD]
+WOODMECH_2_CLUB_COLD_MYTHICAL_DESCRIPTION,Морозит и замедляет врага с {{frost_effect_chance}}% шансом./n{{damage}} урона холодом. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,Be cool! And freeze your enemies to death! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% Stun chance./nCrit {{critical_chance}}%
+WOODMECH_2_CLUB_COLD_MAGNIFICENT_NAME,Великолепная морозная дубина,Fabulous Club of Coolness [WOOD]
+WOODMECH_2_CLUB_COLD_MAGNIFICENT_DESCRIPTION,Морозит и замедляет врага с {{frost_effect_chance}}% шансом./n{{damage}} урона холодом. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,Be cool! And freeze your enemies to death! /nFreeze and slow enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% Stun chance./nCrit {{critical_chance}}%
+WOODMECH_1_CATAPULT_NAME,Катапульта,Hand Catapult [WOOD]
+WOODMECH_1_CATAPULT_DESCRIPTION,Подходит для осады крепостей и стрельбы по воробьям. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Great choice for besieging castles. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_CATAPULT_UNCOMMON_NAME,Улучшенная катапульта,Mighty Hand Catapult [WOOD]
+WOODMECH_1_CATAPULT_UNCOMMON_DESCRIPTION,Подходит для осады крепостей и стрельбы по воробьям. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Great choice for besieging castles. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_CATAPULT_EXCELLENT_NAME,Превосходная катапульта,Amazing Hand Catapult [WOOD]
+WOODMECH_1_CATAPULT_EXCELLENT_DESCRIPTION,Подходит для осады крепостей и стрельбы по воробьям. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Great choice for besieging castles. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_CATAPULT_MYTHICAL_NAME,Мифическая катапульта,Mythical Hand Catapult [WOOD]
+WOODMECH_1_CATAPULT_MYTHICAL_DESCRIPTION,Подходит для осады крепостей и стрельбы по воробьям. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Great choice for besieging castles. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_CATAPULT_MAGNIFICENT_NAME,Великолепная катапульта,Fabulous Hand Catapult [WOOD]
+WOODMECH_1_CATAPULT_MAGNIFICENT_DESCRIPTION,Подходит для осады крепостей и стрельбы по воробьям. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Great choice for besieging castles. /n{{damage}} DMG/nCrit {{critical_chance}}%
+WOODMECH_1_CROSSBOW_NAME,Арбалет,Arbalest [WOOD]
+WOODMECH_1_CROSSBOW_DESCRIPTION,Для прицельных выстрелов по коленям искателей приключений /n{{damage}} урона/nШанс крита {{critical_chance}}%,"Take care of your knees, adventurers! /n{{damage}} DMG/nCrit {{critical_chance}}%"
+WOODMECH_1_CROSSBOW_UNCOMMON_NAME,Улучшенный арбалет,Mighty Arbalest [WOOD]
+WOODMECH_1_CROSSBOW_UNCOMMON_DESCRIPTION,Для прицельных выстрелов по коленям искателей приключений /n{{damage}} урона/nШанс крита {{critical_chance}}%,"Take care of your knees, adventurers! /n{{damage}} DMG/nCrit {{critical_chance}}%"
+WOODMECH_1_CROSSBOW_EXCELLENT_NAME,Превосходный арбалет,Amazing Arbalest [WOOD]
+WOODMECH_1_CROSSBOW_EXCELLENT_DESCRIPTION,Для прицельных выстрелов по коленям искателей приключений /n{{damage}} урона/nШанс крита {{critical_chance}}%,"Take care of your knees, adventurers! /n{{damage}} DMG/nCrit {{critical_chance}}%"
+WOODMECH_1_CROSSBOW_MYTHICAL_NAME,Мифический арбалет,Mythical Arbalest [WOOD]
+WOODMECH_1_CROSSBOW_MYTHICAL_DESCRIPTION,Для прицельных выстрелов по коленям искателей приключений /n{{damage}} урона/nШанс крита {{critical_chance}}%,"Take care of your knees, adventurers! /n{{damage}} DMG/nCrit {{critical_chance}}%"
+WOODMECH_1_CROSSBOW_MAGNIFICENT_NAME,Великолепный арбалет,Fabulous Arbalest [WOOD]
+WOODMECH_1_CROSSBOW_MAGNIFICENT_DESCRIPTION,Для прицельных выстрелов по коленям искателей приключений /n{{damage}} урона/nШанс крита {{critical_chance}}%,"Take care of your knees, adventurers! /n{{damage}} DMG/nCrit {{critical_chance}}%"
+WOODMECH_1_PIXELSWORD_NAME,Нереальный меч,Pretty Familiar Pixel Sword [WOOD]
+WOODMECH_1_PIXELSWORD_DESCRIPTION,Особо эффективен против пиксельных врагов./nШанс крита {{critical_chance}}%,Unbelievably effective against the pixel enemies./nCrit {{critical_chance}}%
+WOODMECH_1_CACTUSWEAPON_NAME,Легендарная дубина из кактуса,Legendary Spiked Cactus Club [WOOD]
+WOODMECH_1_CACTUSWEAPON_DESCRIPTION,{{damage}} урона физикой и кислотой. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,Most deadly cactus in the world./n{{damage}} physical and acid DMG. {{stun_chance}}% stun chance./nCrit {{critical_chance}}%
+STONEMECH_1_AXE_NAME,Каменная секира,Barbarian Axe [STONE]
+STONEMECH_1_AXE_DESCRIPTION,Такая есть только у меня и у Вонана Карвара./n{{damage}} урона. Сильным ударом оглушает противников./nШанс крита {{critical_chance}}%,Choice of the mightiest warriors. Can split everything../n{{damage}} DMG. Strong attack can stun enemies./nCrit {{critical_chance}}%
+STONEMECH_1_AXE_UNCOMMON_NAME,Улучшенная каменная секира,Mighty Barbarian Axe [STONE]
+STONEMECH_1_AXE_UNCOMMON_DESCRIPTION,Такая есть только у меня и у Вонана Карвара/n{{damage}} урона. Сильным ударом оглушает противников./nШанс крита {{critical_chance}}%,Choice of the mightiest warriors. Can split everything../n{{damage}} DMG. Strong attack can stun enemies./nCrit {{critical_chance}}%
+STONEMECH_1_AXE_EXCELLENT_NAME,Превосходная каменная секира,Amazing Barbarian Axe [STONE]
+STONEMECH_1_AXE_EXCELLENT_DESCRIPTION,Такая есть только у меня и у Вонана Карвара./n{{damage}} урона. Сильным ударом оглушает противников./nШанс крита {{critical_chance}}%,Choice of the mightiest warriors. Can split everything../n{{damage}} DMG. Strong attack can stun enemies./nCrit {{critical_chance}}%
+STONEMECH_1_AXE_MYTHICAL_NAME,Мифическая каменная секира,Mythical Barbarian Axe [STONE]
+STONEMECH_1_AXE_MYTHICAL_DESCRIPTION,Такая есть только у меня и у Вонана Карвара./n{{damage}} урона. Сильным ударом оглушает противников./nШанс крита {{critical_chance}}%,Choice of the mightiest warriors. Can split everything../n{{damage}} DMG. Strong attack can stun enemies./nCrit {{critical_chance}}%
+STONEMECH_1_AXE_MAGNIFICENT_NAME,Великолепная каменная секира,Fabulous Barbarian Axe [STONE]
+STONEMECH_1_AXE_MAGNIFICENT_DESCRIPTION,Такая есть только у меня и у Вонана Карвара./n{{damage}} урона. Сильным ударом оглушает противников./nШанс крита {{critical_chance}}%,Choice of the mightiest warriors. Can split everything../n{{damage}} DMG. Strong attack can stun enemies./nCrit {{critical_chance}}%
+STONEMECH_1_GUN_NAME,Пушка,Cannon [STONE]
+STONEMECH_1_GUN_DESCRIPTION,"Настоящее ""ядерное"" оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Autenthic medieval cannon, the most important part of the pirate ship. /n{{damage}} DMG/nCrit {{critical_chance}}%"
+STONEMECH_1_GUN_UNCOMMON_NAME,Улучшенная Пушка,Mighty Cannon [STONE]
+STONEMECH_1_GUN_UNCOMMON_DESCRIPTION,"Настоящее ""ядерное"" оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Autenthic medieval cannon, the most important part of the pirate ship. /n{{damage}} DMG/nCrit {{critical_chance}}%"
+STONEMECH_1_GUN_EXCELLENT_NAME,Превосходная пушка,Amazing Cannon [STONE]
+STONEMECH_1_GUN_EXCELLENT_DESCRIPTION,"Настоящее ""ядерное"" оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Autenthic medieval cannon, the most important part of the pirate ship. /n{{damage}} DMG/nCrit {{critical_chance}}%"
+STONEMECH_1_GUN_MYTHICAL_NAME,Мифическая пушка,Mythical Cannon [STONE]
+STONEMECH_1_GUN_MYTHICAL_DESCRIPTION,"Настоящее ""ядерное"" оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Autenthic medieval cannon, the most important part of the pirate ship. /n{{damage}} DMG/nCrit {{critical_chance}}%"
+STONEMECH_1_GUN_MAGNIFICENT_NAME,Великолепная пушка,Fabulous Cannon [STONE]
+STONEMECH_1_GUN_MAGNIFICENT_DESCRIPTION,"Настоящее ""ядерное"" оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Autenthic medieval cannon, the most important part of the pirate ship. /n{{damage}} DMG/nCrit {{critical_chance}}%"
+STONEMECH_1_MACE2_NAME,Булава,Mace of Pain [STONE]
+STONEMECH_1_MACE2_DESCRIPTION,{{damage}} урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,It really hurts. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%
+STONEMECH_1_MACE2_UNCOMMON_NAME,Улучшенная булава,Mighty Mace of Pain [STONE]
+STONEMECH_1_MACE2_UNCOMMON_DESCRIPTION,{{damage}} урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,It really hurts. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%
+STONEMECH_1_MACE2_EXCELLENT_NAME,Превосходная булава,Amazing Mace of Pain [STONE]
+STONEMECH_1_MACE2_EXCELLENT_DESCRIPTION,{{damage}} урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,It really hurts. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%
+STONEMECH_1_MACE2_MYTHICAL_NAME,Мифическая булава,Mythical Mace of Pain [STONE]
+STONEMECH_1_MACE2_MYTHICAL_DESCRIPTION,{{damage}} урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,It really hurts. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%
+STONEMECH_1_MACE2_MAGNIFICENT_NAME,Великолепная булава,Fabulous Mace of Pain [STONE]
+STONEMECH_1_MACE2_MAGNIFICENT_DESCRIPTION,{{damage}} урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,It really hurts. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%
+STONEMECH_2_MACE_COLD_NAME,Ледяная булава,Frozen Mace [STONE]
+STONEMECH_2_MACE_COLD_DESCRIPTION,Замораживает противников с вероятностью {{frost_effect_chance}}%./n{{damage}} урона холодом. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Perfect combination of stone and ice. Freeze enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_MACE_COLD_UNCOMMON_NAME,Улучшенная ледяная булава,Mighty Frozen Mace [STONE]
+STONEMECH_2_MACE_COLD_UNCOMMON_DESCRIPTION,Замораживает противников с вероятностью {{frost_effect_chance}}%./n{{damage}} урона холодом. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Perfect combination of stone and ice. Freeze enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_MACE_COLD_EXCELLENT_NAME,Превосходная ледяная булава,Amazing Frozen Mace [STONE]
+STONEMECH_2_MACE_COLD_EXCELLENT_DESCRIPTION,Замораживает противников с вероятностью {{frost_effect_chance}}%./n{{damage}} урона холодом. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Perfect combination of stone and ice. Freeze enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_MACE_COLD_MYTHICAL_NAME,Мифическая ледяная булава,Mythical Frozen Mace [STONE]
+STONEMECH_2_MACE_COLD_MYTHICAL_DESCRIPTION,Ледяная булова замораживает противников с вероятностью {{frost_effect_chance}}%./n{{damage}} урона холодом. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Perfect combination of stone and ice. Freeze enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_MACE_COLD_MAGNIFICENT_NAME,Великолепная ледяная булава,Fabulous Frozen Mace [STONE]
+STONEMECH_2_MACE_COLD_MAGNIFICENT_DESCRIPTION,Замораживает противников с вероятностью {{frost_effect_chance}}%./n{{damage}} урона холодом. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Perfect combination of stone and ice. Freeze enemies with {{frost_effect_chance}}% chance./n{{damage}} frost DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_3_MACEFIRE_NAME,Огненная булава,Fiery Mace [STONE]
+STONEMECH_3_MACEFIRE_DESCRIPTION,Есть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,"It's BBQ time, guys! /n {{burning_chance}}% Chance to ignite. /n{{damage}} fire DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%"
+STONEMECH_3_MACEFIRE_UNCOMMON_NAME,Улучшенная огненная булава,Mighty Fiery Mace [STONE]
+STONEMECH_3_MACEFIRE_UNCOMMON_DESCRIPTION,Есть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,"It's BBQ time, guys! /n {{burning_chance}}% Chance to ignite. /n{{damage}} fire DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%"
+STONEMECH_3_MACEFIRE_EXCELLENT_NAME,Превосходная огненная булава,Amazing Fiery Mace [STONE]
+STONEMECH_3_MACEFIRE_EXCELLENT_DESCRIPTION,Есть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,"It's BBQ time, guys! /n {{burning_chance}}% Chance to ignite. /n{{damage}} fire DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%"
+STONEMECH_3_MACEFIRE_MYTHICAL_NAME,Мифическая огненная булава,Mythical Fiery Mace [STONE]
+STONEMECH_3_MACEFIRE_MYTHICAL_DESCRIPTION,Есть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,"It's BBQ time, guys! /n {{burning_chance}}% Chance to ignite. /n{{damage}} fire DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%"
+STONEMECH_3_MACEFIRE_MAGNIFICENT_NAME,Великолепная огненная булава,Fabulous Fiery Mace [STONE]
+STONEMECH_3_MACEFIRE_MAGNIFICENT_DESCRIPTION,Есть {{burning_chance}}% шанс поджечь противника. /n{{damage}} огненного урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,"It's BBQ time, guys! /n {{burning_chance}}% Chance to ignite. /n{{damage}} fire DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance/nCrit {{critical_chance}}%"
+STONEMECH_1_SWORDBASE_NAME,Каменный меч,Rock Sword [STONE]
+STONEMECH_1_SWORDBASE_DESCRIPTION,{{damage}} урона. Сильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,It will be a big hit./n{{damage}} DMG. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_1_SWORDBASE_UNCOMMON_NAME,Улучшенный каменный меч,Mighty Rock Sword [STONE]
+STONEMECH_1_SWORDBASE_UNCOMMON_DESCRIPTION,{{damage}} урона. Сильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,It will be a big hit./n{{damage}} DMG. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_1_SWORDBASE_EXCELLENT_NAME,Превосходный каменный меч,Amazing Rock Sword [STONE]
+STONEMECH_1_SWORDBASE_EXCELLENT_DESCRIPTION,{{damage}} урона. Сильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,It will be a big hit./n{{damage}} DMG. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_1_SWORDBASE_MYTHICAL_NAME,Мифический каменный меч,Mythical Rock Sword [STONE]
+STONEMECH_1_SWORDBASE_MYTHICAL_DESCRIPTION,{{damage}} урона. Сильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,It will be a big hit./n{{damage}} DMG. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_1_SWORDBASE_MAGNIFICENT_NAME,Великолепный каменный меч,Fabulous Rock Sword [STONE]
+STONEMECH_1_SWORDBASE_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Сильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,It will be a big hit./n{{damage}} DMG. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_SWORD_FIRE_NAME,Раскаленный каменный меч,Infernal Rock Sword [STONE]
+STONEMECH_2_SWORD_FIRE_DESCRIPTION,Поджигает врагов с шансом {{burning_chance}}%/n{{damage}} огненного урона./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Hell yeah! {{burning_chance}}% Chance to ignite/n{{damage}} fire DMG./nStrong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_SWORD_FIRE_UNCOMMON_NAME,Улучшенный раскаленный каменный меч,Mighty Infernal Rock Sword [STONE]
+STONEMECH_2_SWORD_FIRE_UNCOMMON_DESCRIPTION,Поджигает врагов с шансом {{burning_chance}}%/n{{damage}} огненного урона./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Hell yeah! {{burning_chance}}% Chance to ignite/n{{damage}} fire DMG./nStrong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_SWORD_FIRE_EXCELLENT_NAME,Превосходный раскаленный каменный меч,Amazing Infernal Rock Sword [STONE]
+STONEMECH_2_SWORD_FIRE_EXCELLENT_DESCRIPTION,Поджигает врагов с шансом {{burning_chance}}%/n{{damage}} огненного урона./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Hell yeah! {{burning_chance}}% Chance to ignite/n{{damage}} fire DMG./nStrong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_SWORD_FIRE_MYTHICAL_NAME,Мифический раскаленный каменный меч,Mythical Infernal Rock Sword [STONE]
+STONEMECH_2_SWORD_FIRE_MYTHICAL_DESCRIPTION,Поджигает врагов с шансом {{burning_chance}}%/n{{damage}} огненного урона./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Hell yeah! {{burning_chance}}% Chance to ignite/n{{damage}} fire DMG./nStrong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_2_SWORD_FIRE_MAGNIFICENT_NAME,Великолепный раскаленный каменный меч,Fabulous Infernal Rock Sword [STONE]
+STONEMECH_2_SWORD_FIRE_MAGNIFICENT_DESCRIPTION,Поджигает врагов с шансом {{burning_chance}}%/n{{damage}} огненного урона./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Hell yeah! {{burning_chance}}% Chance to ignite/n{{damage}} fire DMG./nStrong attack have 60% stun chance./nCrit {{critical_chance}}%
+STONEMECH_3_SWORD_NAME,Каменный кислотный меч,Caustic Sword [STONE]
+STONEMECH_3_SWORD_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Corrodes enemies. /n{{damage}} acid DMG with {{acid_effect_chance}}% poison chance./nStrong attack have 100% stun chance./nCrit {{critical_chance}}%
+STONEMECH_3_SWORD_UNCOMMON_NAME,Улучшенный каменный кислотный меч,Mighty Caustic Sword [STONE]
+STONEMECH_3_SWORD_UNCOMMON_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Corrodes enemies. /n{{damage}} acid DMG with {{acid_effect_chance}}% poison chance./nStrong attack have 100% stun chance./nCrit {{critical_chance}}%
+STONEMECH_3_SWORD_EXCELLENT_NAME,Превосходный каменный кислотный меч,Amazing Caustic Sword [STONE]
+STONEMECH_3_SWORD_EXCELLENT_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Corrodes enemies. /n{{damage}} acid DMG with {{acid_effect_chance}}% poison chance./nStrong attack have 100% stun chance./nCrit {{critical_chance}}%
+STONEMECH_3_SWORD_MYTHICAL_NAME,Мифический каменный кислотный меч,Mythical Caustic Sword [STONE]
+STONEMECH_3_SWORD_MYTHICAL_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Corrodes enemies. /n{{damage}} acid DMG with {{acid_effect_chance}}% poison chance./nStrong attack have 100% stun chance./nCrit {{critical_chance}}%
+STONEMECH_3_SWORD_MAGNIFICENT_NAME,Великолепный каменный кислотный меч,Fabulous Caustic Sword [STONE]
+STONEMECH_3_SWORD_MAGNIFICENT_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nСильным ударом оглушает противников с вероятностью {{strongstun_chance}}%./nШанс крита {{critical_chance}}%,Corrodes enemies. /n{{damage}} acid DMG with {{acid_effect_chance}}% poison chance./nStrong attack have 100% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_SAW_NAME,Железная пила,Circular Saw [IRON]
+IRONMECH_1_SAW_DESCRIPTION,"Хромированная сталь, прекрасная режушая кромка, 120 оборотов в секунду./n{{damage}} урона/nШанс крита {{critical_chance}}%","120 RPS, OMG, O RLY? /n{{damage}} DMG/nCrit {{critical_chance}}%"
+IRONMECH_1_SAW_UNCOMMON_NAME,Улучшенная железная пила,Mighty Circular Saw [IRON]
+IRONMECH_1_SAW_UNCOMMON_DESCRIPTION,"Хромированная сталь, прекрасная режушая кромка, 120 оборотов в секунду./n{{damage}} урона/nШанс крита {{critical_chance}}%","120 RPS, OMG, O RLY? /n{{damage}} DMG/nCrit {{critical_chance}}%"
+IRONMECH_1_SAW_EXCELLENT_NAME,Превосходная железная пила,Amazing Circular Saw [IRON]
+IRONMECH_1_SAW_EXCELLENT_DESCRIPTION,"Хромированная сталь, прекрасная режушая кромка, 120 оборотов в секунду./n{{damage}} урона/nШанс крита {{critical_chance}}%","120 RPS, OMG, O RLY? /n{{damage}} DMG/nCrit {{critical_chance}}%"
+IRONMECH_1_SAW_MYTHICAL_NAME,Мифическая железная пила,Mythical Circular Saw [IRON]
+IRONMECH_1_SAW_MYTHICAL_DESCRIPTION,"Хромированная сталь, прекрасная режушая кромка, 120 оборотов в секунду./n{{damage}} урона/nШанс крита {{critical_chance}}%","120 RPS, OMG, O RLY? /n{{damage}} DMG/nCrit {{critical_chance}}%"
+IRONMECH_1_SAW_MAGNIFICENT_NAME,Великолепная железная пила,Fabulous Circular Saw [IRON]
+IRONMECH_1_SAW_MAGNIFICENT_DESCRIPTION,"Хромированная сталь, прекрасная режушая кромка, 120 оборотов в секунду./n{{damage}} урона/nШанс крита {{critical_chance}}%","120 RPS, OMG, O RLY? /n{{damage}} DMG/nCrit {{critical_chance}}%"
+IRONMECH_4_SAW_ELECTRIC_NAME,Электрическая пила flash04,Electric Saw [IRON]
+IRONMECH_4_SAW_ELECTRIC_DESCRIPTION,"Больше обороты, плюс немного гениальности превратили простую электрическую пилу в произведение уничтожающее противников электричеством./n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%",Superfast and dangerous electric thing. Don't use in bathroom! /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_4_SAW_ELECTRIC_UNCOMMON_NAME,Улучшенная Электрическая пила flash04,Mighty Electric Saw [IRON]
+IRONMECH_4_SAW_ELECTRIC_UNCOMMON_DESCRIPTION,"Больше обороты, плюс немного гениальности превратили простую электрическую пилу в произведение уничтожающее противников электричеством./n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%",Superfast and dangerous electric thing. Don't use in bathroom! /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_4_SAW_ELECTRIC_EXCELLENT_NAME,Превосходная электрическая пила flash04,Amazing Electric Saw [IRON]
+IRONMECH_4_SAW_ELECTRIC_EXCELLENT_DESCRIPTION,"Больше обороты, плюс немного гениальности превратили простую электрическую пилу в произведение уничтожающее противников электричеством./n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%",Superfast and dangerous electric thing. Don't use in bathroom! /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_4_SAW_ELECTRIC_MYTHICAL_NAME,Мифическая электрическая пила flash04,Mythical Electric Saw [IRON]
+IRONMECH_4_SAW_ELECTRIC_MYTHICAL_DESCRIPTION,"Больше обороты, плюс немного гениальности превратили простую электрическую пилу в произведение уничтожающее противников электричеством./n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%",Superfast and dangerous electric thing. Don't use in bathroom! /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_4_SAW_ELECTRIC_MAGNIFICENT_NAME,Великолепная электрическая пила flash04,Fabulous Electric Saw [IRON]
+IRONMECH_4_SAW_ELECTRIC_MAGNIFICENT_DESCRIPTION,"Больше обороты, плюс немного гениальности превратили простую электрическую пилу в произведение уничтожающее противников электричеством./n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%",Superfast and dangerous electric thing. Don't use in bathroom! /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_1_MACE_NAME,Железная булава,Iron Mace [IRON]
+IRONMECH_1_MACE_DESCRIPTION,"Сокрушительный аргумент в любых переговорах. /n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%",A crushing argument in any negotiations./n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MACE_UNCOMMON_NAME,Улучшенная железная булава,Mighty Iron Mace [IRON]
+IRONMECH_1_MACE_UNCOMMON_DESCRIPTION,"Сокрушительный аргумент в любых переговорах. /n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%",A crushing argument in any negotiations./n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MACE_EXCELLENT_NAME,Превосходная железная булава,Amazing Iron Mace [IRON]
+IRONMECH_1_MACE_EXCELLENT_DESCRIPTION,"Сокрушительный аргумент в любых переговорах. /n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%",A crushing argument in any negotiations./n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MACE_MYTHICAL_NAME,Мифическая железная булава,Mythical Iron Mace [IRON]
+IRONMECH_1_MACE_MYTHICAL_DESCRIPTION,"Сокрушительный аргумент в любых переговорах. /n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%",A crushing argument in any negotiations./n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MACE_MAGNIFICENT_NAME,Великолепня железная булава.,Fabulous Iron Mace [IRON]
+IRONMECH_1_MACE_MAGNIFICENT_DESCRIPTION,"Сокрушительный аргумент в любых переговорах. /n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%",A crushing argument in any negotiations./n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_CROSSBOW_NAME,Гарпун,Harpoon [IRON]
+IRONMECH_1_CROSSBOW_DESCRIPTION,Идеален для подводной рыбалки. /n{{damage}}  урона/nШанс крита {{critical_chance}}%,Perfect for spear fishing and creating holes in different creatures. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_CROSSBOW_UNCOMMON_NAME,Улучшенный Гарпун,Mighty Harpoon [IRON]
+IRONMECH_1_CROSSBOW_UNCOMMON_DESCRIPTION,Идеален для подводной рыбалки. /n{{damage}}  урона/nШанс крита {{critical_chance}}%,Perfect for spear fishing and creating holes in different creatures. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_CROSSBOW_EXCELLENT_NAME,Превосходный Гарпун,Amazing Harpoon [IRON]
+IRONMECH_1_CROSSBOW_EXCELLENT_DESCRIPTION,Идеален для подводной рыбалки. /n{{damage}}  урона/nШанс крита {{critical_chance}}%,Perfect for spear fishing and creating holes in different creatures. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_CROSSBOW_MYTHICAL_NAME,Мифический Гарпун,Mythical Harpoon [IRON]
+IRONMECH_1_CROSSBOW_MYTHICAL_DESCRIPTION,Идеален для подводной рыбалки. /n{{damage}}  урона/nШанс крита {{critical_chance}}%,Perfect for spear fishing and creating holes in different creatures. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_CROSSBOW_MAGNIFICENT_NAME,Великолепный Гарпун,Fabulous Harpoon [IRON]
+IRONMECH_1_CROSSBOW_MAGNIFICENT_DESCRIPTION,Идеален для подводной рыбалки. /n{{damage}}  урона/nШанс крита {{critical_chance}}%,Perfect for spear fishing and creating holes in different creatures. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_SAWAXESIMPLE_NAME,Пило-топор,Saw-Axe [IRON]
+IRONMECH_1_SAWAXESIMPLE_DESCRIPTION,Мощное сочетание рубящих и пилящих качеств. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Chop and saw at the same time. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_SAWAXESIMPLE_UNCOMMON_NAME,Улучшенный пило-топор,Mighty Saw-Axe [IRON]
+IRONMECH_1_SAWAXESIMPLE_UNCOMMON_DESCRIPTION,Мощное сочетание рубящих и пилящих качеств. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Chop and saw at the same time. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_SAWAXESIMPLE_EXCELLENT_NAME,Превосходный пило-топор,Amazing Saw-Axe [IRON]
+IRONMECH_1_SAWAXESIMPLE_EXCELLENT_DESCRIPTION,Мощное сочетание рубящих и пилящих качеств. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Chop and saw at the same time. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_SAWAXESIMPLE_MYTHICAL_NAME,Мифический пила-топор,Mythical Saw-Axe [IRON]
+IRONMECH_1_SAWAXESIMPLE_MYTHICAL_DESCRIPTION,Мощное сочетание рубящих и пилящих качеств. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Chop and saw at the same time. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_1_SAWAXESIMPLE_MAGNIFICENT_NAME,Великолепный пила-топор,Fabulous Saw-Axe [IRON]
+IRONMECH_1_SAWAXESIMPLE_MAGNIFICENT_DESCRIPTION,Мощное сочетание рубящих и пилящих качеств. /n{{damage}} урона/nШанс крита {{critical_chance}}%,Chop and saw at the same time. /n{{damage}} DMG/nCrit {{critical_chance}}%
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_NAME,Электрический Пила-топор,Electric Saw-Axe [IRON]
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_DESCRIPTION,Электрическая Пила-топор железного меха /n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%,As effective as it sounds. /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_UNCOMMON_NAME,Улучшенный электрический пила-топор,Mighty Electric Saw-Axe [IRON]
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_UNCOMMON_DESCRIPTION,Электрическая Пила-топор железного меха /n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%,As effective as it sounds. /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_EXCELLENT_NAME,Превосходный электрический пила-топор,Amazing Electric Saw-Axe [IRON]
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_EXCELLENT_DESCRIPTION,Электрическая Пила-топор железного меха /n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%,As effective as it sounds. /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_MYTHICAL_NAME,Мифический электрический пила-топор,Mythical Electric Saw-Axe [IRON]
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_MYTHICAL_DESCRIPTION,Электрическая Пила-топор железного меха /n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%,As effective as it sounds. /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_MAGNIFICENT_NAME,Великолепный электрический пила-топор,Fabulous Electric Saw-Axe [IRON]
+IRONMECH_2_SAWAXESIMPLE_ELECTRIC_MAGNIFICENT_DESCRIPTION,Электрическая Пила-топор железного меха /n{{damage}} урона электричеством. {{electro_effect_chance}}% шанс дополнительного урона./nШанс крита {{critical_chance}}%,As effective as it sounds. /n{{damage}} electric DMG. {{electro_effect_chance}}% chance of additional DMG./nCrit {{critical_chance}}%
+IRONMECH_3_SAWAXEICE_NAME,Ледяной пила-топор,Frozen Saw-Axe [IRON]
+IRONMECH_3_SAWAXEICE_DESCRIPTION,"Рубит, пилит и... замораживает! /n{{damage}} урона холодом. Замораживает противников с вероятностью {{frost_effect_chance}}%./nШанс крита {{critical_chance}}%",Almost as deadly as an ice pick. /n{{damage}} frost DMG. Freeze enemies with {{frost_effect_chance}}% chance./nCrit {{critical_chance}}%
+IRONMECH_3_SAWAXEICE_UNCOMMON_NAME,Улучшенный ледяной пила-топор,Mighty Frozen Saw-Axe [IRON]
+IRONMECH_3_SAWAXEICE_UNCOMMON_DESCRIPTION,"Рубит, пилит и... замораживает! /n{{damage}} урона холодом. Замораживает противников с вероятностью {{frost_effect_chance}}%./nШанс крита {{critical_chance}}%",Almost as deadly as an ice pick. /n{{damage}} frost DMG. Freeze enemies with {{frost_effect_chance}}% chance./nCrit {{critical_chance}}%
+IRONMECH_3_SAWAXEICE_EXCELLENT_NAME,Превосходный ледяной пила-топор,Amazing Frozen Saw-Axe [IRON]
+IRONMECH_3_SAWAXEICE_EXCELLENT_DESCRIPTION,"Рубит, пилит и... замораживает! /n{{damage}} урона холодом. Замораживает противников с вероятностью {{frost_effect_chance}}%./nШанс крита {{critical_chance}}%",Almost as deadly as an ice pick. /n{{damage}} frost DMG. Freeze enemies with {{frost_effect_chance}}% chance./nCrit {{critical_chance}}%
+IRONMECH_3_SAWAXEICE_MYTHICAL_NAME,Мифический ледяной пила-топор,Mythical Frozen Saw-Axe [IRON]
+IRONMECH_3_SAWAXEICE_MYTHICAL_DESCRIPTION,"Рубит, пилит и... замораживает! /n{{damage}} урона холодом. Замораживает противников с вероятностью {{frost_effect_chance}}%./nШанс крита {{critical_chance}}%",Almost as deadly as an ice pick. /n{{damage}} frost DMG. Freeze enemies with {{frost_effect_chance}}% chance./nCrit {{critical_chance}}%
+IRONMECH_3_SAWAXEICE_MAGNIFICENT_NAME,Великолепный ледяной пила-топор,Fabulous Frozen Saw-Axe [IRON]
+IRONMECH_3_SAWAXEICE_MAGNIFICENT_DESCRIPTION,"Рубит, пилит и... замораживает! /n{{damage}} урона холодом. Замораживает противников с вероятностью {{frost_effect_chance}}%./nШанс крита {{critical_chance}}%",Almost as deadly as an ice pick. /n{{damage}} frost DMG. Freeze enemies with {{frost_effect_chance}}% chance./nCrit {{critical_chance}}%
+IRONMECH_5_SAWAXEFIRE_NAME,Огненная пила-топор,Fiery Saw-Axe [IRON]
+IRONMECH_5_SAWAXEFIRE_DESCRIPTION,{{damage}} огненного урона. Поджигает врагов с шансом {{burning_chance}}%/nШанс крита {{critical_chance}}%,Prepare a well-done steak in the heat of battle! {{burning_chance}}% chance to ignite./nCrit {{critical_chance}}%
+IRONMECH_5_SAWAXEFIRE_UNCOMMON_NAME,Улучшенная огненная пила-топор,Mighty Fiery Saw-Axe [IRON]
+IRONMECH_5_SAWAXEFIRE_UNCOMMON_DESCRIPTION,{{damage}} огненного урона. Поджигает врагов с шансом {{burning_chance}}%/nШанс крита {{critical_chance}}%,Prepare a well-done steak in the heat of battle! {{burning_chance}}% chance to ignite./nCrit {{critical_chance}}%
+IRONMECH_5_SAWAXEFIRE_EXCELLENT_NAME,Превосходная огненная пила-топор,Amazing Fiery Saw-Axe [IRON]
+IRONMECH_5_SAWAXEFIRE_EXCELLENT_DESCRIPTION,{{damage}} огненного урона. Поджигает врагов с шансом {{burning_chance}}%/nШанс крита {{critical_chance}}%,Prepare a well-done steak in the heat of battle! {{burning_chance}}% chance to ignite./nCrit {{critical_chance}}%
+IRONMECH_5_SAWAXEFIRE_MYTHICAL_NAME,Мифическая огненная пила-топор,Mythical Fiery Saw-Axe [IRON]
+IRONMECH_5_SAWAXEFIRE_MYTHICAL_DESCRIPTION,{{damage}} огненного урона. Поджигает врагов с шансом {{burning_chance}}%/nШанс крита {{critical_chance}}%,Prepare a well-done steak in the heat of battle! {{burning_chance}}% chance to ignite./nCrit {{critical_chance}}%
+IRONMECH_5_SAWAXEFIRE_MAGNIFICENT_NAME,Великолепная огненная пила-топор,Fabulous Fiery Saw-Axe [IRON]
+IRONMECH_5_SAWAXEFIRE_MAGNIFICENT_DESCRIPTION,{{damage}} огненного урона. Поджигает врагов с шансом {{burning_chance}}%/nШанс крита {{critical_chance}}%,Prepare a well-done steak in the heat of battle! {{burning_chance}}% chance to ignite./nCrit {{critical_chance}}%
+IRONMECH_1_MOLOT_NAME,Поршневой молот,Power Sledge [IRON]
+IRONMECH_1_MOLOT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,Gives you ability to flatten everything. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MOLOT_UNCOMMON_NAME,Улучшенный поршневой молот,Mighty Power Sledge [IRON]
+IRONMECH_1_MOLOT_UNCOMMON_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,Gives you ability to flatten everything. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MOLOT_EXCELLENT_NAME,Превосходный поршневой молот,Amazing Power Sledge [IRON]
+IRONMECH_1_MOLOT_EXCELLENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,Gives you ability to flatten everything. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MOLOT_MYTHICAL_NAME,Мифический поршневой молот,Mythical Power Sledge [IRON]
+IRONMECH_1_MOLOT_MYTHICAL_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,Gives you ability to flatten everything. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+IRONMECH_1_MOLOT_MAGNIFICENT_NAME,Великолепный поршневой молот,Fabulous Power Sledge [IRON]
+IRONMECH_1_MOLOT_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,Gives you ability to flatten everything. /n{{damage}} DMG. {{stun_chance}}% stun chance. Strong attack have 60% stun chance./nCrit {{critical_chance}}%
+WOODMECH_4_SWORD_REINFORCED_NAME,Усовершенствованный деревянный меч,Усовершенствованный деревянный меч
+WOODMECH_4_SWORD_REINFORCED_DESCRIPTION,"Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%"
+WOODMECH_4_SWORD_REINFORCED_UNCOMMON_NAME,Улучшенный деревянный меч,Улучшенный деревянный меч
+WOODMECH_4_SWORD_REINFORCED_UNCOMMON_DESCRIPTION,"Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%"
+WOODMECH_4_SWORD_REINFORCED_EXCELLENT_NAME,Превосходный деревянный меч,Превосходный деревянный меч
+WOODMECH_4_SWORD_REINFORCED_EXCELLENT_DESCRIPTION,"Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%"
+WOODMECH_4_SWORD_REINFORCED_MYTHICAL_NAME,Мифический деревянный меч,Мифический деревянный меч
+WOODMECH_4_SWORD_REINFORCED_MYTHICAL_DESCRIPTION,"Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%"
+WOODMECH_4_SWORD_REINFORCED_MAGNIFICENT_NAME,Великолепный деревянный меч,Великолепный деревянный меч
+WOODMECH_4_SWORD_REINFORCED_MAGNIFICENT_DESCRIPTION,"Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%","Стоило произвести ряд дополнений, как простой деревянный меч превратился в весьма грозное оружие. /n{{damage}} урона/nШанс крита {{critical_chance}}%"
+WOODMECH_5_SWORD_ACID_NAME,Кислотный деревянный меч,Кислотный деревянный меч
+WOODMECH_5_SWORD_ACID_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%
+WOODMECH_5_SWORD_ACID_UNCOMMON_NAME,Улучшенный кислотный деревянный меч,Улучшенный кислотный деревянный меч
+WOODMECH_5_SWORD_ACID_UNCOMMON_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%
+WOODMECH_5_SWORD_ACID_EXCELLENT_NAME,Превосходный кислотный деревянный меч,Превосходный кислотный деревянный меч
+WOODMECH_5_SWORD_ACID_EXCELLENT_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%
+WOODMECH_5_SWORD_ACID_MYTHICAL_NAME,Мифический кислотный деревянный меч,Мифический кислотный деревянный меч
+WOODMECH_5_SWORD_ACID_MYTHICAL_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%
+WOODMECH_5_SWORD_ACID_MAGNIFICENT_NAME,Великолепный кислотный деревянный меч,Великолепный кислотный деревянный меч
+WOODMECH_5_SWORD_ACID_MAGNIFICENT_DESCRIPTION,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%,{{damage}} кислотного урона c {{acid_effect_chance}}% шансом отравить противника./nШанс крита {{critical_chance}}%
+WOODMECH_3_CLUB_FIRE_NAME,Огненная дубина,Огненная дубина
+WOODMECH_3_CLUB_FIRE_DESCRIPTION,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CLUB_FIRE_UNCOMMON_NAME,Улучшенная огненная дубина,Улучшенная огненная дубина
+WOODMECH_3_CLUB_FIRE_UNCOMMON_DESCRIPTION,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CLUB_FIRE_EXCELLENT_NAME,Превосходная огненная дубина,Превосходная огненная дубина
+WOODMECH_3_CLUB_FIRE_EXCELLENT_DESCRIPTION,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CLUB_FIRE_MYTHICAL_NAME,Мифическая огненная дубина,Мифическая огненная дубина
+WOODMECH_3_CLUB_FIRE_MYTHICAL_DESCRIPTION,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CLUB_FIRE_MAGNIFICENT_NAME,Великолепная огненная дубина,Великолепная огненная дубина
+WOODMECH_3_CLUB_FIRE_MAGNIFICENT_DESCRIPTION,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Есть {{stun_chance}}% шанс оглушить противника./nШанс поджечь противника {{burning_chance}}%. /nНаносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_4_CLUB_REINFORCED_NAME,Усиленная дубина,Усиленная дубина
+WOODMECH_4_CLUB_REINFORCED_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%
+WOODMECH_4_CLUB_REINFORCED_UNCOMMON_NAME,Улучшенная усиленная дубина,Улучшенная усиленная дубина
+WOODMECH_4_CLUB_REINFORCED_UNCOMMON_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%
+WOODMECH_4_CLUB_REINFORCED_EXCELLENT_NAME,Превосходная усиленная дубина,Превосходная усиленная дубина
+WOODMECH_4_CLUB_REINFORCED_EXCELLENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%
+WOODMECH_4_CLUB_REINFORCED_MYTHICAL_NAME,Мифическая усиленная дубина,Мифическая усиленная дубина
+WOODMECH_4_CLUB_REINFORCED_MYTHICAL_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%
+WOODMECH_4_CLUB_REINFORCED_MAGNIFICENT_NAME,Великолепная усиленная дубина,Великолепная усиленная дубина
+WOODMECH_4_CLUB_REINFORCED_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника./nШанс крита {{critical_chance}}%
+WOODMECH_5_CLUB_ELECTRIC_NAME,Электрическая дубина,Электрическая дубина
+WOODMECH_5_CLUB_ELECTRIC_DESCRIPTION,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%
+WOODMECH_5_CLUB_ELECTRIC_UNCOMMON_NAME,Улучшенная электрическая дубина,Улучшенная электрическая дубина
+WOODMECH_5_CLUB_ELECTRIC_UNCOMMON_DESCRIPTION,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%
+WOODMECH_5_CLUB_ELECTRIC_EXCELLENT_NAME,Превосходная электрическая дубина,Превосходная электрическая дубина
+WOODMECH_5_CLUB_ELECTRIC_EXCELLENT_DESCRIPTION,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%
+WOODMECH_5_CLUB_ELECTRIC_MYTHICAL_NAME,Мифическая электрическая дубина,Мифическая электрическая дубина
+WOODMECH_5_CLUB_ELECTRIC_MYTHICAL_DESCRIPTION,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%
+WOODMECH_5_CLUB_ELECTRIC_MAGNIFICENT_NAME,Великолепная электрическая дубина,Великолепная электрическая дубина
+WOODMECH_5_CLUB_ELECTRIC_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%,Наносит {{damage}} электрического урона./n Есть {{stun_chance}}% шанс оглушить противника./nШанс нанести длительный электрический урон {{electro_effect_chance}}%. /nШанс крита {{critical_chance}}%
+WOODMECH_2_CATAPULT_FIRE_NAME,Огненная катапульта,Огненная катапульта
+WOODMECH_2_CATAPULT_FIRE_DESCRIPTION,{{damage}} огненого урона/nШанс крита {{critical_chance}}%,{{damage}} огненого урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CATAPULT_FIRE_EXCELLENT_NAME,Превосходная огненная катапульта,Превосходная огненная катапульта
+WOODMECH_2_CATAPULT_FIRE_EXCELLENT_DESCRIPTION,{{damage}} огненого урона/nШанс крита {{critical_chance}}%,{{damage}} огненого урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CATAPULT_FIRE_MYTHICAL_NAME,Мифическая огненная катапульта,Мифическая огненная катапульта
+WOODMECH_2_CATAPULT_FIRE_MYTHICAL_DESCRIPTION,{{damage}} огненого урона/nШанс крита {{critical_chance}}%,{{damage}} огненого урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CATAPULT_FIRE_MAGNIFICENT_NAME,Великолепная огненная катапульта,Великолепная огненная катапульта
+WOODMECH_2_CATAPULT_FIRE_MAGNIFICENT_DESCRIPTION,{{damage}} огненого урона/nШанс крита {{critical_chance}}%,{{damage}} огненого урона/nШанс крита {{critical_chance}}%
+WOODMECH_3_CATAPULT_COLD_NAME,Морозная катапульта,Морозная катапульта
+WOODMECH_3_CATAPULT_COLD_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+WOODMECH_3_CATAPULT_COLD_UNCOMMON_NAME,Улучшенная морозная катапульта,Улучшенная морозная катапульта
+WOODMECH_3_CATAPULT_COLD_UNCOMMON_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+WOODMECH_3_CATAPULT_COLD_EXCELLENT_NAME,Превосходная морозная катапульта,Превосходная морозная катапульта
+WOODMECH_3_CATAPULT_COLD_EXCELLENT_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+WOODMECH_3_CATAPULT_COLD_MYTHICAL_NAME,Мифическая морозная катапульта,Мифическая морозная катапульта
+WOODMECH_3_CATAPULT_COLD_MYTHICAL_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+WOODMECH_3_CATAPULT_COLD_MAGNIFICENT_NAME,Великолепная морозная катапульта,Великолепная морозная катапульта
+WOODMECH_3_CATAPULT_COLD_MAGNIFICENT_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+WOODMECH_4_CATAPULT_REINFORCED_NAME,Усиленная катапульта,Усиленная катапульта
+WOODMECH_4_CATAPULT_REINFORCED_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+WOODMECH_4_CATAPULT_REINFORCED_UNCOMMON_NAME,Улучшенная усиленная катапульта,Улучшенная усиленная катапульта
+WOODMECH_4_CATAPULT_REINFORCED_UNCOMMON_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+WOODMECH_4_CATAPULT_REINFORCED_EXCELLENT_NAME,Превосходная усиленная катапульта,Превосходная усиленная катапульта
+WOODMECH_4_CATAPULT_REINFORCED_EXCELLENT_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+WOODMECH_4_CATAPULT_REINFORCED_MYTHICAL_NAME,Мифическая усиленная катапульта,Мифическая усиленная катапульта
+WOODMECH_4_CATAPULT_REINFORCED_MYTHICAL_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+WOODMECH_4_CATAPULT_REINFORCED_MAGNIFICENT_NAME,Великолепная усиленная катапульта,Великолепная усиленная катапульта
+WOODMECH_4_CATAPULT_REINFORCED_MAGNIFICENT_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+WOODMECH_5_CATAPULT_ACID_NAME,Кислотная катапульта,Кислотная катапульта
+WOODMECH_5_CATAPULT_ACID_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_5_CATAPULT_ACID_UNCOMMON_NAME,Улучшенная кислотная катапульта,Улучшенная кислотная катапульта
+WOODMECH_5_CATAPULT_ACID_UNCOMMON_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_5_CATAPULT_ACID_EXCELLENT_NAME,Превосходная кислотная катапульта,Превосходная кислотная катапульта
+WOODMECH_5_CATAPULT_ACID_EXCELLENT_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_5_CATAPULT_ACID_MYTHICAL_NAME,Мифическая кислотная катапульта,Мифическая кислотная катапульта
+WOODMECH_5_CATAPULT_ACID_MYTHICAL_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_5_CATAPULT_ACID_MAGNIFICENT_NAME,Великолепная кислотная катапульта,Великолепная кислотная катапульта
+WOODMECH_5_CATAPULT_ACID_MAGNIFICENT_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CROSSBOW_ACID_NAME,Кислотный арбалет,Кислотный арбалет
+WOODMECH_2_CROSSBOW_ACID_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CROSSBOW_ACID_UNCOMMON_NAME,Улучшенный кислотный арбалет,Улучшенный кислотный арбалет
+WOODMECH_2_CROSSBOW_ACID_UNCOMMON_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CROSSBOW_ACID_EXCELLENT_NAME,Превосходный кислотный арбалет,Превосходный кислотный арбалет
+WOODMECH_2_CROSSBOW_ACID_EXCELLENT_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CROSSBOW_ACID_MYTHICAL_NAME,Мифический кислотный арбалет,Мифический кислотный арбалет
+WOODMECH_2_CROSSBOW_ACID_MYTHICAL_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_2_CROSSBOW_ACID_MAGNIFICENT_NAME,Великолепный кислотный арбалет,Великолепный кислотный арбалет
+WOODMECH_2_CROSSBOW_ACID_MAGNIFICENT_DESCRIPTION,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%,{{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+WOODMECH_3_CROSSBOW_REINFORCED_NAME,Усиленный арбалет,Усиленный арбалет
+WOODMECH_3_CROSSBOW_REINFORCED_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CROSSBOW_REINFORCED_UNCOMMON_NAME,Улучшенный усиленный арбалет,Улучшенный усиленный арбалет
+WOODMECH_3_CROSSBOW_REINFORCED_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CROSSBOW_REINFORCED_EXCELLENT_NAME,Превосходный усиленный арбалет,Превосходный усиленный арбалет
+WOODMECH_3_CROSSBOW_REINFORCED_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CROSSBOW_REINFORCED_MYTHICAL_NAME,Мифический усиленный арбалет,Мифический усиленный арбалет
+WOODMECH_3_CROSSBOW_REINFORCED_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+WOODMECH_3_CROSSBOW_REINFORCED_MAGNIFICENT_NAME,Великолепный усиленный арбалет,Великолепный усиленный арбалет
+WOODMECH_3_CROSSBOW_REINFORCED_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+WOODMECH_4_CROSSBOW_FIRE_NAME,Огненный арбалет,Огненный арбалет
+WOODMECH_4_CROSSBOW_FIRE_DESCRIPTION,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_4_CROSSBOW_FIRE_UNCOMMON_NAME,Улучшенный огненный арбалет,Улучшенный огненный арбалет
+WOODMECH_4_CROSSBOW_FIRE_UNCOMMON_DESCRIPTION,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_4_CROSSBOW_FIRE_EXCELLENT_NAME,Превосходный огненный арбалет,Превосходный огненный арбалет
+WOODMECH_4_CROSSBOW_FIRE_EXCELLENT_DESCRIPTION,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_4_CROSSBOW_FIRE_MYTHICAL_NAME,Мифический огненный арбалет,Мифический огненный арбалет
+WOODMECH_4_CROSSBOW_FIRE_MYTHICAL_DESCRIPTION,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_4_CROSSBOW_FIRE_MAGNIFICENT_NAME,Великолепный огненный арбалет,Великолепный огненный арбалет
+WOODMECH_4_CROSSBOW_FIRE_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона./nШанс крита {{critical_chance}}%
+WOODMECH_5_CROSSBOW_ELECTRIC_NAME,Электрический арбалет,Электрический арбалет
+WOODMECH_5_CROSSBOW_ELECTRIC_DESCRIPTION,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%
+WOODMECH_5_CROSSBOW_ELECTRIC_UNCOMMON_NAME,Улучшенный электрический арбалет,Улучшенный электрический арбалет
+WOODMECH_5_CROSSBOW_ELECTRIC_UNCOMMON_DESCRIPTION,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%
+WOODMECH_5_CROSSBOW_ELECTRIC_EXCELLENT_NAME,Превосходный электрический арбалет,Превосходный электрический арбалет
+WOODMECH_5_CROSSBOW_ELECTRIC_EXCELLENT_DESCRIPTION,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%
+WOODMECH_5_CROSSBOW_ELECTRIC_MYTHICAL_NAME,Мифический электрический арбалет,Мифический электрический арбалет
+WOODMECH_5_CROSSBOW_ELECTRIC_MYTHICAL_DESCRIPTION,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%
+WOODMECH_5_CROSSBOW_ELECTRIC_MAGNIFICENT_NAME,Великолепный электрический арбалет,Великолепный электрический арбалет
+WOODMECH_5_CROSSBOW_ELECTRIC_MAGNIFICENT_DESCRIPTION,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%,наносит {{damage}} урона электричеством./nШанс крита {{critical_chance}}%
+STONEMECH_2_AXE_FIRE_NAME,Огненная секира,Огненная секира
+STONEMECH_2_AXE_FIRE_DESCRIPTION,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%
+STONEMECH_2_AXE_FIRE_UNCOMMON_NAME,Улучшенная огненная секира,Улучшенная огненная секира
+STONEMECH_2_AXE_FIRE_UNCOMMON_DESCRIPTION,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%
+STONEMECH_2_AXE_FIRE_EXCELLENT_NAME,Превосходная огненная секира,Превосходная огненная секира
+STONEMECH_2_AXE_FIRE_EXCELLENT_DESCRIPTION,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%
+STONEMECH_2_AXE_FIRE_MYTHICAL_NAME,Мифический огненная секира,Мифический огненная секира
+STONEMECH_2_AXE_FIRE_MYTHICAL_DESCRIPTION,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%
+STONEMECH_2_AXE_FIRE_MAGNIFICENT_NAME,Великолепный огненная секира,Великолепный огненная секира
+STONEMECH_2_AXE_FIRE_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона. Шанс поджечь {{burning_chance}}%/nШанс крита {{critical_chance}}%
+STONEMECH_3_AXE_REINFORCED_NAME,Укрепленная секира,Укрепленная секира
+STONEMECH_3_AXE_REINFORCED_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+STONEMECH_3_AXE_REINFORCED_UNCOMMON_NAME,Улучшенная укрепленная секира,Улучшенная укрепленная секира
+STONEMECH_3_AXE_REINFORCED_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+STONEMECH_3_AXE_REINFORCED_EXCELLENT_NAME,Превосходная укрепленная секира,Превосходная укрепленная секира
+STONEMECH_3_AXE_REINFORCED_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+STONEMECH_3_AXE_REINFORCED_MYTHICAL_NAME,Мифическая укрепленная секира,Мифическая укрепленная секира
+STONEMECH_3_AXE_REINFORCED_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+STONEMECH_3_AXE_REINFORCED_MAGNIFICENT_NAME,Великолепная укрепленная секира,Великолепная укрепленная секира
+STONEMECH_3_AXE_REINFORCED_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона./nШанс крита {{critical_chance}}%
+STONEMECH_4_AXE_ACID_NAME,Кислотная секира,Кислотная секира
+STONEMECH_4_AXE_ACID_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_AXE_ACID_UNCOMMON_NAME,Улучшенная кислотная секира,Улучшенная кислотная секира
+STONEMECH_4_AXE_ACID_UNCOMMON_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_AXE_ACID_EXCELLENT_NAME,Превосходная кислотная секира,Превосходная кислотная секира
+STONEMECH_4_AXE_ACID_EXCELLENT_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_AXE_ACID_MYTHICAL_NAME,Мифическая кислотная секира,Мифическая кислотная секира
+STONEMECH_4_AXE_ACID_MYTHICAL_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_AXE_ACID_MAGNIFICENT_NAME,Великолепная кислотная секира,Великолепная кислотная секира
+STONEMECH_4_AXE_ACID_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_AXE_REINFORCED2_NAME,Сильно укрепленная секира,Сильно укрепленная секира
+STONEMECH_5_AXE_REINFORCED2_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_AXE_REINFORCED2_UNCOMMON_NAME,Улучшенная сильно укрепленная секира,Улучшенная сильно укрепленная секира
+STONEMECH_5_AXE_REINFORCED2_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_AXE_REINFORCED2_EXCELLENT_NAME,Превосходная сильно укрепленная секира,Превосходная сильно укрепленная секира
+STONEMECH_5_AXE_REINFORCED2_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_AXE_REINFORCED2_MYTHICAL_NAME,Мифическая сильно укрепленная секира,Мифическая сильно укрепленная секира
+STONEMECH_5_AXE_REINFORCED2_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_AXE_REINFORCED2_MAGNIFICENT_NAME,Великолепная сильно укрепленная секира,Великолепная сильно укрепленная секира
+STONEMECH_5_AXE_REINFORCED2_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_GUN_FIRE_NAME,Огненная пушка,Огненная пушка
+STONEMECH_2_GUN_FIRE_DESCRIPTION,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_GUN_FIRE_UNCOMMON_NAME,Улучшенная огненная пушка,Улучшенная огненная пушка
+STONEMECH_2_GUN_FIRE_UNCOMMON_DESCRIPTION,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_GUN_FIRE_EXCELLENT_NAME,Превосходная огненная пушка,Превосходная огненная пушка
+STONEMECH_2_GUN_FIRE_EXCELLENT_DESCRIPTION,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_GUN_FIRE_MYTHICAL_NAME,Мифическая огненная пушка,Мифическая огненная пушка
+STONEMECH_2_GUN_FIRE_MYTHICAL_DESCRIPTION,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_GUN_FIRE_MAGNIFICENT_NAME,Великолепная огненная пушка,Великолепная огненная пушка
+STONEMECH_2_GUN_FIRE_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} огненного урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_GUN_REINFORCED_NAME,Усиленная пушка,Усиленная пушка
+STONEMECH_3_GUN_REINFORCED_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_GUN_REINFORCED_UNCOMMON_NAME,Улучшенная усиленная пушка,Улучшенная усиленная пушка
+STONEMECH_3_GUN_REINFORCED_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_GUN_REINFORCED_EXCELLENT_NAME,Превосходная усиленная пушка,Превосходная усиленная пушка
+STONEMECH_3_GUN_REINFORCED_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_GUN_REINFORCED_MYTHICAL_NAME,Мифическая усиленная пушка,Мифическая усиленная пушка
+STONEMECH_3_GUN_REINFORCED_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_GUN_REINFORCED_MAGNIFICENT_NAME,Великолепная усиленная пушка,Великолепная усиленная пушка
+STONEMECH_3_GUN_REINFORCED_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_GUN_COLD_NAME,Морозная пушка,Морозная пушка
+STONEMECH_4_GUN_COLD_DESCRIPTION,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%
+STONEMECH_4_GUN_COLD_UNCOMMON_NAME,Улучшенная морозная пушка,Улучшенная морозная пушка
+STONEMECH_4_GUN_COLD_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%
+STONEMECH_4_GUN_COLD_EXCELLENT_NAME,Превосходная морозная пушка,Превосходная морозная пушка
+STONEMECH_4_GUN_COLD_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%
+STONEMECH_4_GUN_COLD_MYTHICAL_NAME,Мифическая морозная пушка,Мифическая морозная пушка
+STONEMECH_4_GUN_COLD_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%
+STONEMECH_4_GUN_COLD_MAGNIFICENT_NAME,Великолепная морозная пушка,Великолепная морозная пушка
+STONEMECH_4_GUN_COLD_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом./nШанс крита {{critical_chance}}%
+STONEMECH_5_GUN_REINFORCED2_NAME,Сильно усиленная пушка,Сильно усиленная пушка
+STONEMECH_5_GUN_REINFORCED2_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_GUN_REINFORCED2_UNCOMMON_NAME,Улучшенная сильно усиленная пушка,Улучшенная сильно усиленная пушка
+STONEMECH_5_GUN_REINFORCED2_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_GUN_REINFORCED2_EXCELLENT_NAME,Превосходная сильно усиленная пушка,Превосходная сильно усиленная пушка
+STONEMECH_5_GUN_REINFORCED2_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_GUN_REINFORCED2_MYTHICAL_NAME,Мифическая сильно усиленная пушка,Мифическая сильно усиленная пушка
+STONEMECH_5_GUN_REINFORCED2_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_GUN_REINFORCED2_MAGNIFICENT_NAME,Великолепная сильно усиленная пушка,Великолепная сильно усиленная пушка
+STONEMECH_5_GUN_REINFORCED2_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_MACE2_ELECTRIC_NAME,Электрическая булава,Электрическая булава
+STONEMECH_4_MACE2_ELECTRIC_DESCRIPTION,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_4_MACE2_ELECTRIC_UNCOMMON_NAME,Улучшенная электрическая булава,Улучшенная электрическая булава
+STONEMECH_4_MACE2_ELECTRIC_UNCOMMON_DESCRIPTION,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_4_MACE2_ELECTRIC_EXCELLENT_NAME,Превосходная электрическая булава,Превосходная электрическая булава
+STONEMECH_4_MACE2_ELECTRIC_EXCELLENT_DESCRIPTION,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_4_MACE2_ELECTRIC_MYTHICAL_NAME,Мифическая электрическая булава,Мифическая электрическая булава
+STONEMECH_4_MACE2_ELECTRIC_MYTHICAL_DESCRIPTION,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_4_MACE2_ELECTRIC_MAGNIFICENT_NAME,Великолепная электрическая булава,Великолепная электрическая булава
+STONEMECH_4_MACE2_ELECTRIC_MAGNIFICENT_DESCRIPTION,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{electro_effect_chance}}% шанс нанести продолжительный электрический эффект противнику. /nНаносит {{damage}} Электрического урона. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_5_MACE2_ACID_NAME,Кислотная дубина,Кислотная дубина
+STONEMECH_5_MACE2_ACID_DESCRIPTION,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_5_MACE2_ACID_UNCOMMON_NAME,Улучшенная кислотная дубина,Улучшенная кислотная дубина
+STONEMECH_5_MACE2_ACID_UNCOMMON_DESCRIPTION,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_5_MACE2_ACID_EXCELLENT_NAME,Превосходная кислотная дубина,Превосходная кислотная дубина
+STONEMECH_5_MACE2_ACID_EXCELLENT_DESCRIPTION,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_5_MACE2_ACID_MYTHICAL_NAME,Мифическая кислотная дубина,Мифическая кислотная дубина
+STONEMECH_5_MACE2_ACID_MYTHICAL_DESCRIPTION,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_5_MACE2_ACID_MAGNIFICENT_NAME,Великолепная кислотная дубина,Великолепная кислотная дубина
+STONEMECH_5_MACE2_ACID_MAGNIFICENT_DESCRIPTION,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%,Есть {{acid_effect_chance}}% шанс нанести противнику продолжительный кислотный урон. /nНаносит {{damage}} урона кислотой. {{stun_chance}}% шанс оглушить противников. Сильный удар оглушает врагов с вероятностью 60%/nШанс крита {{critical_chance}}%
+STONEMECH_4_SWORD_COLD_NAME,Каменный меч мороза,Каменный меч мороза
+STONEMECH_4_SWORD_COLD_DESCRIPTION,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_4_SWORD_COLD_UNCOMMON_NAME,Улучшенный каменный меч мороза,Улучшенный каменный меч мороза
+STONEMECH_4_SWORD_COLD_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_4_SWORD_COLD_EXCELLENT_NAME,Превосходный каменный меч мороза,Превосходный каменный меч мороза
+STONEMECH_4_SWORD_COLD_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_4_SWORD_COLD_MYTHICAL_NAME,Мифический каменный меч мороза,Мифический каменный меч мороза
+STONEMECH_4_SWORD_COLD_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_4_SWORD_COLD_MAGNIFICENT_NAME,Великолепный каменный меч мороза,Великолепный каменный меч мороза
+STONEMECH_4_SWORD_COLD_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом c шансом {{frost_effect_chance}}% вызвать у противника обморожение./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_5_SWORD_ELECTRIC_NAME,Каменный меч Зевса,Каменный меч Зевса
+STONEMECH_5_SWORD_ELECTRIC_DESCRIPTION,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_5_SWORD_ELECTRIC_UNCOMMON_NAME,Улучшенный каменный меч Зевса,Улучшенный каменный меч Зевса
+STONEMECH_5_SWORD_ELECTRIC_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_5_SWORD_ELECTRIC_EXCELLENT_NAME,Превосходный каменный меч Зевса,Превосходный каменный меч Зевса
+STONEMECH_5_SWORD_ELECTRIC_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_5_SWORD_ELECTRIC_MYTHICAL_NAME,Мифический каменный меч Зевса,Мифический каменный меч Зевса
+STONEMECH_5_SWORD_ELECTRIC_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,Наносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+STONEMECH_5_SWORD_ELECTRIC_MAGNIFICENT_NAME,Великолепный каменный меч Зевса,Великолепный каменный меч Зевса
+STONEMECH_5_SWORD_ELECTRIC_MAGNIFICENT_DESCRIPTION,каменный меч Зевса/nНаносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%,каменный меч Зевса/nНаносит {{damage}} урона электричеством c шансом {{electro_effect_chance}}% нанести противнику дополнительно длительный эффект урона электричеством./nСильным ударом оглушает противников с вероятность 60%./nШанс крита {{critical_chance}}%
+IRONMECH_2_SAW_FIRE_NAME,Огнерез,Огнерез
+IRONMECH_2_SAW_FIRE_DESCRIPTION,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.
+IRONMECH_2_SAW_FIRE_UNCOMMON_NAME,Улучшенный Огнерез,Улучшенный Огнерез
+IRONMECH_2_SAW_FIRE_UNCOMMON_DESCRIPTION,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.
+IRONMECH_2_SAW_FIRE_EXCELLENT_NAME,Превосходный Огнерез,Превосходный Огнерез
+IRONMECH_2_SAW_FIRE_EXCELLENT_DESCRIPTION,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.
+IRONMECH_2_SAW_FIRE_MYTHICAL_NAME,Мифический Огнерез,Мифический Огнерез
+IRONMECH_2_SAW_FIRE_MYTHICAL_DESCRIPTION,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.
+IRONMECH_2_SAW_FIRE_MAGNIFICENT_NAME,Великолепный Огнерез,Великолепный Огнерез
+IRONMECH_2_SAW_FIRE_MAGNIFICENT_DESCRIPTION,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.,Модифицирован на нанесение {{damage}} огненного урона. Имеет 20% шанс поджечь противника.
+IRONMECH_3_SAW_ACID_NAME,Кислотный резак,Кислотный резак
+IRONMECH_3_SAW_ACID_DESCRIPTION,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_3_SAW_ACID_UNCOMMON_NAME,Улучшенный кислотный резак,Улучшенный кислотный резак
+IRONMECH_3_SAW_ACID_UNCOMMON_DESCRIPTION,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_3_SAW_ACID_EXCELLENT_NAME,Превосходный кислотный резак,Превосходный кислотный резак
+IRONMECH_3_SAW_ACID_EXCELLENT_DESCRIPTION,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_3_SAW_ACID_MYTHICAL_NAME,Мифический кислотный резак,Мифический кислотный резак
+IRONMECH_3_SAW_ACID_MYTHICAL_DESCRIPTION,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_3_SAW_ACID_MAGNIFICENT_NAME,Великолепный кислотный резак,Великолепный кислотный резак
+IRONMECH_3_SAW_ACID_MAGNIFICENT_DESCRIPTION,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,Эксперименты с кислотой дали свои плоды. Это оружие наносит кислотный урон!/n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_5_SAW_REINFORCED_NAME,Железная пила “Разрезатель”,Железная пила “Разрезатель”
+IRONMECH_5_SAW_REINFORCED_DESCRIPTION,"Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /n{{damage}} урона","Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /n{{damage}} урона"
+IRONMECH_5_SAW_REINFORCED_UNCOMMON_NAME,Улучшенная железная пила “Разрезатель”,Улучшенная железная пила “Разрезатель”
+IRONMECH_5_SAW_REINFORCED_UNCOMMON_DESCRIPTION,"“Разрезатель” - это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%","“Разрезатель” - это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%"
+IRONMECH_5_SAW_REINFORCED_EXCELLENT_NAME,Превосходная железная пила “Разрезатель”,Превосходная железная пила “Разрезатель”
+IRONMECH_5_SAW_REINFORCED_EXCELLENT_DESCRIPTION,"Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%","Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%"
+IRONMECH_5_SAW_REINFORCED_MYTHICAL_NAME,Мифическая железная пила “Разрезатель”,Мифическая железная пила “Разрезатель”
+IRONMECH_5_SAW_REINFORCED_MYTHICAL_DESCRIPTION,"Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%","Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%"
+IRONMECH_5_SAW_REINFORCED_MAGNIFICENT_NAME,Великолепная железная пила “Разрезатель”,Великолепная железная пила “Разрезатель”
+IRONMECH_5_SAW_REINFORCED_MAGNIFICENT_DESCRIPTION,"Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%","Это лучшее, можно было сотворить с обычной циркулярной пилой. /n фантастическая эффективность! /nНаносит {{damage}} урона/nШанс крита {{critical_chance}}%"
+IRONMECH_2_MACE_COLD_NAME,"""Хладобой""","""Хладобой"""
+IRONMECH_2_MACE_COLD_DESCRIPTION,"Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /nНаносит {{damage}} урона холодом, шанс заморозить противника {{frost_effect_chance}}% Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%""","Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /nНаносит {{damage}} урона холодом, шанс заморозить противника {{frost_effect_chance}}% Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"""
+IRONMECH_2_MACE_COLD_UNCOMMON_NAME,"Улучшенный ""Хладобой""","Улучшенный ""Хладобой"""
+IRONMECH_2_MACE_COLD_UNCOMMON_DESCRIPTION,"Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом","Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом"
+IRONMECH_2_MACE_COLD_EXCELLENT_NAME,"Превосходный ""Хладобой""","Превосходный ""Хладобой"""
+IRONMECH_2_MACE_COLD_EXCELLENT_DESCRIPTION,"Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом","Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом"
+IRONMECH_2_MACE_COLD_MYTHICAL_NAME,"Мифический ""Хладобой""","Мифический ""Хладобой"""
+IRONMECH_2_MACE_COLD_MYTHICAL_DESCRIPTION,"Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом","Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом"
+IRONMECH_2_MACE_COLD_MAGNIFICENT_NAME,"Великолепный ""Хладобой""","Великолепный ""Хладобой"""
+IRONMECH_2_MACE_COLD_MAGNIFICENT_DESCRIPTION,"Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом","Простая железная булава с непростыми эффектами. /n Наносит урон холодом, морозит и замедляет врага /n{{damage}} урона холодом"
+IRONMECH_3_MACE_REINFORCED_NAME,Усиленная железная булава,Усиленная железная булава
+IRONMECH_3_MACE_REINFORCED_DESCRIPTION,"Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+/nШанс крита {{critical_chance}}%,,
+IRONMECH_3_MACE_REINFORCED_UNCOMMON_NAME,Улучшенная усиленная железная булава,Улучшенная усиленная железная булава
+IRONMECH_3_MACE_REINFORCED_UNCOMMON_DESCRIPTION,"Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_3_MACE_REINFORCED_EXCELLENT_NAME,Превосходная усиленная железная булава.,Превосходная усиленная железная булава.
+IRONMECH_3_MACE_REINFORCED_EXCELLENT_DESCRIPTION,"Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_3_MACE_REINFORCED_MYTHICAL_NAME,Мифическая усиленная железная булава.,Мифическая усиленная железная булава.
+IRONMECH_3_MACE_REINFORCED_MYTHICAL_DESCRIPTION,"Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_3_MACE_REINFORCED_MAGNIFICENT_NAME,Великолепная усиленная железная булава.,Великолепная усиленная железная булава.
+IRONMECH_3_MACE_REINFORCED_MAGNIFICENT_DESCRIPTION,"Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Булава стала значительно эффективнее при замене шипов. Это уже не шутки./n{{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_4_MACE_ACID_NAME,Кислотный “Дробитель”,Кислотный “Дробитель”
+IRONMECH_4_MACE_ACID_DESCRIPTION,"Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_4_MACE_ACID_UNCOMMON_NAME,Улучшенный кислотный “Дробитель”,Улучшенный кислотный “Дробитель”
+IRONMECH_4_MACE_ACID_UNCOMMON_DESCRIPTION,"Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_4_MACE_ACID_EXCELLENT_NAME,Превосходный кислотный “Дробитель”,Превосходный кислотный “Дробитель”
+IRONMECH_4_MACE_ACID_EXCELLENT_DESCRIPTION,"Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_4_MACE_ACID_MYTHICAL_NAME,Мифический кислотный “Дробитель”,Мифический кислотный “Дробитель”
+IRONMECH_4_MACE_ACID_MYTHICAL_DESCRIPTION,"Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_4_MACE_ACID_MAGNIFICENT_NAME,Великолепный кислотный “Дробитель”,Великолепный кислотный “Дробитель”
+IRONMECH_4_MACE_ACID_MAGNIFICENT_DESCRIPTION,"Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Это отличный вариант, для того, чтобы сокрушать врагов используя кислотный тип урона./n{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_5_MACE_REINFORCED2_NAME,Особая булава,Особая булава
+IRONMECH_5_MACE_REINFORCED2_DESCRIPTION,"Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_5_MACE_REINFORCED2_UNCOMMON_NAME,Улучшенная особая булава,Улучшенная особая булава
+IRONMECH_5_MACE_REINFORCED2_UNCOMMON_DESCRIPTION,"Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_5_MACE_REINFORCED2_EXCELLENT_NAME,Превосходная особая булава,Превосходная особая булава
+IRONMECH_5_MACE_REINFORCED2_EXCELLENT_DESCRIPTION,"Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%","Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой./nШанс крита {{critical_chance}}%"
+IRONMECH_5_MACE_REINFORCED2_MYTHICAL_NAME,Мифическая особая булава,Мифическая особая булава
+IRONMECH_5_MACE_REINFORCED2_MYTHICAL_DESCRIPTION,"Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_5_MACE_REINFORCED2_MAGNIFICENT_NAME,Великолепная особая булава,Великолепная особая булава
+IRONMECH_5_MACE_REINFORCED2_MAGNIFICENT_DESCRIPTION,"Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой.","Тяжелое, но очень эффективное оружие. /nНаносит {{damage}} урона.  Есть {{stun_chance}}% шанс оглушить противника обычной атакой, и 60% оглушения при нанесении урона сильной атакой."
+IRONMECH_2_CROSSBOW_FIRE_NAME,Огненный гарпун,Огненный гарпун
+IRONMECH_2_CROSSBOW_FIRE_DESCRIPTION,"Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%","Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%"
+IRONMECH_2_CROSSBOW_FIRE_UNCOMMON_NAME,Улучшенный огненный гарпун,Улучшенный огненный гарпун
+IRONMECH_2_CROSSBOW_FIRE_UNCOMMON_DESCRIPTION,"Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%","Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%"
+IRONMECH_2_CROSSBOW_FIRE_EXCELLENT_NAME,Превосходный огненный гарпун,Превосходный огненный гарпун
+IRONMECH_2_CROSSBOW_FIRE_EXCELLENT_DESCRIPTION,"Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%","Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%"
+IRONMECH_2_CROSSBOW_FIRE_MYTHICAL_NAME,Мифический огненный гарпун,Мифический огненный гарпун
+IRONMECH_2_CROSSBOW_FIRE_MYTHICAL_DESCRIPTION,"Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%","Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%"
+IRONMECH_2_CROSSBOW_FIRE_MAGNIFICENT_NAME,Великолепный огненный гарпун,Великолепный огненный гарпун
+IRONMECH_2_CROSSBOW_FIRE_MAGNIFICENT_DESCRIPTION,"Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%","Поджаривает врага до хрустящей корочки, нанося /n{{damage}} огненного урона. Шанс поджечь противников {{burning_chance}}%/nШанс крита {{critical_chance}}%"
+IRONMECH_3_CROSSBOW_ELECTRIC_NAME,Электрический гарпун,Электрический гарпун
+IRONMECH_3_CROSSBOW_ELECTRIC_DESCRIPTION,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%
+IRONMECH_3_CROSSBOW_ELECTRIC_UNCOMMON_NAME,Улучшенный электрический гарпун,Улучшенный электрический гарпун
+IRONMECH_3_CROSSBOW_ELECTRIC_UNCOMMON_DESCRIPTION,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%
+IRONMECH_3_CROSSBOW_ELECTRIC_EXCELLENT_NAME,Превосходный электрический гарпун,Превосходный электрический гарпун
+IRONMECH_3_CROSSBOW_ELECTRIC_EXCELLENT_DESCRIPTION,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%
+IRONMECH_3_CROSSBOW_ELECTRIC_MYTHICAL_NAME,Мифический электрический гарпун,Мифический электрический гарпун
+IRONMECH_3_CROSSBOW_ELECTRIC_MYTHICAL_DESCRIPTION,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%
+IRONMECH_3_CROSSBOW_ELECTRIC_MAGNIFICENT_NAME,Великолепный электрический гарпун,Великолепный электрический гарпун
+IRONMECH_3_CROSSBOW_ELECTRIC_MAGNIFICENT_DESCRIPTION,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%,{{damage}} урона электричеством/nШанс крита {{critical_chance}}%
+IRONMECH_4_CROSSBOW_COLD_NAME,Морозный гарпун,Морозный гарпун
+IRONMECH_4_CROSSBOW_COLD_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+IRONMECH_4_CROSSBOW_COLD_UNCOMMON_NAME,Улучшенный морозный гарпун,Улучшенный морозный гарпун
+IRONMECH_4_CROSSBOW_COLD_UNCOMMON_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+IRONMECH_4_CROSSBOW_COLD_EXCELLENT_NAME,Превосходный морозный гарпун,Превосходный морозный гарпун
+IRONMECH_4_CROSSBOW_COLD_EXCELLENT_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+IRONMECH_4_CROSSBOW_COLD_MYTHICAL_NAME,Мифический морозный гарпун,Мифический морозный гарпун
+IRONMECH_4_CROSSBOW_COLD_MYTHICAL_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+IRONMECH_4_CROSSBOW_COLD_MAGNIFICENT_NAME,Великолепный морозный гарпун,Великолепный морозный гарпун
+IRONMECH_4_CROSSBOW_COLD_MAGNIFICENT_DESCRIPTION,{{damage}} урона холодом/nШанс крита {{critical_chance}}%,{{damage}} урона холодом/nШанс крита {{critical_chance}}%
+IRONMECH_5_CROSSBOW_REINFORCED_NAME,Усиленный гарпун,Усиленный гарпун
+IRONMECH_5_CROSSBOW_REINFORCED_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+IRONMECH_5_CROSSBOW_REINFORCED_UNCOMMON_NAME,Улучшенный усиленный гарпун,Улучшенный усиленный гарпун
+IRONMECH_5_CROSSBOW_REINFORCED_UNCOMMON_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+IRONMECH_5_CROSSBOW_REINFORCED_EXCELLENT_NAME,Превосходный усиленный гарпун,Превосходный усиленный гарпун
+IRONMECH_5_CROSSBOW_REINFORCED_EXCELLENT_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+IRONMECH_5_CROSSBOW_REINFORCED_MYTHICAL_NAME,Мифический усиленный гарпун,Мифический усиленный гарпун
+IRONMECH_5_CROSSBOW_REINFORCED_MYTHICAL_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+IRONMECH_5_CROSSBOW_REINFORCED_MAGNIFICENT_NAME,Великолепный усиленный гарпун,Великолепный усиленный гарпун
+IRONMECH_5_CROSSBOW_REINFORCED_MAGNIFICENT_DESCRIPTION,{{damage}} урона/nШанс крита {{critical_chance}}%,{{damage}} урона/nШанс крита {{critical_chance}}%
+IRONMECH_4_SAWAXESIMPLE_ACID_NAME,Кислотная пила-топор,Кислотная пила-топор
+IRONMECH_4_SAWAXESIMPLE_ACID_DESCRIPTION,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_4_SAWAXESIMPLE_ACID_UNCOMMON_NAME,Улучшенная кислотная пила-топор,Улучшенная кислотная пила-топор
+IRONMECH_4_SAWAXESIMPLE_ACID_UNCOMMON_DESCRIPTION,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_4_SAWAXESIMPLE_ACID_EXCELLENT_NAME,Превосходный кислотная пила-топор,Превосходный кислотная пила-топор
+IRONMECH_4_SAWAXESIMPLE_ACID_EXCELLENT_DESCRIPTION,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_4_SAWAXESIMPLE_ACID_MYTHICAL_NAME,Мифический кислотная пила-топор,Мифический кислотная пила-топор
+IRONMECH_4_SAWAXESIMPLE_ACID_MYTHICAL_DESCRIPTION,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_4_SAWAXESIMPLE_ACID_MAGNIFICENT_NAME,Великолепный кислотная пила-топор,Великолепный кислотная пила-топор
+IRONMECH_4_SAWAXESIMPLE_ACID_MAGNIFICENT_DESCRIPTION,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%,{{acid_effect_chance}}% шанс отравить противника. /nНаносит {{damage}} урона кислотой/nШанс крита {{critical_chance}}%
+IRONMECH_2_MOLOT_ELECTRIC_NAME,Электрический Поршневой молот,Электрический Поршневой молот
+IRONMECH_2_MOLOT_ELECTRIC_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_2_MOLOT_ELECTRIC_UNCOMMON_NAME,Улучшенный эелектрический поршневой молот,Улучшенный эелектрический поршневой молот
+IRONMECH_2_MOLOT_ELECTRIC_UNCOMMON_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_2_MOLOT_ELECTRIC_EXCELLENT_NAME,Превосходный эелектрический поршневой молот,Превосходный эелектрический поршневой молот
+IRONMECH_2_MOLOT_ELECTRIC_EXCELLENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_2_MOLOT_ELECTRIC_MYTHICAL_NAME,Мифический эелектрический поршневой молот,Мифический эелектрический поршневой молот
+IRONMECH_2_MOLOT_ELECTRIC_MYTHICAL_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_2_MOLOT_ELECTRIC_MAGNIFICENT_NAME,Великолепный эелектрический поршневой молот,Великолепный эелектрический поршневой молот
+IRONMECH_2_MOLOT_ELECTRIC_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_3_MOLOT_FIRE_NAME,Огненный поршневой молот,Огненный поршневой молот
+IRONMECH_3_MOLOT_FIRE_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_3_MOLOT_FIRE_UNCOMMON_NAME,Улучшенный огненный поршневой молот,Улучшенный огненный поршневой молот
+IRONMECH_3_MOLOT_FIRE_UNCOMMON_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_3_MOLOT_FIRE_EXCELLENT_NAME,Превосходный огненный поршневой молот,Превосходный огненный поршневой молот
+IRONMECH_3_MOLOT_FIRE_EXCELLENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_3_MOLOT_FIRE_MYTHICAL_NAME,Мифический огненный поршневой молот,Мифический огненный поршневой молот
+IRONMECH_3_MOLOT_FIRE_MYTHICAL_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_3_MOLOT_FIRE_MAGNIFICENT_NAME,Великолепный огненный поршневой молот,Великолепный огненный поршневой молот
+IRONMECH_3_MOLOT_FIRE_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_4_MOLOT_COLD_NAME,Поршневой молот мороза,Поршневой молот мороза
+IRONMECH_4_MOLOT_COLD_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_4_MOLOT_COLD_UNCOMMON_NAME,Улучшенный поршневой молот мороза,Улучшенный поршневой молот мороза
+IRONMECH_4_MOLOT_COLD_UNCOMMON_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_4_MOLOT_COLD_EXCELLENT_NAME,Превосходный поршневой молот мороза,Превосходный поршневой молот мороза
+IRONMECH_4_MOLOT_COLD_EXCELLENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_4_MOLOT_COLD_MYTHICAL_NAME,Мифический поршневой молот мороза,Мифический поршневой молот мороза
+IRONMECH_4_MOLOT_COLD_MYTHICAL_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_4_MOLOT_COLD_MAGNIFICENT_NAME,Великолепный поршневой молот мороза,Великолепный поршневой молот мороза
+IRONMECH_4_MOLOT_COLD_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_5_MOLOT_ACID_NAME,Поршневой молот кислоты,Поршневой молот кислоты
+IRONMECH_5_MOLOT_ACID_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_5_MOLOT_ACID_UNCOMMON_NAME,Улучшенный поршневой молот кислоты,Улучшенный поршневой молот кислоты
+IRONMECH_5_MOLOT_ACID_UNCOMMON_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_5_MOLOT_ACID_EXCELLENT_NAME,Превосходный поршневой молот кислоты,Превосходный поршневой молот кислоты
+IRONMECH_5_MOLOT_ACID_EXCELLENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_5_MOLOT_ACID_MYTHICAL_NAME,Мифический поршневой молот кислоты,Мифический поршневой молот кислоты
+IRONMECH_5_MOLOT_ACID_MYTHICAL_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+IRONMECH_5_MOLOT_ACID_MAGNIFICENT_NAME,Великолепный поршневой молот кислоты,Великолепный поршневой молот кислоты
+IRONMECH_5_MOLOT_ACID_MAGNIFICENT_DESCRIPTION,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%,{{damage}} урона. Есть {{stun_chance}}% шанс оглушить противника. Сильная атака 60% оглушает врага./nШанс крита {{critical_chance}}%
+STONEMECH_1_KORTECH_NAME,Картечница,Картечница
+STONEMECH_1_KORTECH_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_1_KORTECH_UNCOMMON_NAME,Улучшенная картечница,Улучшенная картечница
+STONEMECH_1_KORTECH_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_1_KORTECH_EXCELLENT_NAME,Превосходная картечница,Превосходная картечница
+STONEMECH_1_KORTECH_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_1_KORTECH_MYTHICAL_NAME,Мифическая картечница,Мифическая картечница
+STONEMECH_1_KORTECH_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_1_KORTECH_MAGNIFICENT_NAME,Великолепная картечница,Великолепная картечница
+STONEMECH_1_KORTECH_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_KORTECH_ELECTRIC_NAME,Электро-Картечница,Электро-Картечница
+STONEMECH_2_KORTECH_ELECTRIC_DESCRIPTION,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_KORTECH_ELECTRIC_UNCOMMON_NAME,Улучшенная электро-Картечница,Улучшенная электро-Картечница
+STONEMECH_2_KORTECH_ELECTRIC_UNCOMMON_DESCRIPTION,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_KORTECH_ELECTRIC_EXCELLENT_NAME,Превосходная электро-Картечница,Превосходная электро-Картечница
+STONEMECH_2_KORTECH_ELECTRIC_EXCELLENT_DESCRIPTION,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_KORTECH_ELECTRIC_MYTHICAL_NAME,Мифическая электро-Картечница,Мифическая электро-Картечница
+STONEMECH_2_KORTECH_ELECTRIC_MYTHICAL_DESCRIPTION,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_2_KORTECH_ELECTRIC_MAGNIFICENT_NAME,Великолепная электро-Картечница,Великолепная электро-Картечница
+STONEMECH_2_KORTECH_ELECTRIC_MAGNIFICENT_DESCRIPTION,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит электрического {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_KORTECH_REINFORCED_NAME,Укрепленная Картечница,Укрепленная Картечница
+STONEMECH_3_KORTECH_REINFORCED_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_KORTECH_REINFORCED_UNCOMMON_NAME,Улучшенная укрепленная Картечница,Улучшенная укрепленная Картечница
+STONEMECH_3_KORTECH_REINFORCED_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_KORTECH_REINFORCED_EXCELLENT_NAME,Превосходная укрепленная Картечница,Превосходная укрепленная Картечница
+STONEMECH_3_KORTECH_REINFORCED_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_KORTECH_REINFORCED_MYTHICAL_NAME,Мифическая укрепленная Картечница,Мифическая укрепленная Картечница
+STONEMECH_3_KORTECH_REINFORCED_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_3_KORTECH_REINFORCED_MAGNIFICENT_NAME,Великолепная укрепленная Картечница,Великолепная укрепленная Картечница
+STONEMECH_3_KORTECH_REINFORCED_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона/nШанс крита {{critical_chance}}%
+STONEMECH_4_KORTECH_COLD_NAME,Морозная Картечница,Морозная Картечница
+STONEMECH_4_KORTECH_COLD_DESCRIPTION,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%
+STONEMECH_4_KORTECH_COLD_UNCOMMON_NAME,Улучшенная морозная Картечница,Улучшенная морозная Картечница
+STONEMECH_4_KORTECH_COLD_UNCOMMON_DESCRIPTION,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%
+STONEMECH_4_KORTECH_COLD_EXCELLENT_NAME,Превосходная морозная Картечница,Превосходная морозная Картечница
+STONEMECH_4_KORTECH_COLD_EXCELLENT_DESCRIPTION,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%
+STONEMECH_4_KORTECH_COLD_MYTHICAL_NAME,Мифическая морозная Картечница,Мифическая морозная Картечница
+STONEMECH_4_KORTECH_COLD_MYTHICAL_DESCRIPTION,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%
+STONEMECH_4_KORTECH_COLD_MAGNIFICENT_NAME,Великолепная морозная Картечница,Великолепная морозная Картечница
+STONEMECH_4_KORTECH_COLD_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%,Наносит {{damage}} урона холодом/nШанс крита {{critical_chance}}%
+STONEMECH_5_KORTECH_ACID_NAME,Кислотная Картечница,Кислотная Картечница
+STONEMECH_5_KORTECH_ACID_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_KORTECH_ACID_UNCOMMON_NAME,Улучшенная кислотная Картечница,Улучшенная кислотная Картечница
+STONEMECH_5_KORTECH_ACID_UNCOMMON_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_KORTECH_ACID_EXCELLENT_NAME,Превосходная кислотная Картечница,Превосходная кислотная Картечница
+STONEMECH_5_KORTECH_ACID_EXCELLENT_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_KORTECH_ACID_MYTHICAL_NAME,Мифическая кислотная Картечница,Мифическая кислотная Картечница
+STONEMECH_5_KORTECH_ACID_MYTHICAL_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%
+STONEMECH_5_KORTECH_ACID_MAGNIFICENT_NAME,Великолепная кислотная Картечница,Великолепная кислотная Картечница
+STONEMECH_5_KORTECH_ACID_MAGNIFICENT_DESCRIPTION,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%,Наносит {{damage}} кислотного урона/nШанс крита {{critical_chance}}%

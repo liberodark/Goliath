@@ -1,0 +1,959 @@
+sep=,,
+trader_no_reputation_fox_node0,"У тебя недостаточно репутации, чтобы торговаться с лисами!",Your reputation is not high enough to trade with the Forest Brotherhood!
+trader_no_reputation_fox_transition0_1,OK,OK
+trader_no_reputation_daemon_node0,"У тебя недостаточно репутации, чтобы торговаться с демонами!",Your reputation is not high enough to trade with the Forgers!
+trader_no_reputation_daemon_transition0_1,OK,OK
+trader_no_reputation_robot_node0,"У тебя недостаточно репутации, чтобы торговаться с роботами!",Your reputation is not high enough to trade with the Created!
+trader_no_reputation_robot_transition0_1,OK,OK
+089_start_node0,"[You enter the room but before you announce yourself, you overhear a conversation between the Forger Leader and a robot underling] Lucifred: ...and that's the best advice you can give? You tin-plated moron! You think I should just find out what they want and give it to them? Robot-Negotiator: It is the wisest move, sir -- they are too valuable to lose. Lucifred: Get out.","[You enter the room but before you announce yourself, you overhear a conversation between the Forger Leader and a robot underling] Lucifred: ...and that's the best advice you can give? You tin-plated moron! You think I should just find out what they want and give it to them? Robot-Negotiator: It is the wisest move, sir -- they are too valuable to lose. Lucifred: Get out."
+089_start_node1,"Lucifred: Who is-- ohh, yes, the young human I have heard so much about. Welcome, friend, to the headquarters of the Forgers. Please don't mind the extremely unhelpful bucket of bolts who is leaving right now. He is beneath the notice of important beings such as we two.","Lucifred: Who is-- ohh, yes, the young human I have heard so much about. Welcome, friend, to the headquarters of the Forgers. Please don't mind the extremely unhelpful bucket of bolts who is leaving right now. He is beneath the notice of important beings such as we two."
+089_start_node2,"Word has traveled quickly about your deeds. It seems you are an expert in getting things done in this land, and that you greatly desire something that we can give. Is that right?","Word has traveled quickly about your deeds. It seems you are an expert in getting things done in this land, and that you greatly desire something that we can give. Is that right?"
+089_start_node3,"Hmm. Unlike some, I always pay my debts, so if you do something for me, I will certainly deliver you to the proper place. Now, at the moment, I have a problem with a certain supplier of valuable ores for our industrial endeavors. You seem to have a knack for dealing with tough customers, and you have your own transportation. Are you interested?","Hmm. Unlike some, I always pay my debts, so if you do something for me, I will certainly deliver you to the proper place. Now, at the moment, I have a problem with a certain supplier of valuable ores for our industrial endeavors. You seem to have a knack for dealing with tough customers, and you have your own transportation. Are you interested?"
+089_start_node4,"Fair enough. I understand that. And I understand that you are from another place, so you are unaware of how far my reputation reaches. Even the lowliest of the beings in our domain knows what I can accomplish when I am properly compensated. In fact, go find that fool robot who just left here. Even he will say that I always do what I promise, as long as I get what I want. And then get going to the supplier. I don't have all day.","Fair enough. I understand that. And I understand that you are from another place, so you are unaware of how far my reputation reaches. Even the lowliest of the beings in our domain knows what I can accomplish when I am properly compensated. In fact, go find that fool robot who just left here. Even he will say that I always do what I promise, as long as I get what I want. And then get going to the supplier. I don't have all day."
+089_start_node5,"В мире творится что-то странное. Влияние центра усиливается,  путешествовать все сложнее. Многие пути стерлись, а координаты устарели. Это осложняет торговлю, да еще эти роботы некстати.","Strange things happen in the world. Power of the Center is growing and spreading, traveling becomes more and more difficult. Many paths were erased, and the coordinates became out of date. This complicates the trade, and these robots here are really amiss!"
+089_start_node6,"Ключ ко всему - центр мира. По легенде там есть цитадель, где исполняются все желания, но как туда добраться - никто не знает. Я мог бы поспрашивать своих подручных, но взамен нужна услуга","The Center of the world - is the key to everything. According to the legend, there is a Citadel, where all desires are fulfilled, but how can anybody  there - that's what no one knows. I could ask around, but I need a service in return."
+089_start_node7,"На соседнем осколке есть шахтерский городок, он снабжает нас рудой. Руда перестала поступать. Нужно разобраться в чем дело. Если что - можно применять самые жесткие меры.","On a nearby shard there is a mining town, it provides us with the ore. Ore stopped coming. We need to figure out what's wrong. In any case - you can apply the harshest measures."
+089_start_transition0_1,Uh... >ahem<,Uh... >ahem<
+089_start_transition1_1,"Uh, all right.","Uh, all right."
+089_start_transition2_1,"I would like to make my way back to my homeworld. No one has been terribly helpful for that, but they have sent me here.","I would like to make my way back to my homeworld. No one has been terribly helpful for that, but they have sent me here."
+089_start_transition3_1,"I'm always interested, but this time I want to know that you have the goods before I go charging off all over the place.","I'm always interested, but this time I want to know that you have the goods before I go charging off all over the place."
+089_start_transition4_1,All right then.,All right then.
+089_start_transition5_1,Как выбраться отсюда?,How to get out of here?
+089_start_transition6_1,Какая услуга?,What service?
+089_start_transition7_1,Я сделаю это,I will do it.
+089_finish_node0,Ты смог восстановить поставки руды. Молодец.,Ты смог восстановить поставки руды. Молодец.
+089_finish_node1,Получай награду и пока,Получай награду и пока
+089_finish_transition0_1,Я старался,Я старался
+089_finish_transition1_1,"Спасибо, пока","Спасибо, пока"
+089_gnarks_leader_node0,Я гнарк-лидер. Мы захватили этот город,Я гнарк-лидер. Мы захватили этот город
+089_gnarks_leader_node1,Да,Да
+089_gnarks_leader_node2,"Здесь могилы наших предков. Пусть перестанут копать, иначе не уйдем, так и передай","Здесь могилы наших предков. Пусть перестанут копать, иначе не уйдем, так и передай"
+089_gnarks_leader_transition0_1,Поэтому возникли перебои с рудой?,Поэтому возникли перебои с рудой?
+089_gnarks_leader_transition1_1,Прекращайте это. Кузнецы меня послали сюда разобраться с этим по-хорошему или по-плохому. Давайте по-хорошему?,Прекращайте это. Кузнецы меня послали сюда разобраться с этим по-хорошему или по-плохому. Давайте по-хорошему?
+089_gnarks_leader_transition2_1,"Ок, я иду","Ок, я иду"
+089_gnarks_leader_final_node0,Это снова ты! Что сказали кузнецы?,Это снова ты! Что сказали кузнецы?
+089_gnarks_leader_final_node1,Мы согласны на эту компенсацию. Но у демонов нет чести и тебе стоит выбирать союзников тщательнее,Мы согласны на эту компенсацию. Но у демонов нет чести и тебе стоит выбирать союзников тщательнее
+089_gnarks_leader_final_transition0_1,"Кузнецы передают, что либо вы берете 25% от прибыли, либо вас всех вырежут","Кузнецы передают, что либо вы берете 25% от прибыли, либо вас всех вырежут"
+089_gnarks_leader_final_transition1_1,"Рад, что вы смогли договориться","Рад, что вы смогли договориться"
+089_dont_understand_gnarks_node0,Бла-бла-бла,Бла-бла-бла
+089_dont_understand_gnarks_node1,БЛА-БЛА-БЛА!!!!!!!,БЛА-БЛА-БЛА!!!!!!!
+089_dont_understand_gnarks_transition0_1,Не знаю их язык,Не знаю их язык
+089_dont_understand_gnarks_transition1_1,По-моему они недовольны...,По-моему они недовольны...
+089_smiths_leader_node0,"Ну как успехи на шахте, ...Зик?","Ну как успехи на шахте, ...Зик?"
+089_smiths_leader_node1,"Этому не бывать! Мы дадим им 25% от дохода и пусть уходят! Либо мы их вырежем, так им и передай","Этому не бывать! Мы дадим им 25% от дохода и пусть уходят! Либо мы их вырежем, так им и передай"
+089_smiths_leader_transition0_1,"Там засели гнарки. У них там захоронения, вы должны прекратить раскопки, иначе они не уйдут","Там засели гнарки. У них там захоронения, вы должны прекратить раскопки, иначе они не уйдут"
+089_smiths_leader_transition1_1,"Ок, передам","Ок, передам"
+091_start_node0,">bzzt ding< Hello, human. I observed you in the room of Lucifred the Forger. I would have introduced myself to you as I left, but I calculated that it would have been inconvenient for a majority of the beings in the room. Now there is no restriction. My designation is T4LK3R. I am a robo-diplomat.",">bzzt ding< Hello, human. I observed you in the room of Lucifred the Forger. I would have introduced myself to you as I left, but I calculated that it would have been inconvenient for a majority of the beings in the room. Now there is no restriction. My designation is T4LK3R. I am a robo-diplomat."
+091_start_node1,">zzt< Lucifred knows much. But he is a fool in most other ways. For many months, I have tried to negotiate trade deals between factions of creatures. Trade keeps everyone happy, which stops wars. This creates peace, which is logical. I have created trade agreements between Gnarks, Golems, and Trolls. These creatures, while primitive and quick to anger, are approximately 71.4 times easier to deal with than Lucifred and the Forgers.",">zzt< Lucifred knows much. But he is a fool in most other ways. For many months, I have tried to negotiate trade deals between factions of creatures. Trade keeps everyone happy, which stops wars. This creates peace, which is logical. I have created trade agreements between Gnarks, Golems, and Trolls. These creatures, while primitive and quick to anger, are approximately 71.4 times easier to deal with than Lucifred and the Forgers."
+091_start_node2,">zzrrt< He does not think that I am a worthy diplomat because I am made of metal. Nothing I do will convince hm of this. It goes against my programming, but I am angry, and I wish to quit.",">zzrrt< He does not think that I am a worthy diplomat because I am made of metal. Nothing I do will convince hm of this. It goes against my programming, but I am angry, and I wish to quit."
+091_start_node3,">klik ding< If you wish to make an agreement between the Forgers and the three savage tribes, you are welcome to it. I will even sell you a translator so you can make it easier.",">klik ding< If you wish to make an agreement between the Forgers and the three savage tribes, you are welcome to it. I will even sell you a translator so you can make it easier."
+091_start_transition0_1,"Ah, nice to meet you. I'm Gromov. I have a quick question. I need to find my way home, off this shard, and off this whole world. Do you think Lucifred the Forger has the ability to do it?","Ah, nice to meet you. I'm Gromov. I have a quick question. I need to find my way home, off this shard, and off this whole world. Do you think Lucifred the Forger has the ability to do it?"
+091_start_transition1_1,Really? Why? Lucifred seems like he's always up for a deal.,Really? Why? Lucifred seems like he's always up for a deal.
+091_start_transition1_2,"У меня нет таких средств, я скоро вернусь",I dont have so many coins. I'll be back soon.
+091_start_transition2_1,"Hold on, hold on! Maybe I can help.","Hold on, hold on! Maybe I can help."
+091_start_transition3_1,"A translator, huh? How much?","A translator, huh? How much?"
+091_finish_node0,>gzzt< Oh. You found me. I was just about to skip town. It was illogical for me to stay around when the Forgers are such stupid jerks.,>gzzt< Oh. You found me. I was just about to skip town. It was illogical for me to stay around when the Forgers are such stupid jerks.
+091_finish_node1,>bzzt< Oh. Very interesting. I didn't know what that word meant. Ohh. That's bad. I've been insulting the Gnarks' mothers for about 5 years.,>bzzt< Oh. Very interesting. I didn't know what that word meant. Ohh. That's bad. I've been insulting the Gnarks' mothers for about 5 years.
+091_finish_transition0_1,"Check it out. I can communicate with all the Gnarks, Golems, and Trolls now. In fact, we're all pretty good friends.","Check it out. I can communicate with all the Gnarks, Golems, and Trolls now. In fact, we're all pretty good friends."
+091_finish_transition1_1,"Anyway, have a nice trip. Thought you might be interested.","Anyway, have a nice trip. Thought you might be interested."
+092_start_node0,Gnark! Gnark Gnark!,Gnark! Gnark Gnark!
+092_start_node1,[Gnark enthusiastically jumps up and down] Gnark Gnark!,[Gnark enthusiastically jumps up and down] Gnark Gnark!
+092_start_transition0_1,Uh... Do you want me to...? [point at best guess],Uh... Do you want me to...? [point at best guess]
+092_start_transition1_1,...What are you doing? Are you taking me somewhere to learn?,...What are you doing? Are you taking me somewhere to learn?
+092_gnark_savage_node0,Достаточно слов в твоем переводчике. Ты нас понимаешь,"Now you are able to understand us, fella?"
+092_gnark_savage_node1,Вот и хорошо,Good.
+092_gnark_savage_transition0_1,"Да, стал понимать","Yes, I started to understand you."
+092_gnark_savage_transition1_1,Спасибо,Thanks.
+093_start_node0,[the golems hum quietly as you go past],[the golems hum quietly as you go past]
+093_start_node1,Hmm hmm humm hrmm Hmm-HM!! [Translator: We golems see you. Stop or else!],Hmm hmm humm hrmm Hmm-HM!! [Translator: We golems see you. Stop or else!]
+093_start_transition0_1,"Interesting. They don't do much, do they? I wonder what it would take to wake them up and get them to talk. I need to hear them speak so the translator can pick it up. [pick up smallest stone]","Interesting. They don't do much, do they? I wonder what it would take to wake them up and get them to talk. I need to hear them speak so the translator can pick it up. [pick up smallest stone]"
+093_start_transition1_1,"Aha, we're getting somewhere now. They talk when they're provoked. I wonder what they'll say if I grab the rock from this holy looking shrine thing.","Aha, we're getting somewhere now. They talk when they're provoked. I wonder what they'll say if I grab the rock from this holy looking shrine thing."
+093_golem_savage_node0,Ну вот чего ты нашу каменюку трогал?,"Well, why did you touch our Holy Rock?"
+093_golem_savage_node1,Не надо так больше делать,Don't do that again.
+093_golem_savage_transition0_1,Теперь я ваш язык понимаю. Я вас спровоцирвоал,"Now, I understand your language. I've just provoked you."
+093_golem_savage_transition1_1,Ок,Ok.
+094_start_node0,Dunkle Bort! Za Kroog la Foz Yog. Krob la! [Translator: Troll Ally! In Kroog is Wild Foz. Krob them!],Dunkle Bort! Za Kroog la Foz Yog. Krob la! [Translator: Troll Ally! In Kroog is Wild Foz. Krob them!]
+094_start_node1,[troll shrugs and points you toward the lair],[troll shrugs and points you toward the lair]
+094_start_transition0_1,Hmm. Dunkle Bort.,Hmm. Dunkle Bort.
+094_start_transition1_1,"Somebody in there that you want me to meet, trade with, or kill? It would sure be nice to have a little more information going in...","Somebody in there that you want me to meet, trade with, or kill? It would sure be nice to have a little more information going in..."
+094_troll_savage_node0,Oh! What this? Us Trolls now talk with you easy? Very good!,Oh! What this? Us Trolls now talk with you easy? Very good!
+094_troll_savage_node1,"Yes. You friend. Now no trolls attack you on you's journey. As long as you no attack us, look at us with funny, or smell bad.","Yes. You friend. Now no trolls attack you on you's journey. As long as you no attack us, look at us with funny, or smell bad."
+094_troll_savage_transition0_1,Yes. Me talk good to you. Me Troll Ally.,Yes. Me talk good to you. Me Troll Ally.
+094_troll_savage_transition1_1,Me thank you...I think.,Me thank you...I think.
+091_start_transition0_3,"Ну что, ты раздобыл деньги?","Well, did you get the money?"
+091_start_transition0_4,Пока еще нет,Not yet.
+091_start_transition0_5,"Да, держи 5000","Yes, take your 5000."
+091_start_transition1_3,"Поздравляю с приобретением. Обрати внимание, переводчику для работы нужен словарный запас. Его нужно наполнить словами, как можно большим числом","Congratulations on your purchase. Pay attention to this - to work properly the translating machine needs vocabulary. It must be filled with words, as many as you manage."
+091_start_transition1_4,Что нужно сделать?,What do i need to do?
+091_start_transition2_3,"Иди к големам, гнаркам и троллям. Пытайся найти с ними общий язык. Главное, чтобы они говорили тебе слова. Прибор все это воспримет и проанализирует. Так ты научишься их языку","Go to the golems, gnarks and trolls. Try to find a common language with them. The most important - they have to speak with you, give you words. The machine will gather all this and analyze. That's how you will learn their language."
+091_start_transition2_4,"Отлично, выдвигаюсь","Great, I get going."
+091_return_buy_node0,>gzzt< You are back. Do you have the money now?,>gzzt< You are back. Do you have the money now?
+091_return_buy_node1,>ding ding< Excellent. Here is the translator. It will require many interactions with the creatures in order to build its vocabulary. I wish you luck. You will need it with Lucifred.,>ding ding< Excellent. Here is the translator. It will require many interactions with the creatures in order to build its vocabulary. I wish you luck. You will need it with Lucifred.
+091_return_buy_node2,"Иди к големам, гнаркам и троллям. Пытайся найти с ними общий язык. Главное, чтобы они говорили тебе слова. Прибор все это воспримет и проанализирует. Так ты научишься их языку","Go to the golems, gnarks and trolls. Try to find a common language with them. The most important - they have to speak with you, give you words. The machine will gather all this and analyze. That's how you will learn their language."
+091_return_buy_transition0_1,"Sheesh, I forgot!","Sheesh, I forgot!"
+091_return_buy_transition0_2,"Yep, here you go, 1000 gold.","Yep, here you go, 1000 gold."
+091_return_buy_transition1_1,All right. This should be interesting.,All right. This should be interesting.
+091_return_buy_transition2_1,"Отлично, выдвигаюсь","Great, I get going."
+094_troll_kill_south_node0,Bork! Dunkle Bort bos Krob la Foz Yog! [Translator: Bork! Troll Bort has Krob the Foz Monsters!],Bork! Dunkle Bort bos Krob la Foz Yog! [Translator: Bork! Troll Bort has Krob the Foz Monsters!]
+094_troll_kill_south_node1,[troll cheers],[troll cheers]
+094_troll_kill_south_transition0_1,Krob la Foz Yog! [Smash the Wild Monsters!],Krob la Foz Yog! [Smash the Wild Monsters!]
+094_troll_kill_south_transition1_1,YEAH! TROLLS!,YEAH! TROLLS!
+094_troll_kill_north_node0,Bork! Dunkle Bort bos Krob la Foz Yog! [Translator: Bork! Troll Bort has Krob the Foz Monsters!],Bork! Dunkle Bort bos Krob la Foz Yog! [Translator: Bork! Troll Bort has Krob the Foz Monsters!]
+094_troll_kill_north_node1,[troll pats you on the back],[troll pats you on the back]
+094_troll_kill_north_transition0_1,Um... Bork? [Translator: Interesting?],Um... Bork? [Translator: Interesting?]
+094_troll_kill_north_transition1_1,I think that's right.,I think that's right.
+094_troll_kill_east_node0,Bork! Dunkle Bort bos Krob la Foz Yog! [Translator: Bork! Troll Bort has Krob the Foz Monsters!],Bork! Dunkle Bort bos Krob la Foz Yog! [Translator: Bork! Troll Bort has Krob the Foz Monsters!]
+094_troll_kill_east_node1,[troll offers you a hug],[troll offers you a hug]
+094_troll_kill_east_transition0_1,Dunkle Bort. [Translator: Troll Ally],Dunkle Bort. [Translator: Troll Ally]
+094_troll_kill_east_transition1_1,Cool. You guys are all right.,Cool. You guys are all right.
+092_after_fight_1_node0,Gnark Gnark!,Gnark Gnark!
+092_after_fight_1_transition0_1,"Hmm, I guess Gnarks teach through combat?","Hmm, I guess Gnarks teach through combat?"
+092_after_fight_2_node0,Gnark Gnark! Gnark!! [Translator: Gnark Your Mother! Gnark!!],Gnark Gnark! Gnark!! [Translator: Gnark Your Mother! Gnark!!]
+092_after_fight_2_transition0_1,Whew! Tough lesson. The translator appear to be picking this up now.,Whew! Tough lesson. The translator appear to be picking this up now.
+092_finish_node0,Human!! Can you Gnark us now?,Human!! Can you Gnark us now?
+092_finish_node1,That's just Gnark! I gnarked you would gnark it sooner or later! You did a really gnark job gnarking those missions.,That's just Gnark! I gnarked you would gnark it sooner or later! You did a really gnark job gnarking those missions.
+092_finish_transition0_1,"Oh! Uh, yeah, I can ...gnark... you... pretty well, I guess.","Oh! Uh, yeah, I can ...gnark... you... pretty well, I guess."
+092_finish_transition1_1,"Umm... Well, gnark you very much.","Umm... Well, gnark you very much."
+093_finish_node0,Hmm-hmm. You talk to Golems now. Give back Hmm-Hm.,Hmm-hmm. You talk to Golems now. Give back Hmm-Hm.
+093_finish_node1,"Нmm-hm. You humans say ""stone."" We golems say ""child.""","Нmm-hm. You humans say ""stone."" We golems say ""child."""
+093_finish_transition0_1,Hmm-Hm? What's that?,Hmm-Hm? What's that?
+093_finish_transition1_1,Oh! Oh my goodness. Here you go. Sorry!,Oh! Oh my goodness. Here you go. Sorry!
+095_start_node0,"Ahh, here you are again, Young Human. I know you have traveled much of this world. You seem like a sharp chap. Tell me, do you know the language of the Trolls?","Ahh, here you are again, Young Human. I know you have traveled much of this world. You seem like a sharp chap. Tell me, do you know the language of the Trolls?"
+095_start_node1,"I know much, but the Trolls and their ways are a mystery to me. We know they are useful in trade, but when we sent out our trade negotiator, he never came back. Perhaps as a favor to us, you may go and investigate this disappearance. I would be very grateful.","I know much, but the Trolls and their ways are a mystery to me. We know they are useful in trade, but when we sent out our trade negotiator, he never came back. Perhaps as a favor to us, you may go and investigate this disappearance. I would be very grateful."
+095_start_transition0_1,"As a matter of fact, I do.","As a matter of fact, I do."
+095_start_transition1_1,Very well.,Very well.
+095_troll_guard_1_node0,Who be you? Make-talk to prisoner not let-happen! You go far away!,Who be you? Make-talk to prisoner not let-happen! You go far away!
+095_troll_guard_1_node1,Him dig under-ground in camp! Take shiny bars away from Trolls! Very greedy! Smell like you's suit!,Him dig under-ground in camp! Take shiny bars away from Trolls! Very greedy! Smell like you's suit!
+095_troll_guard_1_transition0_1,"Okay, okay, hold on. Me here to solve problem. Who is prisoner, and what him done?","Okay, okay, hold on. Me here to solve problem. Who is prisoner, and what him done?"
+095_troll_guard_1_transition1_1,Him smell like MY suit? Like ...motor oil?,Him smell like MY suit? Like ...motor oil?
+095_troll_guard_2_node0,You! Why you back?,You! Why you back?
+095_troll_guard_2_node1,What? So now we has to free prisoner? And we has to say him sorry? Uuugghh. Us hate to do both those things! But okay.,What? So now we has to free prisoner? And we has to say him sorry? Uuugghh. Us hate to do both those things! But okay.
+095_troll_guard_2_transition0_1,"Me figure out what real problem is! It not prisoner who steal shiny bars. It Robots. But me strong, and smart, and send them away!","Me figure out what real problem is! It not prisoner who steal shiny bars. It Robots. But me strong, and smart, and send them away!"
+095_troll_guard_2_transition1_1,"Me thank you, Troll Friend.","Me thank you, Troll Friend."
+096_start_node0,"YARR! What be this, a Pretend Robot? It walk like a robot yet have the heart of a person. MAKE UP YER MIND, says I! What be your business here?","YARR! What be this, a Pretend Robot? It walk like a robot yet have the heart of a person. MAKE UP YER MIND, says I! What be your business here?"
+096_start_node1,PAH! I may as well say that all the cows need ye to stop eating them! What care I what dumb savages think or don't think?,PAH! I may as well say that all the cows need ye to stop eating them! What care I what dumb savages think or don't think?
+096_start_transition0_1,"Captain, I've figured out that it is your crew who is stealing scrap metal from the Trolls. They need you to stop doing that.","Captain, I've figured out that it is your crew who is stealing scrap metal from the Trolls. They need you to stop doing that."
+096_start_transition1_1,"Now listen, if you would bother to learn some of the Trolls' language, you would know","Now listen, if you would bother to learn some of the Trolls' language, you would know"
+096_finish_node0,"ARR! Ye return, Pretend Robot! Have ye found a scrap-hunting world for me and me crew?","ARR! Ye return, Pretend Robot! Have ye found a scrap-hunting world for me and me crew?"
+096_finish_node1,"Arr, ye be a rare one, Pretend Robot. Flag us down next time ye see our ship, and we shall help ye as best we can!","Arr, ye be a rare one, Pretend Robot. Flag us down next time ye see our ship, and we shall help ye as best we can!"
+096_finish_transition0_1,Whew! I did! I've cleared the land of the Ice Golems and the Snow Leopards. You can get scrap metal there to your heart's content!,Whew! I did! I've cleared the land of the Ice Golems and the Snow Leopards. You can get scrap metal there to your heart's content!
+096_finish_transition1_1,Will do!,Will do!
+095_free_trader_node0,"Спасибо, что освободил меня",You set me free. Many thanks!
+095_free_trader_node1,"Это Вилли, вот его примерные координаты","Like two drops! His name is Willy. He lives in a small town. You can just ask, everybody knows him. He's a Sheriff!"
+095_free_trader_transition0_1,"Что за человек, похожий на меня?","So, you know a man who looks like me?"
+095_free_trader_transition1_1,"Спасибо, пойду туда","Thanks, I'll go there."
+097_start_node0,Я - лидер пиратов. Кто ты и чего хочешь?,"I'm the pirate captain, boy. What is your business?"
+097_start_node1,"Просто так ты не получишь карту. Сначала помоги нам. Узнай, что случилось с нашим собратом-роботом, первым помощником","Everything have a price, right? Find out what happened to my fella Ben, the first assistant. And then we talk about your map."
+097_start_transition0_1,Мне нужна карта,I need the map.
+097_start_transition1_1,"Ок, сейчас же выдвигаюсь","Well, I'll hit the road."
+097_finish_node0,Ты выяснил судьбу первого помощника? Задание выполнено?,So the mission complete? Have you find my assistant?
+097_finish_node1,Отлично. Я очень благодарен тебе за помощь,"Don't worry. I'll tell you where to find the Great Treasure Hunter. He is definately have this map, I'm sure. It's not easy to find him, but we are friends, so I can help you."
+097_finish_transition0_1,"Да, он был пленен, но теперь на свободе","Yes, he was captured, but now is free. Give me a map, as we agreed."
+097_finish_transition1_1,Вот как хорошо,Great.
+098_start_node0,"Тебе надо найти лидера пиратов. У него есть карта, которая поможет тебе","You need to find a pirate captain. THey are robots, right? So surely they know how to find their metal fellas."
+098_start_node1,"Давай, выдвигайся тогда",Have a good trip!
+098_start_transition0_1,"Ок, понял",Ok. I've got it.
+098_start_transition1_1,"Ага, я пошел к пиратам","Thank you, let's find this pirates."
+100_start_node0,Я Великий Кладоискатель. Чего тебе?,I'm the Great Treasure Hunter. Why are you bothering me?
+100_start_node1,"Сейчас я тебя размозжу, букашка","I have all maps of the world. And I will bury you, little thing!"
+100_start_transition0_1,"Давай ка мне карту,  да поживей","I need to find the Created. And you have a proper map, right?"
+100_start_transition1_1,"Сейчас посмотрим, кто кого","Let's see, monster!"
+099_start_node0,К сожалению карты у меня нет,"Erm, to be honest I don't have this map."
+099_start_node1,"Не печалься, взамен этого я тебе скажу где искать Великого Кладоискателя. У него есть эта карта. Вот координаты, иди к нему","Don't worry. I'll tell you where to find the Great Treasure Hunter. He is definately have this map, I'm sure. It's not easy to find him, but we are friends, and I can help."
+099_start_transition0_1,И что дальше?,What next?
+099_start_transition1_1,Выдвигаюсь к Великому Кладоискателю,I'm going to find this Great Treasure Hunter.
+100_speak_after_fight_node0,Об одном сожалею. За все мои труды никто меня никогда не благодарил,I have one regret. In all my works I was never thanked.
+100_speak_after_fight_node1,Спасибо за это,Thank you for all.
+100_speak_after_fight_transition0_1,"Хм, спасибо тебе! Вот я поблагодарил только что",And thank you!
+100_speak_after_fight_transition0_2,*Просто уйти*,*Leave*
+100_speak_after_fight_transition1_1,"Ага, карта теперь моя!",Now this map is mine!
+101_start_node0,"Stone Pants, you have done a wonderful job for us! Smart, resourceful, quick-witted, strong, and brave. I salute you. Now it is time for me to pay you back, and tell you how to get back to your home.","Stone Pants, you have done a wonderful job for us! Smart, resourceful, quick-witted, strong, and brave. I salute you. Now it is time for me to pay you back, and tell you how to get back to your home."
+101_start_node1,"Ah! Right! Well, the truth is that I don't know where any of that stuff is. But I do know of a creature called the Collector. He knows many things; perhaps he will know of the place you are looking for.","Ah! Right! Well, the truth is that I don't know where any of that stuff is. But I do know of a creature called the Collector. He knows many things; perhaps he will know of the place you are looking for."
+101_start_transition0_1,"Fantastic. This has been a lot of work, so I'm happy to be able to be finished now. Where is it?","Fantastic. This has been a lot of work, so I'm happy to be able to be finished now. Where is it?"
+101_start_transition1_1,"A-are you kidding me? After doing all that work for you and for the rats, and ... and... You're telling me that I need to go find someone ELSE who MIGHT know something about it???","A-are you kidding me? After doing all that work for you and for the rats, and ... and... You're telling me that I need to go find someone ELSE who MIGHT know something about it???"
+087_start_node0,"Ahh, welcome, traveler. I see you and I are both strangers in this land. The difference, of course, is that I know much and you know little. So this is our friendship, then: you come to me for knowledge, and I will ask for riches in return. What do you wish, friend?","Ahh, welcome, traveler. I see you and I are both strangers in this land. The difference, of course, is that I know much and you know little. So this is our friendship, then: you come to me for knowledge, and I will ask for riches in return. What do you wish, friend?"
+087_start_node1,"Yes, well, nothing is free, my young friend. I look at your marvelous battle suits you have created, and it occurs to me: a certain item I thought was impossible to acquire may not be so impossible after all. Deep within the Earth sits The Stone of Omnipotence, a very valuable stone to the right people. I sent someone like you to find it-- as I recall, he was wanting to get to his home as well -- but he never came back. What happened to him, I cannot say. But you may have different luck.","Yes, well, nothing is free, my young friend. I look at your marvelous battle suits you have created, and it occurs to me: a certain item I thought was impossible to acquire may not be so impossible after all. Deep within the Earth sits The Stone of Omnipotence, a very valuable stone to the right people. I sent someone like you to find it-- as I recall, he was wanting to get to his home as well -- but he never came back. What happened to him, I cannot say. But you may have different luck."
+087_start_transition0_1,"I've worked really hard to get here. I crashed my plane, I built these battle suits, I solved problems for two different factions. Please, I have a friend who's lost, and I'm just trying to get back home. To my REAL home, on Earth.","I've worked really hard to get here. I crashed my plane, I built these battle suits, I solved problems for two different factions. Please, I have a friend who's lost, and I'm just trying to get back home. To my REAL home, on Earth."
+087_start_transition0_2,Wait here,Wait here
+087_start_transition1_1,"Okay. I will do what I need to do to get that for you, but doesn't anyone just offer information for free around here?","Okay. I will do what I need to do to get that for you, but doesn't anyone just offer information for free around here?"
+087_finish_node0,"My young friend Mr. Gromov! You're back! Ex-cellent! And is that the Stone of Ominpotence I see in your robotic hands? My, my, aren't you resourceful?","My young friend Mr. Gromov! You're back! Ex-cellent! And is that the Stone of Ominpotence I see in your robotic hands? My, my, aren't you resourceful?"
+087_finish_node1,"One moment: I see you're back too, Philip. It seems you've screwed this mission up too. Typical. You're fired, by the way. Get out of my office. Now, Mr. Gromov, what were you saying?","One moment: I see you're back too, Philip. It seems you've screwed this mission up too. Typical. You're fired, by the way. Get out of my office. Now, Mr. Gromov, what were you saying?"
+087_finish_transition0_1,"Yes, thanks. I should tell you","Yes, thanks. I should tell you"
+087_finish_transition1_1,"Uh, yeah, the Stone's dangerous. If you touch it, it will turn you into a terrifying creature. So please be careful.","Uh, yeah, the Stone's dangerous. If you touch it, it will turn you into a terrifying creature. So please be careful."
+102_start_node0,"Here is what you came for: a map to take you to my countrymen, the Forgers. I am sure they can help you find your friend and get home.","Here is what you came for: a map to take you to my countrymen, the Forgers. I am sure they can help you find your friend and get home."
+102_start_node1,Держи координаты,Держи координаты
+102_start_transition0_1,"At this point, I'm not even surprised that you're just giving me more to do. Thanks.","At this point, I'm not even surprised that you're just giving me more to do. Thanks."
+102_start_transition1_1,"Записал, иду к Кузнецам","Записал, иду к Кузнецам"
+IC_002_start_node0,>skkssskk< Gromov? You there? I've heard some rumors about the world you're on. It sounds like the >skkssk< folks who could help you the most are the Forest Brotherhood. >kssks<,>skkssskk< Gromov? You there? I've heard some rumors about the world you're on. It sounds like the >skkssk< folks who could help you the most are the Forest Brotherhood. >kssks<
+IC_002_start_node1,"No, it's worse than that. >kssks< They're not people, and they're not related to each other. They're >hsskskks<","No, it's worse than that. >kssks< They're not people, and they're not related to each other. They're >hsskskks<"
+IC_002_start_node2,"I said, they're >ffsskkksks< that are extremely >sskksksks< when they >kskksksk<","I said, they're >ffsskkksks< that are extremely >sskksksks< when they >kskksksk<"
+IC_002_start_node3,[silence],[silence]
+IC_002_start_transition0_1,The Forest Brotherhood? So a bunch of guys who are related to each other just hanging out in the forest?,The Forest Brotherhood? So a bunch of guys who are related to each other just hanging out in the forest?
+IC_002_start_transition1_1,Sorry I didn't get that. Repeat please. Over.,Sorry I didn't get that. Repeat please. Over.
+IC_002_start_transition2_1,*shake the radio set*,*shake the radio set*
+IC_002_start_transition3_1,*turn off the radio set and sigh mournfully*,*turn off the radio set and sigh mournfully*
+IC_002_guard_new_node0,"Rooty Toot Toot! Hail and well met, stranger! Welcome to the Forest Brotherhood. You appear to be friendly, but my goodness, one just doesn't know. Ho ho! Might I inquire what your business is in this part of the Dark, Dark Woods?","Rooty Toot Toot! Hail and well met, stranger! Welcome to the Forest Brotherhood. You appear to be friendly, but my goodness, one just doesn't know. Ho ho! Might I inquire what your business is in this part of the Dark, Dark Woods?"
+IC_002_guard_new_node1,"I see. Oh yes, Indeed I do! Hoo hoo! The leader is away at the moment. In fact, he is on a mission. A marvelous mission! A mission to save the Foxes' very livelihood! But who might you be, and why would you like to see him?","I see. Oh yes, Indeed I do! Hoo hoo! The leader is away at the moment. In fact, he is on a mission. A marvelous mission! A mission to save the Foxes' very livelihood! But who might you be, and why would you like to see him?"
+IC_002_guard_new_node2,"Very good! The Forest Brotherhood is always happy to help those on a mission. Our leader is to the north of here, and if you were to join his group and help them on their secret mission, he would be sure to do whatever he can to assist you! Godspeed and farewell!","Very good! The Forest Brotherhood is always happy to help those on a mission. Our leader is to the north of here, and if you were to join his group and help them on their secret mission, he would be sure to do whatever he can to assist you! Godspeed and farewell!"
+IC_002_guard_new_node3,"How rude. Very well, I will tell you that he is a great distance from here either North or South. I cannot say which. It is a riddle!","How rude. Very well, I will tell you that he is a great distance from here either North or South. I cannot say which. It is a riddle!"
+IC_002_guard_new_transition0_1,Uh... hi. I'd like to talk with your leader. I've got to figure out how to get out of here.,Uh... hi. I'd like to talk with your leader. I've got to figure out how to get out of here.
+IC_002_guard_new_transition1_1,My name is Gromov. I'm not from here. I need some help to get home.,My name is Gromov. I'm not from here. I need some help to get home.
+IC_002_guard_new_transition1_2,"My name is none of your business, and coincidentally, my reasons are none of your business, too.","My name is none of your business, and coincidentally, my reasons are none of your business, too."
+IC_002_guard_new_transition2_1,"Okay, thanks a bunch, Fox Man!","Okay, thanks a bunch, Fox Man!"
+IC_002_guard_new_transition3_1,Humph.,Humph.
+IC_002_guard_new_transition3_2,*sigh* Sorry I was so short with you. Life is stressful when you're wandering around with your memories all screwed up.,*sigh* Sorry I was so short with you. Life is stressful when you're wandering around with your memories all screwed up.
+IC_002_shaman_node0,Hi Zac!,Hi Zac!
+IC_002_shaman_node1,Don’t you remember anything?,Don’t you remember anything?
+IC_002_shaman_node2,You haven’t changed... Do you need any junk again?,You haven’t changed... Do you need any junk again?
+IC_002_shaman_node3,He left with the tribe. We haven’t heard from them for a long time.,He left with the tribe. We haven’t heard from them for a long time.
+IC_002_shaman_node4,Northern lands *shows with her hand*,Northern lands *shows with her hand*
+IC_002_shaman_transition0_1,*how did she learn my name?*,*how did she learn my name?*
+IC_002_shaman_transition1_1,*say nothing*,*say nothing*
+IC_002_shaman_transition2_1,"Junk? What junk? No, I need your boss.","Junk? What junk? No, I need your boss."
+IC_002_shaman_transition3_1,Which way did they go?,Which way did they go?
+IC_002_shaman_transition4_1,Thank you very much!,Thank you very much!
+IC_002_treasure_node0,Halt! You there! Stay away from this chest! Leader's orders!,Halt! You there! Stay away from this chest! Leader's orders!
+IC_002_treasure_node1,"[salutes] Flenrik the Steady, accountant second class. Yes, I've been tasked with making an inventory of all the treasure we found. It's not glorious work, but it's still important! Why, just the other day I--","[salutes] Flenrik the Steady, accountant second class. Yes, I've been tasked with making an inventory of all the treasure we found. It's not glorious work, but it's still important! Why, just the other day I--"
+IC_002_treasure_node2,"Oh, them? They went north. Treasure isn't really the main goal of this expedition, if you catch my drift. Wink, wink. Secret stuff. I can't tell you. It's classified. So don't even ask, because I will never ever--","Oh, them? They went north. Treasure isn't really the main goal of this expedition, if you catch my drift. Wink, wink. Secret stuff. I can't tell you. It's classified. So don't even ask, because I will never ever--"
+IC_002_treasure_transition0_1,"Uh... hi. Don't worry, I wasn't going to take anything. Are you one of the expedition members?","Uh... hi. Don't worry, I wasn't going to take anything. Are you one of the expedition members?"
+IC_002_treasure_transition1_1,"(Interrupt) Rrright. So, where did everybody else go?","(Interrupt) Rrright. So, where did everybody else go?"
+IC_002_treasure_transition2_1,"(Interrupt) Okay, thanks, bye!","(Interrupt) Okay, thanks, bye!"
+IC_002_chest_guard_node0,"Hey! I already told you! This chest belongs to the great Fox Brotherhood. I'm guarding it! If you steal some, my inventory is all messed up! I'm trying to to a good job here, and you're--","Hey! I already told you! This chest belongs to the great Fox Brotherhood. I'm guarding it! If you steal some, my inventory is all messed up! I'm trying to to a good job here, and you're--"
+IC_002_chest_guard_transition0_1,"(Interrupt) Oh, fine. *go away*","(Interrupt) Oh, fine. *go away*"
+IC_002_chest_guard_transition0_2,"(Interrupt) Put a cork in it, will ya? *attack the fox*","(Interrupt) Put a cork in it, will ya? *attack the fox*"
+IC_002_fox_fire_node0,"That should do it for the rats! But they set that fire, and our leader is trapped!","That should do it for the rats! But they set that fire, and our leader is trapped!"
+IC_002_fox_fire_transition0_1,Gotcha! I'm on it!,Gotcha! I'm on it!
+IC_002_guard_node0,Whew! That was getting hot! I'm sure lucky you happened along in your fireproof stone pants!,Whew! That was getting hot! I'm sure lucky you happened along in your fireproof stone pants!
+IC_002_guard_node1,"Tracking ME? Ver-ry Interesting! Tell me more, Stone Pants.","Tracking ME? Ver-ry Interesting! Tell me more, Stone Pants."
+IC_002_guard_node2,"""Home?"" Ah, yes, the world your shard chipped off of, far away, long ago. Yes, yes. This idea has passed into legend for my people. Most are happy enough where they are, so they consider this to be just a story. But I know better. I know a way to this ""home"" you speak of. In happier times I would help you freely, Stone Pants. But these are not happy times for the Foxes.","""Home?"" Ah, yes, the world your shard chipped off of, far away, long ago. Yes, yes. This idea has passed into legend for my people. Most are happy enough where they are, so they consider this to be just a story. But I know better. I know a way to this ""home"" you speak of. In happier times I would help you freely, Stone Pants. But these are not happy times for the Foxes."
+IC_002_guard_node3,That is not important to us. The Forest Brotherhood has no need for victory or riches. We Foxes just wish to live in peace.,That is not important to us. The Forest Brotherhood has no need for victory or riches. We Foxes just wish to live in peace.
+IC_002_guard_node4,"The Rats that live in the forest with us SHOULD be able to coexist in peace. But they are greedy. They steal from us, they attack us. Stone Pants, they know nothing of cooperation! Even the Trolls will not attack us for no reason.","The Rats that live in the forest with us SHOULD be able to coexist in peace. But they are greedy. They steal from us, they attack us. Stone Pants, they know nothing of cooperation! Even the Trolls will not attack us for no reason."
+IC_002_guard_node5,"Even now the Rats threaten us with a terrible secret weapon. I have a plan, but it requires an outsider. If you would help us, I can certainly help you find this ""home"" you speak of.","Even now the Rats threaten us with a terrible secret weapon. I have a plan, but it requires an outsider. If you would help us, I can certainly help you find this ""home"" you speak of."
+IC_002_guard_node6,I had a good feeling about you. Perhaps it was your excellent and practical clothing choices. Listen closely and I will tell you my plan.,I had a good feeling about you. Perhaps it was your excellent and practical clothing choices. Listen closely and I will tell you my plan.
+IC_002_guard_transition0_1,"Luck had nothing to do with it, sir. I've been tracking you for quite some time.","Luck had nothing to do with it, sir. I've been tracking you for quite some time."
+IC_002_guard_transition1_1,"Uh, well, my name is actually... Never mind, Stone Pants is fine. Okay, so... I'm not from this world, and a friend told me that you might know a way to get home.","Uh, well, my name is actually... Never mind, Stone Pants is fine. Okay, so... I'm not from this world, and a friend told me that you might know a way to get home."
+IC_002_guard_transition2_1,"I know, you need treasure.","I know, you need treasure."
+IC_002_guard_transition2_2,"I know, you are at war with the Trolls.","I know, you are at war with the Trolls."
+IC_002_guard_transition2_3,"Right, you and the Trolls have a common enemy.","Right, you and the Trolls have a common enemy."
+IC_002_guard_transition2_4,Why not?,Why not?
+IC_002_guard_transition3_1,[continue],[continue]
+IC_002_guard_transition4_1,[continue],[continue]
+IC_002_guard_transition5_1,"Excellent! I, Stone Pants, am your man!","Excellent! I, Stone Pants, am your man!"
+IC_002_guard_transition5_2,"Well.. If that's what it's going to take, then I guess so.","Well.. If that's what it's going to take, then I guess so."
+IC_002_guard_transition5_3,"Side quests, shmide quests. I'm out of here.","Side quests, shmide quests. I'm out of here."
+085_start_node0,"Psst! Get out of here, whoever you are! They're going to be back in just a second!","Psst! Get out of here, whoever you are! They're going to be back in just a second!"
+085_start_node1,"I'm LUNCH, is what I am. Now get out of here unless you want to be dessert!","I'm LUNCH, is what I am. Now get out of here unless you want to be dessert!"
+085_start_node2,"Our expedition was meant to contact with the Trolls communicate with them. Some of us believe that they are intelligent and reasonable creatures, and that the Foxes and Trolls could form an alliance.","Our expedition was meant to contact with the Trolls communicate with them. Some of us believe that they are intelligent and reasonable creatures, and that the Foxes and Trolls could form an alliance."
+085_start_node3,Too late! They're coming back!! Get out of here! I can talk to them!,Too late! They're coming back!! Get out of here! I can talk to them!
+085_start_transition0_1,How did you get in there?,How did you get in there?
+085_start_transition0_2,Who are you? Are you a member of the Fox Brotherhood?,Who are you? Are you a member of the Fox Brotherhood?
+085_start_transition1_1,What happened?,What happened?
+085_start_transition1_2,Where are the others?,Where are the others?
+085_start_transition2_1,"How's that working out so far, Mr. Lunch?","How's that working out so far, Mr. Lunch?"
+085_start_transition2_2,Give me a second and I'll get you out of there. *start picking lock*,Give me a second and I'll get you out of there. *start picking lock*
+085_start_transition3_1,"Maybe I can talk to them. I don't speak Troll, but maybe I can take a guess...?","Maybe I can talk to them. I don't speak Troll, but maybe I can take a guess...?"
+085_start_transition3_2,"Eh, I don't think that's worked very well for you so far, buddy. *crack knuckles and attack Trolls*","Eh, I don't think that's worked very well for you so far, buddy. *crack knuckles and attack Trolls*"
+085_trolls_guards_node0,Goy lod nub dok,Goy lod nub dok
+085_trolls_guards_transition0_1,...lod dok?,...lod dok?
+085_trolls_guards_transition0_2,Mmmm,Mmmm
+085_finish_node0,"Sigh...Thanks, I guess.","Sigh...Thanks, I guess."
+085_finish_node1,"I'm Frendlis the Kind, chief diplomat. I just thought I could talk with these trolls and resolve things without violence. And without me being lunch. But their language is just so hard to learn. I need more time, or some help, and then I think the Foxes could have a great ally in the Troll Tribe.","I'm Frendlis the Kind, chief diplomat. I just thought I could talk with these trolls and resolve things without violence. And without me being lunch. But their language is just so hard to learn. I need more time, or some help, and then I think the Foxes could have a great ally in the Troll Tribe."
+085_finish_node2,"Yeah, the expedition headed that way, further into the waterless lands. I'll stay here and try to make peace with the Trolls. Not easy after you killed them all.","Yeah, the expedition headed that way, further into the waterless lands. I'll stay here and try to make peace with the Trolls. Not easy after you killed them all."
+085_finish_node3,"REALLY?! I had you figured as someone who only thought with his fists, but maybe I was wrong! I'm compiling a dictionary of Troll words. If we work together and get this thing filled out, we'll be able to communicate with them. A peaceful alliance with the trolls would be worth more than any treasure we could find.","REALLY?! I had you figured as someone who only thought with his fists, but maybe I was wrong! I'm compiling a dictionary of Troll words. If we work together and get this thing filled out, we'll be able to communicate with them. A peaceful alliance with the trolls would be worth more than any treasure we could find."
+085_finish_node4,"I'm so glad! Here you go. (hands you the Troll dictionary) Any time you encounter a Troll, please try talking to them before you have to fight and the dictionary will automatically log any new words. When you're done, bring it back to me here. Now, if you want to find the Expedition, they went that way, into the waterless lands. Good luck!","I'm so glad! Here you go. (hands you the Troll dictionary) Any time you encounter a Troll, please try talking to them before you have to fight and the dictionary will automatically log any new words. When you're done, bring it back to me here. Now, if you want to find the Expedition, they went that way, into the waterless lands. Good luck!"
+085_finish_transition0_1,"You GUESS?? What, should I just have let them eat you?","You GUESS?? What, should I just have let them eat you?"
+085_finish_transition0_2,"Well, that's gratitude for you. So, are you the leader of this Expedition?","Well, that's gratitude for you. So, are you the leader of this Expedition?"
+085_finish_transition1_1,"Huh. Well, good luck with all that. Listen, I have to find your leader. Do you know where the rest of the expedition went?","Huh. Well, good luck with all that. Listen, I have to find your leader. Do you know where the rest of the expedition went?"
+085_finish_transition1_2,Is there any way I can help you with figuring out the Troll language?,Is there any way I can help you with figuring out the Troll language?
+085_finish_transition2_1,"Well, you're welcome.*continue looking for expedition*","Well, you're welcome.*continue looking for expedition*"
+085_finish_transition3_1,"Sure, I'd be glad to. Sounds kind of interesting. Sorry about killing all those Trolls.","Sure, I'd be glad to. Sounds kind of interesting. Sorry about killing all those Trolls."
+085_finish_transition3_2,"Actually, that sounds pointless and like a lot of work. I gotta find that expedition. Are you going to help me or not?","Actually, that sounds pointless and like a lot of work. I gotta find that expedition. Are you going to help me or not?"
+085_finish_transition4_1,"Thanks, Frendlis, See you soon!","Thanks, Frendlis, See you soon!"
+104_start_node0,Мы создания. Ты хочешь сотрудничать?,We create. Do you want to cooperate?
+104_start_node1,Тогда помоги нам запустить в космос три зонда,Then help us launch into space three probes
+104_start_transition0_1,"Да, хочу",Yes I want to
+104_start_transition1_1,"Я согласен, иду запускать","I agree, I go run"
+104_finish_node0,Успешно запустил зонды?,Successfully launched the probe?
+104_finish_node1,Мы рады этому. Ты получи награду за выполнение,We are pleased with this. You get a reward for completing
+104_finish_transition0_1,Да,Yes
+104_finish_transition1_1,Спасибо,Thank you
+105_start_node0,Я ученый-инженер. Изучаю силу кристаллов. Добудь адамантий в подземных джунглях,I am a scientist and engineer. I am learning the power of crystals. Obtain the adamantium in the underground jungle
+105_start_node1,Получишь награду,received the award
+105_start_transition0_1,Ок,OK
+105_start_transition1_1,Иду за адамантием,I am going for adamantium
+105_finish_node0,"Достал адамантий? Давай мне 1 образец, остальное тебе самому скоро пригодится","He took the adamantium? Give me a sample of 1, else you yourself will soon come in handy"
+105_finish_node1,"Отлично, сейчас я проведу исследования... Результаты впечатляют. Держи рецепт кристаллического-голиафа, пригодится","Well, today I will study ... The results are impressive. Keep the recipe crystalline Goliath, useful"
+105_finish_transition0_1,"Да, держи","Yes, keep"
+105_finish_transition1_1,Спасибо,Thank you
+106_start_node0,С зондами надо подождать. Иди помоги пока созданию-инженеру,With the probes have to wait. Come help create long-engineer
+106_start_node1,Он изучает силу кристаллов. Потом вернешься сюда,He studies the power of crystals. Then come back here
+106_start_transition0_1,Ок,OK
+106_start_transition1_1,"Понятно, иду","It is clear, I go"
+107_start_node0,Создай кристаллического голиафа и уничтожь находящегося поблизости электро-монстра. Никакое другое оружие его не берет,Create crystalline Goliath and destroy a nearby electro-monster. No other weapons it does not take
+107_start_node1,"Да, именно",Yes exactly
+107_start_transition0_1,Только электричество способно победить электро-монстра?,Only electricity is able to defeat the electro-monster?
+107_start_transition1_1,Выдвигаюсь,advance
+107_finish_node0,Убил электро-монстра?,Killed electro-monster?
+107_finish_node1,"Получай награду, ты хорош!","Receive awards, you're good!"
+107_finish_transition0_1,Да,Yes
+107_finish_transition1_1,"Да, спасибо, я знаю. Все так говорят","Yes, thank you, I know. Everyone says like that"
+108_start_node0,Тебя искал лидер. Говорил про что-то связанное с зондами,You searched for a leader. I am talking about something to do with the probes
+108_start_node1,Иди да сам узнай у него что к чему,Come let himself ask him what's what
+108_start_transition0_1,Видимо вернулись зонды,Apparently returned probes
+108_start_transition1_1,"Ок, пойду к нему","Ok, I'll go to him"
+109_start_node0,"Зонды прилетели, но что-то пошло не так и они  разбросаны по разным осколкам","The probes have arrived, but something went wrong and they are scattered in different fragments"
+109_start_node1,Тебе надо пойти и достать их. Все три,You should go and get them. All three
+109_start_transition0_1,Ясно,Clear
+109_start_transition1_1,"Ок, пойду достану три зонда","Ok, I'll go fetch three probes"
+109_finish_node0,"Вот мы и на собрании. Тут находятся лисы, демоны, роботы-создания","Here we are at the meeting. There are foxes, demons, robots create"
+109_finish_node1,Мы совершенно не можем договориться!,We absolutely can not agree!
+109_finish_transition0_1,Да,Yes
+109_finish_transition1_1,"Да, это факт!","Yes, it's a fact!"
+110_start_node0,"Короля придавило, теперь ты король","King crushed, and now you are king"
+110_start_node1,Давай выполни подвиги! Первый - убей дино,Let's accomplish the feat! The first - kill the dino
+110_start_transition0_1,Я? Ну неет,I? Well neet
+110_start_transition1_1,Окей,Okay
+110_ask_about_second_feat_node0,Молодец!,Well done!
+110_ask_about_second_feat_node1,Разберись с пропажей урожая!,Deal with the disappearance of the crop!
+110_ask_about_second_feat_transition0_1,Какой второй подвиг?,What a second feat?
+110_ask_about_second_feat_transition1_1,Окей,Okay
+110_king_valor_and_third_feat_node0,А вот и ты,And here you are
+110_king_valor_and_third_feat_node1,Круто. Но есть еще третий подвиг - провести церемонию бракосочетания,Cool. But there is a third feat - to hold the ceremony
+110_king_valor_and_third_feat_transition0_1,Рассказываю вам о доблести короля,I tell you about the prowess of the King
+110_king_valor_and_third_feat_transition1_1,"Окей, давайте проведем","Okay, let's"
+110_finish_node0,"Свадебный разговор, где надо просто выбирать варианты ответов",Wedding conversation where you simply choose the answers
+110_finish_node1,...,...
+110_finish_node2,"Как оригинально, ты КОРОЛЬ РЕЧЕЙ. Возьми в награду данные из зонда","How original, you are the king's speeches. Take a reward data from the probe"
+110_finish_transition0_1,"Живите хорошо, молодые пигмеи","Live a good, young Pygmies"
+110_finish_transition1_1,Море удачи вам и дачи у моря,Sea of ​​good luck and villas by the sea
+110_finish_transition2_1,"Да, я такой. Спасибо и пока","Yes, I am like this. Thank you and until"
+111_start_node0,Мы команда. Называемся Злобные Кусаки. Чего хочешь?,We are a team. We called Angry Kusaka. What do you want?
+111_start_node1,"Нет, теперь это наше. Играем им","No, now it's ours. We play them"
+111_start_node2,"Можешь купить его за.... 10000 монет! Ну или верни наши мячи, их сожрал один обжора","You can buy it for .... 10,000 coins! Or bring back our balls, they ate a glutton"
+111_start_transition0_1,Надо забрать зонд,It is necessary to take the probe
+111_start_transition1_1,Что же делать? Он мне нужен,What to do? I need it
+111_start_transition2_1,Сейчас решим этот вопрос,Who will resolve this issue
+111_finish_node0,"Достал мячи? Молодец, забирай свой хламешник","He has got balls? Well done, take your hlameshnik"
+111_finish_node1,Пожалуйста,You are welcome
+111_finish_transition0_1,Спасибо,Thank you
+111_finish_transition1_1,До свидания!,Bye!
+111_money_or_fight_node0,Ну что решил?,"Well, he decided?"
+111_money_or_fight_transition0_1,Заберу его у вас силой,I take it from you by force
+111_money_or_fight_transition0_2,"Забирай деньги, давай зонд!","Take the money, let's probe!"
+111_money_or_fight_transition0_3,Надо еще подумать,We still think
+111_money_or_fight_node1,Ну раз даешь деньги - забирай свой зонд!,"Well, if you give money - take away his probe!"
+111_money_or_fight_transition1_1,Спасибо,Thank you
+IC_002_guard_new_transition0_2,"You're a real piece of work. Where the heck is your leader, fancy man?","You're a real piece of work. Where the heck is your leader, fancy man?"
+IC_002_guard_transition6_1,...,...
+085_trolls_guards_node1,Grruunk! Klab Gork gu lok ba Dunkle Bort!,Grruunk! Klab Gork gu lok ba Dunkle Bort!
+085_trolls_guards_node2,Gok? Zub koog Frob Goy gub Dunkle Yog?,Gok? Zub koog Frob Goy gub Dunkle Yog?
+085_trolls_guards_node3,"Glah. Coog lod Nob Goy, go tob gee Chob Chob Binko Bort!","Glah. Coog lod Nob Goy, go tob gee Chob Chob Binko Bort!"
+085_trolls_guards_node4,"Gorpy Tong Tong! Mo, gog loo Framgog. Frim dop zub Dunkle Bort gog Dunkle Yow.","Gorpy Tong Tong! Mo, gog loo Framgog. Frim dop zub Dunkle Bort gog Dunkle Yow."
+085_trolls_guards_node5,[Who are You calling Little Fool?],[Who are You calling Little Fool?]
+085_trolls_guards_node6,"Grunk Bunk! Flab, gok Dunkle Yog! *Trolls all attack*","Grunk Bunk! Flab, gok Dunkle Yog! *Trolls all attack*"
+085_trolls_guards_node7,Gok?,Gok?
+085_trolls_guards_node8,Gok?,Gok?
+085_trolls_guards_transition1_1,Uh...Dunkle Bort.,Uh...Dunkle Bort.
+085_trolls_guards_transition1_2,Umm...Klab Gork.,Umm...Klab Gork.
+085_trolls_guards_transition1_3,"Yeah, Grunk!","Yeah, Grunk!"
+085_trolls_guards_transition2_1,Hmm.. Frob Goy.,Hmm.. Frob Goy.
+085_trolls_guards_transition2_2,Zub.,Zub.
+085_trolls_guards_transition2_3,Gok?,Gok?
+085_trolls_guards_transition3_1,Now we're talkin'! Nob Goy! Chob Chob Binko Bort!,Now we're talkin'! Nob Goy! Chob Chob Binko Bort!
+085_trolls_guards_transition4_1,"Thanks, Troll King! I think I got the hang of this! Framgog forever!","Thanks, Troll King! I think I got the hang of this! Framgog forever!"
+085_trolls_guards_transition5_1,...Zub?,...Zub?
+085_trolls_guards_transition5_2,...Dunkle Bort?,...Dunkle Bort?
+085_trolls_guards_transition5_3,*incoherent wail*,*incoherent wail*
+085_trolls_guards_transition6_1,Whaa--? Uh... Flab! Uh... Dunkle Yog! Help!,Whaa--? Uh... Flab! Uh... Dunkle Yog! Help!
+085_trolls_guards_transition7_1,Gok?,Gok?
+085_trolls_guards_transition8_1,Grunk?,Grunk?
+109_give_explorers_node0,Достал три зонда?,He took three probes?
+109_give_explorers_node1,Отлично. А вот и твоя награда,Excellent. And here is your reward
+109_give_explorers_transition0_1,"Да, вот они","Yes, here they are"
+109_give_explorers_transition1_1,Супер,Super
+112_start_node0,...,...
+112_start_node1,"Просто они не знают про нашу истинную мощь, которая находится в далеких землях","They just do not know about our true power, which is located in distant lands"
+112_start_node2,Не скажу. Это тайна.,I will not say. It's a secret.
+112_start_transition0_1,"Плохо, что фракции не договорились",Too bad that the factions have not agreed
+112_start_transition1_1,"Расскажи, где далекие земли, мне нужны ваши технологии","Tell me, where distant lands, I need your technology"
+112_start_transition2_1,"Ну ладно, пойду погуляю","Well, I go for a walk"
+112_dave_call_node0,Пш-пш. Это Дейв звонит. Как там у тебя успехи?,PN PN. It calls Dave. How are you getting on?
+112_dave_call_node1,"Я все попробую устроить сам, ты главное дождись. А пока узнай секреты фракции Лис и Демонов","I'll try to arrange itself, you are the main rains. In the meantime, to learn the secret faction Fox and Demons"
+112_dave_call_transition0_1,"Не могу достать информацию про место, где находятся технологии созданий",I can not get information about the place where the creatures technology
+112_dave_call_transition1_1,"Окей, понял. Будет исполнено","Okay, understood. Will be done"
+113_finish_node0,"Мы Кузнецы, а ты для нас столько сделал, что мы теперь друзья","We Blacksmiths, and you did so much for us that we are friends now"
+113_finish_node1,"Да все просто, давай я тебе схемы скину по блютусу","Yes, everything is simple, you let me throw off the circuit via Bluetooth"
+113_finish_node2,"Ладно, держи перфокарты *дает информацию*","Okay, hold punch card gives information * *"
+113_finish_transition0_1,"Раз уж мы друзья, хочу узнать у вас, как вы телепорт строите","Since we are friends, I want to ask you, how do you build a teleporter"
+113_finish_transition1_1,"У меня только ИК-порт и дырка для перфокарт, нет блютуса","I only infrared and hole punched cards, no bluetooth"
+113_finish_transition2_1,"Все, информация у меня",All the information I have
+086_start_node0,"The Rats claim to have a terrible weapon capable of wiping out the entire Forest Brotherhood in an instant, Stone Pants. It is like no weapon we've ever heard of! They call it... ""The Double Orbiter.""","The Rats claim to have a terrible weapon capable of wiping out the entire Forest Brotherhood in an instant, Stone Pants. It is like no weapon we've ever heard of! They call it... ""The Double Orbiter."""
+086_start_node1,"No, we know nothing about it at all, except where it is kept: a locked black chest deep within the Rats' compound. My scouts can only make it to the outer fence, but someone who seems to be an ally to the Rats -- like you -- might be able to get inside and find out just what they are planning.","No, we know nothing about it at all, except where it is kept: a locked black chest deep within the Rats' compound. My scouts can only make it to the outer fence, but someone who seems to be an ally to the Rats -- like you -- might be able to get inside and find out just what they are planning."
+086_start_node2,"The Foxes and the Rats are lifelong enemies, and we each know much about the other. This beautiful amulet I wear is one-of-a-kind and signifies that I am Leader of all Foxes. If you bring it to them and say that you have killed me in single combat, they will recognize it and may believe you.","The Foxes and the Rats are lifelong enemies, and we each know much about the other. This beautiful amulet I wear is one-of-a-kind and signifies that I am Leader of all Foxes. If you bring it to them and say that you have killed me in single combat, they will recognize it and may believe you."
+086_start_node3,"You MUST, Stone Pants! You must act as if our lives depend on it, because they surely do! Think like the Rats think! Act like the Rats act! Steal! Lie! Cheat at cards! Insult everyone! They respect only the most scoundrel-like behavior. I know this goes against your code, but please, for our sake, pretend to be a terrible person!","You MUST, Stone Pants! You must act as if our lives depend on it, because they surely do! Think like the Rats think! Act like the Rats act! Steal! Lie! Cheat at cards! Insult everyone! They respect only the most scoundrel-like behavior. I know this goes against your code, but please, for our sake, pretend to be a terrible person!"
+086_start_node4,"Er... all right. That doesn't make a lot of sense, but I guess you have your reasons.","Er... all right. That doesn't make a lot of sense, but I guess you have your reasons."
+086_start_transition0_1,The Double Orbiter? What's it like? Has anyone ever seen it?,The Double Orbiter? What's it like? Has anyone ever seen it?
+086_start_transition1_1,I see! Cloak and dagger type stuff. I like it. But I'm just another stranger to them. Why would they let me in?,I see! Cloak and dagger type stuff. I like it. But I'm just another stranger to them. Why would they let me in?
+086_start_transition2_1,"Hm, I don't know. I'm not much of an actor. I'm just too darn honest, I guess.","Hm, I don't know. I'm not much of an actor. I'm just too darn honest, I guess."
+086_start_transition3_1,"All right, I'll do it! Grr! Lie! Steal! Insult! Look out, Rats, here I come!","All right, I'll do it! Grr! Lie! Steal! Insult! Look out, Rats, here I come!"
+086_start_transition3_2,"Forget it, Fox Boss. I can't lie. I'm just too good of a person to help you save your people, I guess.","Forget it, Fox Boss. I can't lie. I'm just too good of a person to help you save your people, I guess."
+086_start_transition4_1,I do what I want! *fist pump*,I do what I want! *fist pump*
+086_finish_node0,"Stone Pants! You've returned from your undercover assignment with those foul, dishonorable Rats! Could you do it? Could you pretend to be a soulless mercenary and win their trust?","Stone Pants! You've returned from your undercover assignment with those foul, dishonorable Rats! Could you do it? Could you pretend to be a soulless mercenary and win their trust?"
+086_finish_node1,So: the weapon! Could you discover the design of the Double Orbiter so that our engineers can learn how to disarm it??,So: the weapon! Could you discover the design of the Double Orbiter so that our engineers can learn how to disarm it??
+086_finish_node2,"What? Stone Pants, do you tell me true? Oh, I am a fool, such a fool! How can the Forest Brotherhood look to me as a leader if I cannot see through such a transparent ruse?","What? Stone Pants, do you tell me true? Oh, I am a fool, such a fool! How can the Forest Brotherhood look to me as a leader if I cannot see through such a transparent ruse?"
+086_finish_node3,"Really! Okay, Stone Pants, please do this mission for us. We will give you what you ask for, just please destroy the Double Orbiter and bring peace to the Forest Brotherhood!","Really! Okay, Stone Pants, please do this mission for us. We will give you what you ask for, just please destroy the Double Orbiter and bring peace to the Forest Brotherhood!"
+086_finish_node4,"Stone Pants, you are a great ally. You have the Forest Brotherhood's great admiration and my personal loyalty until the end of time.","Stone Pants, you are a great ally. You have the Forest Brotherhood's great admiration and my personal loyalty until the end of time."
+086_finish_transition0_1,"Actually, yes, and I'm exhausted by it. Every single rat told me he was the supreme leader of the entire group. It'll be a great relief to work with honest folk from now on.","Actually, yes, and I'm exhausted by it. Every single rat told me he was the supreme leader of the entire group. It'll be a great relief to work with honest folk from now on."
+086_finish_transition1_1,"Yes, as a matter of fact, it's quite a simple design. It doesn't exist. They have been using your fear to control you.","Yes, as a matter of fact, it's quite a simple design. It doesn't exist. They have been using your fear to control you."
+086_finish_transition1_2,"Uh... yeees. It's very dangerous, but if you give me [x], I will sneak in and destroy it for you.","Uh... yeees. It's very dangerous, but if you give me [x], I will sneak in and destroy it for you."
+086_finish_transition2_1,You care deeply about the well-being of all of your subjects. You are the leader they deserve. I'm proud to work with you.,You care deeply about the well-being of all of your subjects. You are the leader they deserve. I'm proud to work with you.
+086_finish_transition3_1,"*laughs* Sorry, I was just kidding. There's no weapon. They played you for a sucker.","*laughs* Sorry, I was just kidding. There's no weapon. They played you for a sucker."
+086_finish_transition3_2,"Well, thanks! I'll let you know when it's destroyed. Nice to deal with folks who are so honest (and stupid).","Well, thanks! I'll let you know when it's destroyed. Nice to deal with folks who are so honest (and stupid)."
+086_finish_transition4_1,"Thanks! I humbly accept. I look forward to working with you, Fentus.","Thanks! I humbly accept. I look forward to working with you, Fentus."
+072_start_node0,"Ah, you must be the human that Scree the Sentry said was going to help us.","Ah, you must be the human that Scree the Sentry said was going to help us."
+072_start_node1,"Well, we've got a rat missing. Skrask the Unreliable. I never liked him. He's a liar and a weasel. That's worse than a rat. But he owes me four seeds and he borrowed my fur-comb, and I think he's found some treasure, so I want you to find him.","Well, we've got a rat missing. Skrask the Unreliable. I never liked him. He's a liar and a weasel. That's worse than a rat. But he owes me four seeds and he borrowed my fur-comb, and I think he's found some treasure, so I want you to find him."
+072_start_node2,"Hmm. You seem extremely eager. That's sort of ...suspicious. Well, anyway...","Hmm. You seem extremely eager. That's sort of ...suspicious. Well, anyway..."
+072_start_node3,"Are you going to ask that every time? You're proving yourself to the Rats. We're the most powerful group in the forest. With our help you'll be invincible. That's what's in it for you. Sheesh. Anyway, I like your attitude.","Are you going to ask that every time? You're proving yourself to the Rats. We're the most powerful group in the forest. With our help you'll be invincible. That's what's in it for you. Sheesh. Anyway, I like your attitude."
+072_start_node4,"Lemme see your map. Here's where he was last seen. It's an old abandoned military base from long ago and far away. Maybe it was your people who designed it. If so, you guys have a lot of good stuff to steal. Find him, alive or dead, but DON'T forget to bring back his stuff.","Lemme see your map. Here's where he was last seen. It's an old abandoned military base from long ago and far away. Maybe it was your people who designed it. If so, you guys have a lot of good stuff to steal. Find him, alive or dead, but DON'T forget to bring back his stuff."
+072_start_node5,"He said HE'S the leader? What a joke. He's just a sentry that likes to talk big. Truth is... Actually, I'M the leader. Yeah. I'm just hanging out here, selling junk in a junk shop to uh... keep my eye on the comings and goings of these other rats.","He said HE'S the leader? What a joke. He's just a sentry that likes to talk big. Truth is... Actually, I'M the leader. Yeah. I'm just hanging out here, selling junk in a junk shop to uh... keep my eye on the comings and goings of these other rats."
+072_start_transition0_1,(grunt) Maybe I am. Whaddya got?,(grunt) Maybe I am. Whaddya got?
+072_start_transition0_2,Scree said he was the leader.,Scree said he was the leader.
+072_start_transition0_3,NOPE I CAN'T HANDLE THIS SORRY SEE YA!!,NOPE I CAN'T HANDLE THIS SORRY SEE YA!!
+072_start_transition1_1,(narrow eyes) What's in it for me?,(narrow eyes) What's in it for me?
+072_start_transition1_2,"Okey dokey, I'm on it! Where do I go?","Okey dokey, I'm on it! Where do I go?"
+072_start_transition1_3,NEVER MIND I CAN'T DO IT BYE!,NEVER MIND I CAN'T DO IT BYE!
+072_start_transition2_1,[continue],[continue]
+072_start_transition3_1,[continue],[continue]
+072_start_transition4_1,"(shrug, spit on ground) Eh, sure, why not?","(shrug, spit on ground) Eh, sure, why not?"
+072_start_transition4_2,Okey doke!,Okey doke!
+072_start_transition4_3,I CHANGED MY MIND THIS IS TOO STRESSFUL BYE!!,I CHANGED MY MIND THIS IS TOO STRESSFUL BYE!!
+072_start_transition5_1,(shrug) Whatever you say.,(shrug) Whatever you say.
+072_lost_stalker_node0,Unnngh... Who's out there? I'm so thirsty and I can't move. My...my arm is trapped.,Unnngh... Who's out there? I'm so thirsty and I can't move. My...my arm is trapped.
+072_lost_stalker_node1,"Friends? Nah, that can't be right. Probably old Skubs the Junk Dealer. He's jealous of me and always wants to know where I am on account of uh... the fact that I'm the Supreme Leader of the Rats. I'm just out here because I can't trust any of my underlings to do anything right. Anyway...","Friends? Nah, that can't be right. Probably old Skubs the Junk Dealer. He's jealous of me and always wants to know where I am on account of uh... the fact that I'm the Supreme Leader of the Rats. I'm just out here because I can't trust any of my underlings to do anything right. Anyway..."
+072_lost_stalker_node2,"I was exploring this ruin and found some great loot, but I think this place was built by humans, because it looks terrible and it's falling apart. No offense. Anyway, the roof fell on me and my arm's trapped.","I was exploring this ruin and found some great loot, but I think this place was built by humans, because it looks terrible and it's falling apart. No offense. Anyway, the roof fell on me and my arm's trapped."
+072_lost_stalker_node3,"I think we could clear it off me if we used a Mortar Bomb. Do you have one? If not, I can give you the recipe, and I'm sure the stuff is around here somewhere -- if the stupid human's floors don't collapse and kill you. No offense.","I think we could clear it off me if we used a Mortar Bomb. Do you have one? If not, I can give you the recipe, and I'm sure the stuff is around here somewhere -- if the stupid human's floors don't collapse and kill you. No offense."
+072_lost_stalker_transition0_1,Are you Skrask the Unreliable? I was sent to find you by one of your friends.,Are you Skrask the Unreliable? I was sent to find you by one of your friends.
+072_lost_stalker_transition0_2,(look unsympathetically at trapped rat) Looks like you've had a lousy day. How'd you get into this mess?,(look unsympathetically at trapped rat) Looks like you've had a lousy day. How'd you get into this mess?
+072_lost_stalker_transition1_1,[continue],[continue]
+072_lost_stalker_transition2_1,[continue],[continue]
+072_lost_stalker_transition3_1,(even more dismissive snort) Who wants to haul around a whole bunch of extra junk all the time? Fork over that recipe.,(even more dismissive snort) Who wants to haul around a whole bunch of extra junk all the time? Fork over that recipe.
+072_lost_stalker_transition3_2,(even more dismissive snort) Who wants to haul around a whole bunch of extra junk all the time? Fork over that recipe.,(even more dismissive snort) Who wants to haul around a whole bunch of extra junk all the time? Fork over that recipe.
+072_stone_dam_node0,"There is a massive pileup of stones inside this structure. Skrask the Unreliable has an arm trapped under it, but otherwise appears to be uninjured. There are several pockets where you could place some sort of explosive device without risking killing the rat.","There is a massive pileup of stones inside this structure. Skrask the Unreliable has an arm trapped under it, but otherwise appears to be uninjured. There are several pockets where you could place some sort of explosive device without risking killing the rat."
+072_stone_dam_node1,"*after some time, and some bloody fingers, it dawns on you that there are too many stones.You need to get rid of the blockage some other way*","*after some time, and some bloody fingers, it dawns on you that there are too many stones.You need to get rid of the blockage some other way*"
+072_stone_dam_transition0_1,*put the mine between the stones and blow the passage*,*put the mine between the stones and blow the passage*
+072_stone_dam_transition0_2,*start clearing the blockage with your hands*,*start clearing the blockage with your hands*
+072_stone_dam_transition0_3,*leave empty-handed*,*leave empty-handed*
+072_stone_dam_transition1_1,Ouch. Looks like I need something big -- and explodey -- to blast this apart.,Ouch. Looks like I need something big -- and explodey -- to blast this apart.
+072_finish_node0,"Skubs the Junk Dealer: So... it looks like you freed Skrask the Unreliable. As the Leader of all the Rats, I salute you. As an undercover junk dealer, I am angry. He hasn't brought me back any of his loot, or any of the stuff he borrowed from me. In fact, he said you stole it from him.","Skubs the Junk Dealer: So... it looks like you freed Skrask the Unreliable. As the Leader of all the Rats, I salute you. As an undercover junk dealer, I am angry. He hasn't brought me back any of his loot, or any of the stuff he borrowed from me. In fact, he said you stole it from him."
+072_finish_node1,"Hrmph. Well, that's uh... obviously not true. Okay, fine. You have completed [x] of 3 tasks for the Rats. This I decree as undisputed leader of the Vermafia.","Hrmph. Well, that's uh... obviously not true. Okay, fine. You have completed [x] of 3 tasks for the Rats. This I decree as undisputed leader of the Vermafia."
+072_finish_transition0_1,He also said he was he Leader of the Rats and that you were just jealous. So maybe that's true too?,He also said he was he Leader of the Rats and that you were just jealous. So maybe that's true too?
+072_finish_transition1_1,"Okay, then, boss. Got anything else for me?","Okay, then, boss. Got anything else for me?"
+071_start_node0,"Halt, intruder! Hmm... a human, is it? HISS!! What is your business here, at the Rat Nest?","Halt, intruder! Hmm... a human, is it? HISS!! What is your business here, at the Rat Nest?"
+071_start_node1,"Eh? Well, I... Er, listen, I'll let you in on a little secret. I AM the boss, I'm just doing some checking up on all of the other rats. Making sure they're not stealing my stuff or making deals with the enemy. So yeah. That's me, the boss. Whadda you got?","Eh? Well, I... Er, listen, I'll let you in on a little secret. I AM the boss, I'm just doing some checking up on all of the other rats. Making sure they're not stealing my stuff or making deals with the enemy. So yeah. That's me, the boss. Whadda you got?"
+071_start_node2,"WHOA! You killed the leader of-- Uh, I mean, big deal. He wasn't really that tough or smart or noble or anything. Anyone could do it.","WHOA! You killed the leader of-- Uh, I mean, big deal. He wasn't really that tough or smart or noble or anything. Anyone could do it."
+071_start_node3,"HUH? What do you know about the Double Orbiter? Do you know that it's -- Uh, ahem, I mean... that all depends. You're going to have to prove to us your loyalty if you want help from the Rats. We have three quests that need to be undertaken. They're super easy and not dangerous. I'd do them myself but I have to guard this post. Uh, by choice. Because I'm the leader.","HUH? What do you know about the Double Orbiter? Do you know that it's -- Uh, ahem, I mean... that all depends. You're going to have to prove to us your loyalty if you want help from the Rats. We have three quests that need to be undertaken. They're super easy and not dangerous. I'd do them myself but I have to guard this post. Uh, by choice. Because I'm the leader."
+071_start_node4,"So eager! Almost like you've got some kind of trick up your sleeve. Well, anyway...","So eager! Almost like you've got some kind of trick up your sleeve. Well, anyway..."
+071_start_node5,You know what's in it for you. The final destruction of the Foxes and the eternal gratitude and loyalty of the Rats. That there is worth its weight in gold.,You know what's in it for you. The final destruction of the Foxes and the eternal gratitude and loyalty of the Rats. That there is worth its weight in gold.
+071_start_node6,"Okay, so first thing you have to do is come in and find Skubs the Junk Dealer. He's got a uh... SUPER EASY and NOT AT ALL DANGEROUS mission for you to do.","Okay, so first thing you have to do is come in and find Skubs the Junk Dealer. He's got a uh... SUPER EASY and NOT AT ALL DANGEROUS mission for you to do."
+071_start_node7,How dare you not trust me! You've hurt my feelings. Come back when you can treat me with some basic human (and rat) kindness.,How dare you not trust me! You've hurt my feelings. Come back when you can treat me with some basic human (and rat) kindness.
+071_start_transition0_1,"Ahem. What's it to you, sentry? I don't talk with underlings; I want the Big Boss. He and I have big things to discuss.","Ahem. What's it to you, sentry? I don't talk with underlings; I want the Big Boss. He and I have big things to discuss."
+071_start_transition0_2,Uhhh...NOTHING! I just remembered I have something to do somewhere else. With somebody else!! BYE!,Uhhh...NOTHING! I just remembered I have something to do somewhere else. With somebody else!! BYE!
+071_start_transition1_1,"All right, seems plausible. Here's the thing, Big Boss. I know you have a problem with the Foxes. I had a problem with them too, until I KILLED their leader! *show Rat the amulet*","All right, seems plausible. Here's the thing, Big Boss. I know you have a problem with the Foxes. I had a problem with them too, until I KILLED their leader! *show Rat the amulet*"
+071_start_transition1_2,A likely story. Get me the real leader.,A likely story. Get me the real leader.
+071_start_transition2_1,"Well, anyone didn't do it. I did. And I want to make a deal. We can wipe out the Foxes together, if we can power up your weapon","Well, anyone didn't do it. I did. And I want to make a deal. We can wipe out the Foxes together, if we can power up your weapon"
+071_start_transition3_1,"All right, what do you got?","All right, what do you got?"
+071_start_transition3_2,(eye him suspiciously) I don't know. What's in it for me?,(eye him suspiciously) I don't know. What's in it for me?
+071_start_transition3_3,"Never mind, I'll take that amulet back! I gotta go, BYE!!","Never mind, I'll take that amulet back! I gotta go, BYE!!"
+071_start_transition4_1,[continue],[continue]
+071_start_transition5_1,[continue],[continue]
+071_start_transition6_1,(narrow eyes and curl lip contemptuously) Fine.,(narrow eyes and curl lip contemptuously) Fine.
+071_start_transition6_2,NEVER MIND I GOTTA GO!,NEVER MIND I GOTTA GO!
+071_start_transition7_1,Uh...okay.,Uh...okay.
+071_finish_node0,"You there. I hear you've been doing a lot of missions around here for... uh, my underlings.","You there. I hear you've been doing a lot of missions around here for... uh, my underlings."
+071_finish_node1,"Yeah, you're right! Looks like you have a keen eye, to be able to pick out my leadership qualities while I'm working undercover as a bum just sitting next to a chest.","Yeah, you're right! Looks like you have a keen eye, to be able to pick out my leadership qualities while I'm working undercover as a bum just sitting next to a chest."
+071_finish_node2,"Yeah, I heard that you've been really helpful, and earned our trust. Sure, human, take a look.","Yeah, I heard that you've been really helpful, and earned our trust. Sure, human, take a look."
+071_finish_node3,"[there is nothing inside the chest except a small note that says ""Fooled you"".","[there is nothing inside the chest except a small note that says ""Fooled you""."
+071_finish_node4,"Ah-ha! Yeah, we rats aren't so great at engineering anything, but we're terrific at lying. We've had those foxes wrapped around our fingers from day one. What a bunch of chumps!","Ah-ha! Yeah, we rats aren't so great at engineering anything, but we're terrific at lying. We've had those foxes wrapped around our fingers from day one. What a bunch of chumps!"
+071_finish_node5,"ME NEITHER! What a great trick that was. Man, I could live to be a hundred and I'll never come up with one like that again.","ME NEITHER! What a great trick that was. Man, I could live to be a hundred and I'll never come up with one like that again."
+071_finish_transition0_1,"Underlings, huh? I guess that would make you the Supreme Leader of all the Rats.","Underlings, huh? I guess that would make you the Supreme Leader of all the Rats."
+071_finish_transition1_1,"Well, I have a question, Mr. Boss. That chest you're standing next to is supposed to contain the Double Orbiter, the ultimate weapon against the Foxes of the Forest Brotherhood. Can I check it out?","Well, I have a question, Mr. Boss. That chest you're standing next to is supposed to contain the Double Orbiter, the ultimate weapon against the Foxes of the Forest Brotherhood. Can I check it out?"
+071_finish_transition2_1,[open chest],[open chest]
+071_finish_transition3_1,What the heck is this?,What the heck is this?
+071_finish_transition4_1,So you just threatened them with a non-existent weapon and they just did what you wanted? I can't believe that worked.,So you just threatened them with a non-existent weapon and they just did what you wanted? I can't believe that worked.
+071_finish_transition5_1,"Naturally it was your idea; you're the leader. Nice work. Well, I'm off.","Naturally it was your idea; you're the leader. Nice work. Well, I'm off."
+073_start_node0,"Skubs the Junk Dealer: We've had a crash of some sort of Human Transport over in the snowy area to the [direction] of here. Humans have the best junk, and they never seem to know what to do with it. Except for you, of course. One look at your robotic suit shows you have a great familiarity with garbage.","Skubs the Junk Dealer: We've had a crash of some sort of Human Transport over in the snowy area to the [direction] of here. Humans have the best junk, and they never seem to know what to do with it. Except for you, of course. One look at your robotic suit shows you have a great familiarity with garbage."
+073_start_node1,"I would particularly like any orange chips you would find in the wreckage. We don't know what they do, but whatever: they make nice jewelry. My wife and daughter want them, and I get them whatever they want, or else they make my life miserable.","I would particularly like any orange chips you would find in the wreckage. We don't know what they do, but whatever: they make nice jewelry. My wife and daughter want them, and I get them whatever they want, or else they make my life miserable."
+073_start_transition0_1,Er...thanks?,Er...thanks?
+073_start_transition1_1,[snarl] I begrudgingly accept.,[snarl] I begrudgingly accept.
+073_finish_node0,"Skubs the Junk Dealer: You're back? You got the chips? But how were you not killed by creatures or traps on the... Uhh, best not to dwell on things which did not happen.","Skubs the Junk Dealer: You're back? You got the chips? But how were you not killed by creatures or traps on the... Uhh, best not to dwell on things which did not happen."
+073_finish_node1,"Me? No, nothing, nothing at all! Nice work! You appear to be quite resourceful and dangerous. In fact, you're making me a little nervous. Thanks for doing the quest -- you've done [x} out of 3 -- now move along.","Me? No, nothing, nothing at all! Nice work! You appear to be quite resourceful and dangerous. In fact, you're making me a little nervous. Thanks for doing the quest -- you've done [x} out of 3 -- now move along."
+073_finish_transition0_1,Wait a second. I thought these missions were supposed to be EASY and NOT AT ALL DANGEROUS. What are you trying to pull?,Wait a second. I thought these missions were supposed to be EASY and NOT AT ALL DANGEROUS. What are you trying to pull?
+073_finish_transition1_1,"[snort, look mean] That's right, I'm tougher than tough.","[snort, look mean] That's right, I'm tougher than tough."
+080_start_node0,"Sklisk the Vivisector: Well hello there, you must be the hu-man who is so intelligent and crafty that he can do what the rats cannot. Very interesting! If you have the belly for it, I have a job for you.","Sklisk the Vivisector: Well hello there, you must be the hu-man who is so intelligent and crafty that he can do what the rats cannot. Very interesting! If you have the belly for it, I have a job for you."
+080_start_node1,"Well, shall we say, human, that there are sometimes things -- scientifically speaking -- that must be done, but not everyone thinks that the lengths we must go to are justified. They say it's too cruel. But I look at you: a hard look to your eye, a hard heart in your chest, and I know you are the one to help me.","Well, shall we say, human, that there are sometimes things -- scientifically speaking -- that must be done, but not everyone thinks that the lengths we must go to are justified. They say it's too cruel. But I look at you: a hard look to your eye, a hard heart in your chest, and I know you are the one to help me."
+080_start_node2,"Sure, sure. I can say that with absolute unquestionable certainty because >ahem< I am the supreme leader of the Vermafia. I just like to work anonymously in my lab. It relaxes me. Anyway, we're working on a serum to give the rats great strength in battle. Forbidden Strength! And the source of all this strength? Snow leopards. Specifically, their hearts.","Sure, sure. I can say that with absolute unquestionable certainty because >ahem< I am the supreme leader of the Vermafia. I just like to work anonymously in my lab. It relaxes me. Anyway, we're working on a serum to give the rats great strength in battle. Forbidden Strength! And the source of all this strength? Snow leopards. Specifically, their hearts."
+080_start_node3,"Yep. Kill 'em, chop out their hearts, stick 'em in a sack and bring 'em back to me, dripping and bloody. You in or out, human?","Yep. Kill 'em, chop out their hearts, stick 'em in a sack and bring 'em back to me, dripping and bloody. You in or out, human?"
+080_start_transition0_1,The belly for it? What kind of job is this?,The belly for it? What kind of job is this?
+080_start_transition1_1,"Er, right. Grr. Snarl. That's me. So if I do this I earn the respect of the Rats, right?","Er, right. Grr. Snarl. That's me. So if I do this I earn the respect of the Rats, right?"
+080_start_transition2_1,Their ...hearts?,Their ...hearts?
+080_start_transition3_1,"Uuuhhgghghh. That sounds disgusting, but I'll do it to fool y-- I mean, to earn your trust.","Uuuhhgghghh. That sounds disgusting, but I'll do it to fool y-- I mean, to earn your trust."
+080_finish_node0,"Ahh, human, you are back. Do you have all the hearts? Bloody and disgusting?","Ahh, human, you are back. Do you have all the hearts? Bloody and disgusting?"
+080_finish_node1,"Ye-es, so they are. Very disgusting! These will work nicely for the serum, my hard-hearted human friend. I know you must have enjoyed this on some level.","Ye-es, so they are. Very disgusting! These will work nicely for the serum, my hard-hearted human friend. I know you must have enjoyed this on some level."
+080_finish_transition0_1,">sigh< Yes, here they’re.",">sigh< Yes, here they’re."
+080_finish_transition1_1,"Ugh. I mean, oh, yes. Grr. Kill. Murder. That's me.","Ugh. I mean, oh, yes. Grr. Kill. Murder. That's me."
+081_start_node0,"Sklisk the Vivisector: Human! You are back. Excellent. We have finished the strength serum, and now we are testing it.","Sklisk the Vivisector: Human! You are back. Excellent. We have finished the strength serum, and now we are testing it."
+081_start_node1,"Well, human, obviously we have to test it on stupid creatures who have no sense of pain and have no personality of their own. And because humans are scarce, we use trolls. So now we have a troll who is doped to the gills on our snow leopard serum, and he is so strong that we can't handle him. We need him alive, but can you get in your armor and knock the fight out of him?","Well, human, obviously we have to test it on stupid creatures who have no sense of pain and have no personality of their own. And because humans are scarce, we use trolls. So now we have a troll who is doped to the gills on our snow leopard serum, and he is so strong that we can't handle him. We need him alive, but can you get in your armor and knock the fight out of him?"
+081_start_transition0_1,"Oh, right! That makes sense. You want to make sure it's safe, so you first test it on some lab raaaa-- uhhhh, heh heh. Never mind. So what do you do?","Oh, right! That makes sense. You want to make sure it's safe, so you first test it on some lab raaaa-- uhhhh, heh heh. Never mind. So what do you do?"
+081_start_transition1_1,"Uh... okay. Because as you know, I am merciless and tough. >sigh< So I guess I'll go beat on this poor troll.","Uh... okay. Because as you know, I am merciless and tough. >sigh< So I guess I'll go beat on this poor troll."
+081_start_transition1_2,Uphh. I changed my mind! Bye!,Uphh. I changed my mind! Bye!
+081_finish_node0,"Ex-cellent! Even though you destroyed our test troll, we have gotten a great deal of scientific knowledge out of watching the battle. And of course, I know you enjoyed bashing him around.","Ex-cellent! Even though you destroyed our test troll, we have gotten a great deal of scientific knowledge out of watching the battle. And of course, I know you enjoyed bashing him around."
+081_finish_node1,"Hmm. Sounds as if your heart is not in it, human. Never mind, I must just be imagining things. You have accomplished much with the Rats-- I mean, my subjects. That's [x] out of 3 tasks you've completed. Well done.","Hmm. Sounds as if your heart is not in it, human. Never mind, I must just be imagining things. You have accomplished much with the Rats-- I mean, my subjects. That's [x] out of 3 tasks you've completed. Well done."
+081_finish_transition0_1,">sigh< Oh, yes, I just can't get enough of hurting other creatures.",">sigh< Oh, yes, I just can't get enough of hurting other creatures."
+081_finish_transition1_1,"Okay, thanks. I guess I'm off to do something else terrible.","Okay, thanks. I guess I'm off to do something else terrible."
+082_start_node0,"Skoss the Strategist: Ho there, Armored Warrior! Word around the camp is that you are helping the rats with some tasks! Ho ho! I could use your skills as well! I'm the leader of a small group of rats who are--- >ahem< Sorry, I misspoke. I am the leader of ALL of the Rats, here and everywhere. I just like working on military raids like some anonymous underling. Anyway, one of my many, many responsibilities is a small group of scouts who have ventured into the desert and lost contact. I need you to find them. Can you do it, Armored Warrior?","Skoss the Strategist: Ho there, Armored Warrior! Word around the camp is that you are helping the rats with some tasks! Ho ho! I could use your skills as well! I'm the leader of a small group of rats who are--- >ahem< Sorry, I misspoke. I am the leader of ALL of the Rats, here and everywhere. I just like working on military raids like some anonymous underling. Anyway, one of my many, many responsibilities is a small group of scouts who have ventured into the desert and lost contact. I need you to find them. Can you do it, Armored Warrior?"
+082_start_node1,"Doesn't look that way, son, but don't be sad! Maybe something will come up!","Doesn't look that way, son, but don't be sad! Maybe something will come up!"
+082_start_transition0_1,"Sounds better than some of the other ones. I don't have to kill anyone, do I?","Sounds better than some of the other ones. I don't have to kill anyone, do I?"
+082_start_transition1_1,"Sure, okay.","Sure, okay."
+082_finish_node0,"Skoss the Strategist: Ah, good, good! Never leave a man behind, that's our motto, unless he's already served his purpose or takes up too many resources. You've brought back my loyal scouts. I, the leader of all the Rats, salute you.","Skoss the Strategist: Ah, good, good! Never leave a man behind, that's our motto, unless he's already served his purpose or takes up too many resources. You've brought back my loyal scouts. I, the leader of all the Rats, salute you."
+082_finish_node1,"Ah, then you've brought back a sorry group of traitors. Nevertheless, you have proven yourselves to the Rats, and as Supreme Leader, I grant you full access! You may move about our encampment without restriction. And if any other rat claims to be leader, well... just play along.","Ah, then you've brought back a sorry group of traitors. Nevertheless, you have proven yourselves to the Rats, and as Supreme Leader, I grant you full access! You may move about our encampment without restriction. And if any other rat claims to be leader, well... just play along."
+082_finish_transition0_1,"Thanks! Oh, and one of them claims that HE is the leader of all the rats.","Thanks! Oh, and one of them claims that HE is the leader of all the rats."
+082_finish_transition1_1,Thanks!,Thanks!
+083_start_node0,"I-- I can't believe it! It must be a mirage! Those ungrateful slobs back at headquarters actually sent someone to find us! I can't believe they even bothered to care about us lowly scou-- Er, I mean me, the supreme leader of all the Rats.","I-- I can't believe it! It must be a mirage! Those ungrateful slobs back at headquarters actually sent someone to find us! I can't believe they even bothered to care about us lowly scou-- Er, I mean me, the supreme leader of all the Rats."
+083_start_node1,"Look, we could argue all day about who's the leader of who, but we're dying of thirst out here, and we're being attacked by Gnarks. You probably saw a couple of those filthy beasts on the way out. So listen. We're exhausted and can't move, but if you could fill our canteens at the oasis, we'd recover. Hurry, human!","Look, we could argue all day about who's the leader of who, but we're dying of thirst out here, and we're being attacked by Gnarks. You probably saw a couple of those filthy beasts on the way out. So listen. We're exhausted and can't move, but if you could fill our canteens at the oasis, we'd recover. Hurry, human!"
+083_start_transition0_1,"Hmm. Your BOSS sent me to find you, Mr. ""Supreme Leader"".","Hmm. Your BOSS sent me to find you, Mr. ""Supreme Leader""."
+083_start_transition1_1,"Gotcha, ""Boss"". Back in a flash.","Gotcha, ""Boss"". Back in a flash."
+083_finish_node0,>wheeze< THERE he is! What took you so long? Are you trying to torture me?,>wheeze< THERE he is! What took you so long? Are you trying to torture me?
+083_finish_node1,*gulping water* Ahhh. I see now that being dehydrated made me a little testy with you. I deeply apologize.,*gulping water* Ahhh. I see now that being dehydrated made me a little testy with you. I deeply apologize.
+083_finish_node2,"As Supreme Leader, I take back your sentence of being burned at the stake. You are a free man now.","As Supreme Leader, I take back your sentence of being burned at the stake. You are a free man now."
+083_finish_transition0_1,"Here you go, and you're welcome.","Here you go, and you're welcome."
+083_finish_transition1_1,"Well, that's okay, I--","Well, that's okay, I--"
+083_finish_transition2_1,Thanks a bunch.,Thanks a bunch.
+084_start_node0,"Okay, now that we've had a drink, we should be ready to go! Hup hup! *groans, falls over* Ooohh, I was wrong. I feel terrible still. Why must this happen to the wise and powerful leader of all the rats?! Why, cruel hand of fate, WHY??","Okay, now that we've had a drink, we should be ready to go! Hup hup! *groans, falls over* Ooohh, I was wrong. I feel terrible still. Why must this happen to the wise and powerful leader of all the rats?! Why, cruel hand of fate, WHY??"
+084_start_node1,"You have saved our lives. We are in your debt. Truly, you might even receive an extra bowl of gruel at mealtime tonight.","You have saved our lives. We are in your debt. Truly, you might even receive an extra bowl of gruel at mealtime tonight."
+084_start_transition0_1,Okay. Climb in.,Okay. Climb in.
+084_start_transition1_1,I take that as a great compliment.,I take that as a great compliment.
+084_finish_node0,"The Supreme Leader lives to lead again! Due to my shrewd wisdom and unflagging determination, we have made it out of danger. Also had a tiny bit of help from (mumble, mumble) this guy over here.","The Supreme Leader lives to lead again! Due to my shrewd wisdom and unflagging determination, we have made it out of danger. Also had a tiny bit of help from (mumble, mumble) this guy over here."
+084_finish_transition0_1,"No problem, friend.","No problem, friend."
+074_start_node0,"Well, well, well! So this is the hu-man, is it? He don't look so tough, do he, boys? >hic< I hear you been asking around for stuff to do. Heck, we got work for ya if you think you can handle it, ya soft-skin baby-face!","Well, well, well! So this is the hu-man, is it? He don't look so tough, do he, boys? >hic< I hear you been asking around for stuff to do. Heck, we got work for ya if you think you can handle it, ya soft-skin baby-face!"
+074_start_node1,"Ohhh! Well, ain't he something! Okay, tough guy, put away your dainty little teacups, because this here's a DRINKIN' CONTEST. You got to drink our special home-made brew, then you got to out-battle our TWO toughest fighters. You think you can hold your own, kid?","Ohhh! Well, ain't he something! Okay, tough guy, put away your dainty little teacups, because this here's a DRINKIN' CONTEST. You got to drink our special home-made brew, then you got to out-battle our TWO toughest fighters. You think you can hold your own, kid?"
+074_start_transition0_1,"I can handle whatever you dish out, Rats. I'm as tough as they come.","I can handle whatever you dish out, Rats. I'm as tough as they come."
+074_start_transition1_1,"[crack knuckles] Personally, I'm parched. Let's get this started.","[crack knuckles] Personally, I'm parched. Let's get this started."
+074_finish_node0,You’re not so weak as you might seem to at first sight.,You’re not so weak as you might seem to at first sight.
+074_finish_node1,"In any case, you were good! Want another job?","In any case, you were good! Want another job?"
+074_finish_transition0_1,"Aha... I train hard when nobody sees me. What’s more, I have giant robots.","Aha... I train hard when nobody sees me. What’s more, I have giant robots."
+074_finish_transition1_1,Why not?,Why not?
+075_start_node0,"Well, you're as tough as you say, it seems. Listen, human, maybe we can use you. We have a plantation where we grow all the crops we need for our secret brew, but some critter keeps wrecking the place, stealin' supplies, and stomping plants.","Well, you're as tough as you say, it seems. Listen, human, maybe we can use you. We have a plantation where we grow all the crops we need for our secret brew, but some critter keeps wrecking the place, stealin' supplies, and stomping plants."
+075_start_node1,"Yeah, we thought about it long and hard and really examined the evidence. Our best guess is some kind of giant drunk monster. The guard over at the plantation will know more, but I stand by our extremely edjamacated guess.","Yeah, we thought about it long and hard and really examined the evidence. Our best guess is some kind of giant drunk monster. The guard over at the plantation will know more, but I stand by our extremely edjamacated guess."
+075_start_transition0_1,Who do you think it is? Got any suspects?,Who do you think it is? Got any suspects?
+075_start_transition1_1,Drunk Monster. Okay. This is worth checking out just to prove you wrong.,Drunk Monster. Okay. This is worth checking out just to prove you wrong.
+075_finish_node0,"Well, whoopty do. You're back. Did ya solve our theft problem?","Well, whoopty do. You're back. Did ya solve our theft problem?"
+075_finish_node1,Nice work. You may make a good enforcer yet.,Nice work. You may make a good enforcer yet.
+075_finish_node2,"Not a bad idea. I got a cousin who's looking for work. He drinks a bit too much, but that shouldn't be a problem, right?","Not a bad idea. I got a cousin who's looking for work. He drinks a bit too much, but that shouldn't be a problem, right?"
+075_finish_transition0_1,You bet. I bested the beast in single combat and tore these horns right off his head. He cried like a little baby. >grunt<,You bet. I bested the beast in single combat and tore these horns right off his head. He cried like a little baby. >grunt<
+075_finish_transition0_2,You may want to get a new guard. I think he's a bit on the unreliable side.,You may want to get a new guard. I think he's a bit on the unreliable side.
+075_finish_transition0_3,You may want to get a new guard. I think he's a bit on the DEAD side.,You may want to get a new guard. I think he's a bit on the DEAD side.
+075_finish_transition1_1,Thanks. Got anything else for me?,Thanks. Got anything else for me?
+075_finish_transition2_1,"Uh, sure. Anyway, let me know if there's anything else I can do.","Uh, sure. Anyway, let me know if there's anything else I can do."
+076_start_node0,I handle this plantation. What are you doing here? Who are you?,I handle this plantation. What are you doing here? Who are you?
+076_start_node1,"Aha! Exactly! We have a thief here, and he or she steals berries at nights. Talk to the guard, he knows the details.","Aha! Exactly! We have a thief here, and he or she steals berries at nights. Talk to the guard, he knows the details."
+076_start_transition0_1,I'm Zak. Head of butleggers  sent me to deal with your problems.,I'm Zak. Head of butleggers  sent me to deal with your problems.
+076_start_transition1_1,OK,OK
+076_plantation_guard_node0,"You there! Halt! Stay right--OHHH my head! Please, just go somewhere else. I'm guarding this plantation but I feel awful. So just please leave and bother someone else. I've got enough problems.","You there! Halt! Stay right--OHHH my head! Please, just go somewhere else. I'm guarding this plantation but I feel awful. So just please leave and bother someone else. I've got enough problems."
+076_plantation_guard_node1,"Uh huh! Yeah, and if that weren't enough, I got my bosses all over my case because there's a GIANT DRUNK MONSTER WITH GLOWING HORNS that comes and wrecks this place every night!","Uh huh! Yeah, and if that weren't enough, I got my bosses all over my case because there's a GIANT DRUNK MONSTER WITH GLOWING HORNS that comes and wrecks this place every night!"
+076_plantation_guard_node2,"Well, I didn't really see it. Uh, I uh, was kind of asleep when it showed up. Y'see, sometimes my head hurts a lot like it does right now, and I, heh, y'know, just need a little sip of the good stuff to make it go away.","Well, I didn't really see it. Uh, I uh, was kind of asleep when it showed up. Y'see, sometimes my head hurts a lot like it does right now, and I, heh, y'know, just need a little sip of the good stuff to make it go away."
+076_plantation_guard_node3,"Maybe it was! What's it to you, human? I got a lousy job. I'm allowed a little something to keep the cold out.","Maybe it was! What's it to you, human? I got a lousy job. I'm allowed a little something to keep the cold out."
+076_plantation_guard_node4,"Well, I'll let you in on a little secret. I'm actually the leader of all the Rats. I just do this job because of all the perks, like staying up all night and doing a little drinking.","Well, I'll let you in on a little secret. I'm actually the leader of all the Rats. I just do this job because of all the perks, like staying up all night and doing a little drinking."
+076_plantation_guard_node5,"Whoa, how'd you know?","Whoa, how'd you know?"
+076_plantation_guard_transition0_1,What's the matter? Are you sick?,What's the matter? Are you sick?
+076_plantation_guard_transition0_2,"Oh yeah? Let me guess, you're also the leader of all the Rats.","Oh yeah? Let me guess, you're also the leader of all the Rats."
+076_plantation_guard_transition1_1,Huh. You don't say. Did you see it?,Huh. You don't say. Did you see it?
+076_plantation_guard_transition1_2,Sounds like you're not doing such a great job of guarding.,Sounds like you're not doing such a great job of guarding.
+076_plantation_guard_transition2_1,It's got to be more of a sip if it's putting you to sleep.,It's got to be more of a sip if it's putting you to sleep.
+076_plantation_guard_transition2_2,Sounds like your bosses might have a good reason to be irritated with you.,Sounds like your bosses might have a good reason to be irritated with you.
+076_plantation_guard_transition3_1,"Okay, well, your bosses sent me to investigate, so I'll start looking around for this GIANT DRUNK MONSTER WITH GLOWING HORNS.","Okay, well, your bosses sent me to investigate, so I'll start looking around for this GIANT DRUNK MONSTER WITH GLOWING HORNS."
+076_plantation_guard_transition4_1,"Sounds a lot more like ""doing a little drinking"" than ""staying up all night.""","Sounds a lot more like ""doing a little drinking"" than ""staying up all night."""
+076_plantation_guard_transition5_1,"Just a guess. And hey, maybe it's the stress of leadership is making you feel terrible.","Just a guess. And hey, maybe it's the stress of leadership is making you feel terrible."
+076_dungeon_attack_node0,Go away! Or I’ll kill you!,Go away! Or I’ll kill you!
+076_dungeon_attack_node1,As you were!,As you were!
+076_dungeon_attack_transition0_1,"No, you won’t!","No, you won’t!"
+076_dungeon_attack_transition1_1,*get ready to fight*,*get ready to fight*
+076_under_door_node0,*Your path is blocked by a sturdy wooden door*,*Your path is blocked by a sturdy wooden door*
+076_under_door_node1,*Nope.*,*Nope.*
+076_under_door_transition0_1,*kick it as hard as you can*,*kick it as hard as you can*
+076_under_door_transition0_2,*use the key*,*use the key*
+076_under_door_transition0_3,*leave empty-handed*,*leave empty-handed*
+076_under_door_transition1_1,"Ouch, my foot. That door is too hard. I need a key.","Ouch, my foot. That door is too hard. I need a key."
+076_dungeon_attack2_node0,"[While looking around, you find a crammed into a crack in the rock] ""Hey stupid, if you're too drunk to remember where you put the stupid key, I'll give you a stupid hint. It's in one of these stupid chests. Love, Stupid.""","[While looking around, you find a crammed into a crack in the rock] ""Hey stupid, if you're too drunk to remember where you put the stupid key, I'll give you a stupid hint. It's in one of these stupid chests. Love, Stupid."""
+076_dungeon_attack2_transition0_1,"That's... an interesting note. Okay, thanks, Mr. Stupid.","That's... an interesting note. Okay, thanks, Mr. Stupid."
+076_retkin_thief_node0,"[You enter the room. The first thing you see are the glowing horns and a bunch of empty bottles. You hear a noise behind you, and it is the guard you spoke to earlier.] Guard: S-so you found it.","[You enter the room. The first thing you see are the glowing horns and a bunch of empty bottles. You hear a noise behind you, and it is the guard you spoke to earlier.] Guard: S-so you found it."
+076_retkin_thief_node1,"L-listen. I just GOTTA have those drinks every night, or else I get so sick I can't do my job. A-and I needed a cover story, so that my bosses -- I-I mean wait, I'm the leader... Oh, never mind -- so that my bosses wouldn't get mad. So wait, maybe we can make a deal. I'm going to stop, I swear, so why don't you take these horns back and tell them you killed the monster. Right? No harm done.","L-listen. I just GOTTA have those drinks every night, or else I get so sick I can't do my job. A-and I needed a cover story, so that my bosses -- I-I mean wait, I'm the leader... Oh, never mind -- so that my bosses wouldn't get mad. So wait, maybe we can make a deal. I'm going to stop, I swear, so why don't you take these horns back and tell them you killed the monster. Right? No harm done."
+076_retkin_thief_node2,"N-no, I will! Uh, wait, maybe I can give you some of the money. Did I tell you I also, um, accidentally stole some money?","N-no, I will! Uh, wait, maybe I can give you some of the money. Did I tell you I also, um, accidentally stole some money?"
+076_retkin_thief_node3,Wh-what? No! You can't do that! I'll lose my livelihood! What am I supposed to do? You're a monster! How dare you??,Wh-what? No! You can't do that! I'll lose my livelihood! What am I supposed to do? You're a monster! How dare you??
+076_retkin_thief_node4,">sniff< Maybe. I dunno. I'm NOT smart, I'm stupid. I even have to leave myself notes because I'm so stupid that I forget things. The only thing I've ever been good at was making up little stories like the DRUNK MONSTER WITH GLOWING HORNS and that... say, that wouldn't be such a bad job. Thanks, human, I'll do that!",">sniff< Maybe. I dunno. I'm NOT smart, I'm stupid. I even have to leave myself notes because I'm so stupid that I forget things. The only thing I've ever been good at was making up little stories like the DRUNK MONSTER WITH GLOWING HORNS and that... say, that wouldn't be such a bad job. Thanks, human, I'll do that!"
+076_retkin_thief_transition0_1,What? YOU'RE the one behind all the stealing?,What? YOU'RE the one behind all the stealing?
+076_retkin_thief_transition1_1,I don't know about this. I don't think you're really going to quit.,I don't know about this. I don't think you're really going to quit.
+076_retkin_thief_transition1_2,Seems like I should just tell them the truth and then they can hire someone who will do their job properly.,Seems like I should just tell them the truth and then they can hire someone who will do their job properly.
+076_retkin_thief_transition2_1,">sigh< All right, fork it over. And the horns. I'll tell them your little cover story.",">sigh< All right, fork it over. And the horns. I'll tell them your little cover story."
+076_retkin_thief_transition3_1,"Not my problem, pal. [fight]","Not my problem, pal. [fight]"
+076_retkin_thief_transition3_2,Hold on a minute. Is this really what you want? Don't you think a smart guy like you could do better than stealing from his work and staying drunk all the time?,Hold on a minute. Is this really what you want? Don't you think a smart guy like you could do better than stealing from his work and staying drunk all the time?
+076_retkin_thief_transition4_1,"Well, no problem. Good luck!","Well, no problem. Good luck!"
+076_finish_node0,Amazing! How fast you solved our problem!,Amazing! How fast you solved our problem!
+076_finish_node1,"Take the reward, friend. Come to visit us. Maybe I’ll have other job for you. You’re always welcome here.","Take the reward, friend. Come to visit us. Maybe I’ll have other job for you. You’re always welcome here."
+076_finish_transition0_1,It’s nothing but deduction.,It’s nothing but deduction.
+076_finish_transition1_1,OK! I’ll pay a visit later.,OK! I’ll pay a visit later.
+077_start_node0,I got one last thing for ya. I'll let you in on a little secret. I'm actually the Supreme Leader of all the Rats. That means I got some high-level trading going on with some very secret types. Types you don't even want to know about.,I got one last thing for ya. I'll let you in on a little secret. I'm actually the Supreme Leader of all the Rats. That means I got some high-level trading going on with some very secret types. Types you don't even want to know about.
+077_start_node1,"What? No! There are no other-- Listen, don't get smart with me, robot-man. These secret types need a secret potion for their secret activities. Now, we Rats are pretty good at making regular hooch, but the fancy stuff? We leave to the stupid fancy foxes. There's a shaman out a ways in the woods. Go talk to her and get the goods. You want to be in good with us Rats, right?","What? No! There are no other-- Listen, don't get smart with me, robot-man. These secret types need a secret potion for their secret activities. Now, we Rats are pretty good at making regular hooch, but the fancy stuff? We leave to the stupid fancy foxes. There's a shaman out a ways in the woods. Go talk to her and get the goods. You want to be in good with us Rats, right?"
+077_start_transition0_1,Okay. Are they the OTHER Supreme Leaders of the Rats?,Okay. Are they the OTHER Supreme Leaders of the Rats?
+077_start_transition1_1,"Yep. All right, I'm on it.","Yep. All right, I'm on it."
+077_fox_simple_node0,What do you want?,What do you want?
+077_fox_simple_node1,"No, I was going to be an accountant, you know... I don’t know anything about potions... But I know one shaman. Go and see her.","No, I was going to be an accountant, you know... I don’t know anything about potions... But I know one shaman. Go and see her."
+077_fox_simple_node2,"You know what... If you need any help with any calculations, let me know.","You know what... If you need any help with any calculations, let me know."
+077_fox_simple_transition0_1,I need the recipe of the trance potion. Have you heard of it?,I need the recipe of the trance potion. Have you heard of it?
+077_fox_simple_transition1_1,Thanks!,Thanks!
+077_fox_simple_transition2_1,I will!,I will!
+077_finish_node0,"Oh, well, here he comes again, crawling back. Did ya get the trance potions for our super secret clients who need them for super secret mystical enchantments?","Oh, well, here he comes again, crawling back. Did ya get the trance potions for our super secret clients who need them for super secret mystical enchantments?"
+077_finish_node1,All right! Trance potions all around. Bottoms up! Let's get TRANCED!,All right! Trance potions all around. Bottoms up! Let's get TRANCED!
+077_finish_transition0_1,"Yeah, I got 'em.","Yeah, I got 'em."
+077_finish_transition1_1,Um. So... I guess we're done here.,Um. So... I guess we're done here.
+078_start_node0,[The fox is in a trance],[The fox is in a trance]
+078_start_node1,">Snrrk?< Wh-whazzat? Oh. Yeah, I'm a shaman. So what's the deal? I was doing important work on the astral plane, man.",">Snrrk?< Wh-whazzat? Oh. Yeah, I'm a shaman. So what's the deal? I was doing important work on the astral plane, man."
+078_start_node2,"Friends, huh? Cool, cool. I think I know who you're talking about. Well, I don't deal in money, man. That's just a false system! What I need is a favor, instead. You okay with that?","Friends, huh? Cool, cool. I think I know who you're talking about. Well, I don't deal in money, man. That's just a false system! What I need is a favor, instead. You okay with that?"
+078_start_node3,"Cool, cool. No big deal, friend. It's just that I've got, like all these cocoons lying around that are, like, making it really hard to meditate, man. It's kind of a mess. Can you smash 'em, and like, clean that up?","Cool, cool. No big deal, friend. It's just that I've got, like all these cocoons lying around that are, like, making it really hard to meditate, man. It's kind of a mess. Can you smash 'em, and like, clean that up?"
+078_start_transition0_1,Uh... excuse me? I'm looking for a shaman around here. Hello? Are you awake?,Uh... excuse me? I'm looking for a shaman around here. Hello? Are you awake?
+078_start_transition1_1,"Oh, uh, sorry. I'm kind of in a rush, and I was wondering if I might be able to buy some trance potions from you. They're for some friends.","Oh, uh, sorry. I'm kind of in a rush, and I was wondering if I might be able to buy some trance potions from you. They're for some friends."
+078_start_transition2_1,"Sure, I guess. Like I said, I'm in a hurry.","Sure, I guess. Like I said, I'm in a hurry."
+078_start_transition3_1,"I guess. Okay, I'll be right back. Like I said, I'm in a rush. Money would be a lot easier!","I guess. Okay, I'll be right back. Like I said, I'm in a rush. Money would be a lot easier!"
+078_finish_node0,"Whoa, thanks, man. That looks a lot better now. Much cleaner. Cool. I'm sure that whatever was metamorphosizing in there is, like, in a better place now, man.","Whoa, thanks, man. That looks a lot better now. Much cleaner. Cool. I'm sure that whatever was metamorphosizing in there is, like, in a better place now, man."
+078_finish_node1,"Oh, yeah, well, sure, man, just maybe do one more thing. Like, my connection to the spirits has been a little shaky lately. Like a bad mystical connection, does that make sense?","Oh, yeah, well, sure, man, just maybe do one more thing. Like, my connection to the spirits has been a little shaky lately. Like a bad mystical connection, does that make sense?"
+078_finish_node2,"No, man, my problem is purely mystical. Like, the motes of pure thought energy are, like, swirling at the wrong resonance, y'know? The pure light of love and harmony can't get through.","No, man, my problem is purely mystical. Like, the motes of pure thought energy are, like, swirling at the wrong resonance, y'know? The pure light of love and harmony can't get through."
+078_finish_transition0_1,"Super. Can I get those trance potions? Like I said, I'm sort of in a hurry.","Super. Can I get those trance potions? Like I said, I'm sort of in a hurry."
+078_finish_transition1_1,"Uh, yeah, actually, it does. I've got the same problem with my friend on the radio. Is yours because of the shards orbiting around at different speeds too?","Uh, yeah, actually, it does. I've got the same problem with my friend on the radio. Is yours because of the shards orbiting around at different speeds too?"
+078_finish_transition2_1,"Yikes. Uh, okay. See you in a little while.","Yikes. Uh, okay. See you in a little while."
+079_start_node0,There's a stupd golem who keeps wrecking my mystical receiver. Can ya go kill it and bring me back its heart?,There's a stupd golem who keeps wrecking my mystical receiver. Can ya go kill it and bring me back its heart?
+079_start_transition0_1,Okay,Okay
+079_finish_node0,"*wakes up from trance, opens one eye* Oh wow, man, you're back! Did you accomplish your mission, and bring peace and harmony to the spirit world?","*wakes up from trance, opens one eye* Oh wow, man, you're back! Did you accomplish your mission, and bring peace and harmony to the spirit world?"
+079_finish_node1,"Oh, yeah, right, I got my missions mixed up. Yeah, hand over that heart, man. Oh, and here are your trance potions.","Oh, yeah, right, I got my missions mixed up. Yeah, hand over that heart, man. Oh, and here are your trance potions."
+079_finish_node2,"One more thing, man. Sounds to me like your reception problem might be bigger than just the orbit of the shards, y'know? Maybe you made this friend mad at some point. I dunno, just somethin' to think about, man.","One more thing, man. Sounds to me like your reception problem might be bigger than just the orbit of the shards, y'know? Maybe you made this friend mad at some point. I dunno, just somethin' to think about, man."
+079_finish_transition0_1,"No, is that what you wanted me to do? I killed a golem and brought you its heart.","No, is that what you wanted me to do? I killed a golem and brought you its heart."
+079_finish_transition1_1,"Okay, thanks. [wipe golem blood off hands]","Okay, thanks. [wipe golem blood off hands]"
+079_finish_transition2_1,"Uh, okay, I'll consider that.","Uh, okay, I'll consider that."
+101_start_node2,"W-well, I didn't think you'd get mad about it. This seems like a good trade to me. I-I had some knowledge that you didn't have, and we traded a little. That's fair. Isn't it?","W-well, I didn't think you'd get mad about it. This seems like a good trade to me. I-I had some knowledge that you didn't have, and we traded a little. That's fair. Isn't it?"
+101_start_node3,"Oh, well, wonderful!! We hope you can help us again sometime.","Oh, well, wonderful!! We hope you can help us again sometime."
+101_start_transition2_1,Nnnff. >sigh< I guess so. Thanks for your help. I see your side of it.,Nnnff. >sigh< I guess so. Thanks for your help. I see your side of it.
+101_start_transition2_2,"You must be out of your mind, Fox man. You and all your followers can go jump in a lake.","You must be out of your mind, Fox man. You and all your followers can go jump in a lake."
+101_start_transition3_1,"Heh. Yeah, I guess. Boy, the things I do to avoid an argument...","Heh. Yeah, I guess. Boy, the things I do to avoid an argument..."
+087_start_node2,"Brave AND foolish! Why, you may be more useful to me than I thought! Follow the directions I have given you to the Caves of Infinite Terror, bring me the stone, and I have much forbidden knowledge to impart to you.","Brave AND foolish! Why, you may be more useful to me than I thought! Follow the directions I have given you to the Caves of Infinite Terror, bring me the stone, and I have much forbidden knowledge to impart to you."
+087_start_transition2_1,"The Caves of...? Oh great. Okay, see you later if I'm still alive.","The Caves of...? Oh great. Okay, see you later if I'm still alive."
+087_finish_node2,"Ah, thank you, Gromov. Come back any time.","Ah, thank you, Gromov. Come back any time."
+087_finish_transition1_2,Uh...nothing. Nope. Here's the stone. Don't worry about taking any precautions with it.,Uh...nothing. Nope. Here's the stone. Don't worry about taking any precautions with it.
+087_finish_transition2_1,Уou're welcome.,Уou're welcome.
+089_start_transition4_2,"Ah, never mind, we're good. What should I do?","Ah, never mind, we're good. What should I do?"
+091_start_node4,>ding< It is yours for 1000 gold. I need the money to retire to a nice cozy metal box somewhere.,>ding< It is yours for 1000 gold. I need the money to retire to a nice cozy metal box somewhere.
+091_start_node5,>ding ding< Excellent. Here is the translator. It will require many interactions with the creatures in order to build its vocabulary. I wish you luck. You will need it with Lucifred.,>ding ding< Excellent. Here is the translator. It will require many interactions with the creatures in order to build its vocabulary. I wish you luck. You will need it with Lucifred.
+091_start_node6,>bzzt bzzt< Then the price is reduced. 700 gold and it is yours.,>bzzt bzzt< Then the price is reduced. 700 gold and it is yours.
+091_start_transition3_2,"That sounds good, but I already have a Troll language dictionary.","That sounds good, but I already have a Troll language dictionary."
+091_start_transition4_1,That sounds good. Let's do it!,That sounds good. Let's do it!
+091_start_transition4_2,I'm a little short on funds. I'll be back when I get some more money.,I'm a little short on funds. I'll be back when I get some more money.
+091_start_transition5_1,All right. Happy retirement.,All right. Happy retirement.
+091_start_transition6_1,Deal.,Deal.
+091_start_transition6_2,I'm a little short on funds. I'll be back when I get some more money.,I'm a little short on funds. I'll be back when I get some more money.
+093_start_transition0_2,"Hmm, how do I get them to talk? [Leave golems alone]","Hmm, how do I get them to talk? [Leave golems alone]"
+094_start_node2,"[troll all nod, make terrifying faces at you, and point at the lair]","[troll all nod, make terrifying faces at you, and point at the lair]"
+094_start_node3,[troll cheers wildly and points at the lair],[troll cheers wildly and points at the lair]
+094_start_transition0_2,Foz Yog?,Foz Yog?
+094_start_transition0_3,KROB LA!,KROB LA!
+094_start_transition2_1,"...I'm lost. I'll see you after I come out of this lair, I guess.","...I'm lost. I'll see you after I come out of this lair, I guess."
+094_start_transition3_1,I don't know what this means! KROB LA!!,I don't know what this means! KROB LA!!
+094_troll_kill_south_node2,[all trolls cheer],[all trolls cheer]
+094_troll_kill_south_node3,[Trolls come in for a group hug],[Trolls come in for a group hug]
+094_troll_kill_south_transition0_2,Krob la Foz Yog! [Smash the Wild Monsters!],Krob la Foz Yog! [Smash the Wild Monsters!]
+094_troll_kill_south_transition0_3,Dunkle Bort. [Troll Ally],Dunkle Bort. [Troll Ally]
+094_troll_kill_south_transition2_1,YEAH! TROLLS!,YEAH! TROLLS!
+094_troll_kill_south_transition3_1,Awww... Trolls.,Awww... Trolls.
+094_troll_kill_north_node2,[all trolls cheer],[all trolls cheer]
+094_troll_kill_north_node3,[Trolls come in for a group hug],[Trolls come in for a group hug]
+094_troll_kill_north_transition0_2,Krob la Foz Yog! [Smash the Wild Monsters!],Krob la Foz Yog! [Smash the Wild Monsters!]
+094_troll_kill_north_transition0_3,Dunkle Bort. [Troll Ally],Dunkle Bort. [Troll Ally]
+094_troll_kill_north_transition2_1,YEAH! TROLLS!,YEAH! TROLLS!
+094_troll_kill_north_transition3_1,Awww... Trolls.,Awww... Trolls.
+094_troll_kill_east_node2,[all trolls cheer],[all trolls cheer]
+094_troll_kill_east_node3,[Trolls come in for a group hug],[Trolls come in for a group hug]
+094_troll_kill_east_transition0_2,Krob la Foz Yog! [Smash the Wild Monsters!],Krob la Foz Yog! [Smash the Wild Monsters!]
+094_troll_kill_east_transition0_3,Dunkle Bort. [Troll Ally],Dunkle Bort. [Troll Ally]
+094_troll_kill_east_transition2_1,YEAH! TROLLS!,YEAH! TROLLS!
+094_troll_kill_east_transition3_1,Awww... Trolls.,Awww... Trolls.
+095_start_transition0_2,"Gee, you know, I've been meaning to learn it for a while, but I've just been so busy helping everyone out...","Gee, you know, I've been meaning to learn it for a while, but I've just been so busy helping everyone out..."
+095_troll_guard_1_node2,"When him take bars, yes, him smell like motor oil. Not smell like anymore. Him tricksy! Him others still steal! We catch them too!","When him take bars, yes, him smell like motor oil. Not smell like anymore. Him tricksy! Him others still steal! We catch them too!"
+095_troll_guard_1_node3,"Him only one around! How it be other ones? Him around when steal happens, so him do stealing!","Him only one around! How it be other ones? Him around when steal happens, so him do stealing!"
+095_troll_guard_1_transition2_1,"So, is you very-sure that prisoner is right one? That prisoner steal you's shiny bars? Him have shiny bars when you catch him?","So, is you very-sure that prisoner is right one? That prisoner steal you's shiny bars? Him have shiny bars when you catch him?"
+095_troll_guard_1_transition3_1,Look like there a few problems here. Smell different. Not have bars when caught. Me investigate.,Look like there a few problems here. Smell different. Not have bars when caught. Me investigate.
+096_start_node2,"What ye say may be true, Pretend Robot, but where do we find the scrap we need, if not from the slow, stupid trolls? My crew may be fierce warriors, but we be not prepared to battle ICE GOLEMS and SNOW LEOPARDS every time we desire a broken-down car part! If ye help us by clearing away some of these terrible beasts, we may do as ye say!","What ye say may be true, Pretend Robot, but where do we find the scrap we need, if not from the slow, stupid trolls? My crew may be fierce warriors, but we be not prepared to battle ICE GOLEMS and SNOW LEOPARDS every time we desire a broken-down car part! If ye help us by clearing away some of these terrible beasts, we may do as ye say!"
+096_start_transition2_1,"We have a deal, Captain.","We have a deal, Captain."
+IC_003_start_node0,>skkssskk< Gromov? You there? Dave here. I've heard some rumors about the world you're on. It sounds like the >skkssk< folks who could help you get home are the Forest Brotherhood. >kssks<,>skkssskk< Gromov? You there? Dave here. I've heard some rumors about the world you're on. It sounds like the >skkssk< folks who could help you get home are the Forest Brotherhood. >kssks<
+IC_003_start_node1,"No, it's worse than that. >kssks< They're not human, and they're not related to each other. They're >hsskskks<. Did that contraption that you built for your arm make it? Grab it and get in your Goliath and find >kshsks<!","No, it's worse than that. >kssks< They're not human, and they're not related to each other. They're >hsskskks<. Did that contraption that you built for your arm make it? Grab it and get in your Goliath and find >kshsks<!"
+IC_003_start_node2,"I said, they're >ffsskkksks< that are extremely >sskksksks< when they >kskksksk<","I said, they're >ffsskkksks< that are extremely >sskksksks< when they >kskksksk<"
+IC_003_start_transition0_1,The Forest Brotherhood? So a bunch of guys who are related to each other just hanging out in the forest?,The Forest Brotherhood? So a bunch of guys who are related to each other just hanging out in the forest?
+IC_003_start_transition1_1,Sorry I didn't get that. Repeat please. Over.,Sorry I didn't get that. Repeat please. Over.
+IC_003_start_transition2_1,*shake the radio set*,*shake the radio set*
+IC_003_start_node3,[silence],[silence]
+IC_003_start_transition3_1,*turn off the radio set and sigh mournfully*,*turn off the radio set and sigh mournfully*
+006_finish_node0,"Ah! Have you brought the notes? Yes, yes, Let's see what we have here... Oh for cryin' out--! These are garbage! I mean, MY suggestion is good, but it's still not exactly right. What can we name the Order?","Ah! Have you brought the notes? Yes, yes, Let's see what we have here... Oh for cryin' out--! These are garbage! I mean, MY suggestion is good, but it's still not exactly right. What can we name the Order?"
+006_finish_node1,"Not bad! Not bad! I think we got it. Time to knock off early and get a drink. Here's your reward. Good job! Oh and if you want help from me, just complete every task written on the board.","Not bad! Not bad! I think we got it. Time to knock off early and get a drink. Here's your reward. Good job! Oh and if you want help from me, just complete every task written on the board."
+006_finish_node2,"Oh, listen to Mr. Ideas! All right then, whaddaya got?","Oh, listen to Mr. Ideas! All right then, whaddaya got?"
+006_finish_node3,"Too corny! Besides, we're not paladins, we're mercenaries! Sheesh, you're awful at this.","Too corny! Besides, we're not paladins, we're mercenaries! Sheesh, you're awful at this."
+006_finish_node4,"Even worse! It sounds like we'll do a job for a nice ""thank you"" and a hearty handshake. Nuts to that! The name should say we're highly-paid pros! One more try, smarty.","Even worse! It sounds like we'll do a job for a nice ""thank you"" and a hearty handshake. Nuts to that! The name should say we're highly-paid pros! One more try, smarty."
+006_finish_transition0_1,"C'mon, this isn't that hard. Let's just brainstorm a little. Throw some ideas out.","C'mon, this isn't that hard. Let's just brainstorm a little. Throw some ideas out."
+006_finish_transition1_1,I have to do what now?,I have to do what now?
+006_finish_transition2_1,Well... how about the Order of Paladins?,Well... how about the Order of Paladins?
+006_finish_transition3_1,Fine. How about ...Rescue Service?,Fine. How about ...Rescue Service?
+006_finish_transition4_1,"[shrug] I dunno. I guess you could just call yourself ""The Order.""","[shrug] I dunno. I guess you could just call yourself ""The Order."""
+006_finish_transition4_2,"It's a keepers. It's catchy, and no one is using it yet - I hope.","It's a keepers. It's catchy, and no one is using it yet - I hope."
+006_finish_transition4_3,"How about the, uh... ""Golden Brotherhood?"" It sounds like you're pretty expensive, anyway.","How about the, uh... ""Golden Brotherhood?"" It sounds like you're pretty expensive, anyway."
+006_fox_start_node0,">sniff< This isn't what I expected when I left the Forest Brotherhood. ""Come fight for justice,"" they said. ""Be an avenging warrior,"" they said. But we haven't even figured out a stupid name yet...!",">sniff< This isn't what I expected when I left the Forest Brotherhood. ""Come fight for justice,"" they said. ""Be an avenging warrior,"" they said. But we haven't even figured out a stupid name yet...!"
+006_fox_start_node1,"Anyway, I'm just real tired now and I want to get in my room. The door's locked, but since we're such an IMPORTANT GROUP OF WARRIORS, I'm sure there's a secret entrance somewhere. Please find it and then carry me to my bed. [falls asleep on top of some rocks]","Anyway, I'm just real tired now and I want to get in my room. The door's locked, but since we're such an IMPORTANT GROUP OF WARRIORS, I'm sure there's a secret entrance somewhere. Please find it and then carry me to my bed. [falls asleep on top of some rocks]"
+006_fox_start_node2,"Oh, sure, I have it, but I can't even get in my stupid ROOM because I drank too much at our celebration for having a successful meeting.","Oh, sure, I have it, but I can't even get in my stupid ROOM because I drank too much at our celebration for having a successful meeting."
+006_fox_start_transition0_1,"Hey there, little guy. I, uh, I heard you wrote down your suggestion for the name of your group. Do you have that?","Hey there, little guy. I, uh, I heard you wrote down your suggestion for the name of your group. Do you have that?"
+006_fox_start_transition1_1,"Okay, and then I'll just quickly grab the piece of paper and uh... [fox snores loudly]...uh, okay.","Okay, and then I'll just quickly grab the piece of paper and uh... [fox snores loudly]...uh, okay."
+006_fox_start_transition2_1,Can I help you get in your room?,Can I help you get in your room?
+006_robot_start_node0,Name generation... Attempt No. 375…,Name generation... Attempt No. 375…
+006_robot_start_node1,"Are you sure?! It doesn't matter; however, I can't come up with a better idea. Here's the note.","Are you sure?! It doesn't matter; however, I can't come up with a better idea. Here's the note."
+006_robot_start_node2,"I do my best, but my creativity module doesn't work well. All I could come up with is: League of Paid Justice, Shard Guards, and Avengers on Call. Which is best?","I do my best, but my creativity module doesn't work well. All I could come up with is: League of Paid Justice, Shard Guards, and Avengers on Call. Which is best?"
+006_robot_start_transition0_1,"Hey, listen! I need a note for the demon.","Hey, listen! I need a note for the demon."
+006_robot_start_transition1_1,OK,OK
+006_robot_start_transition2_1,League of Paid Justice,League of Paid Justice
+006_robot_start_transition2_2,Shard Guards,Shard Guards
+006_robot_start_transition2_3,Avengers on Call,Avengers on Call
+006_start_node0,Urrgh. Who's making so much noise? Who-- who let this visitor in? You there! >Urrp.< Excuse me. Our Order can't help you now. Schedule an appointment for the... the end of the month or something.,Urrgh. Who's making so much noise? Who-- who let this visitor in? You there! >Urrp.< Excuse me. Our Order can't help you now. Schedule an appointment for the... the end of the month or something.
+006_start_node1,"Okay, one more thing. I don't know if I made this clear, but my notes are with a bunch of terrifying spiders. I mean, I don't think they're so scary, but y'know, you might. The rest of them should be easy enough.","Okay, one more thing. I don't know if I made this clear, but my notes are with a bunch of terrifying spiders. I mean, I don't think they're so scary, but y'know, you might. The rest of them should be easy enough."
+006_start_node2,"What, you've never heard of our great Order? Why, we're the greatest... uh, the finest... uh, listen, we're just getting off the ground here. We haven't even come up with a name.","What, you've never heard of our great Order? Why, we're the greatest... uh, the finest... uh, listen, we're just getting off the ground here. We haven't even come up with a name."
+006_start_node3,"Okay, so one morning I had a terrible hangov... uhh... I mean, one morning I was meditating and communing with nature, and this idea just came to me. We should create an Order for.. for protecting every creature on the shards! What a great way to make money-- uh, I mean, what a great service we could provide.","Okay, so one morning I had a terrible hangov... uhh... I mean, one morning I was meditating and communing with nature, and this idea just came to me. We should create an Order for.. for protecting every creature on the shards! What a great way to make money-- uh, I mean, what a great service we could provide."
+006_start_node4,"Don't interrupt! So I found a couple of comrades - the best alchemist around and a gunsmith. We're almost there, but here's the thing: we can't come up a name for our Order! I'm kind of lost. Do you know anything about ... brand recognition?","Don't interrupt! So I found a couple of comrades - the best alchemist around and a gunsmith. We're almost there, but here's the thing: we can't come up a name for our Order! I'm kind of lost. Do you know anything about ... brand recognition?"
+006_start_node5,"Mm. Not really. Okay, so I asked everyone to write their best ideas and give them to me. But they're all pretty busy with their work, so they haven't even brought them yet. I mean, I had some ideas written down too, but I uh.. actually lost them when I was running from... Uhh, I mean fighting the spiders. Can you go around and collect the notes? I'll give you a discount on our protection services. You'll be our first client!","Mm. Not really. Okay, so I asked everyone to write their best ideas and give them to me. But they're all pretty busy with their work, so they haven't even brought them yet. I mean, I had some ideas written down too, but I uh.. actually lost them when I was running from... Uhh, I mean fighting the spiders. Can you go around and collect the notes? I'll give you a discount on our protection services. You'll be our first client!"
+006_start_transition0_1,Uh... hi. I didn't even know you guys were in here. What is it that you guys do again?,Uh... hi. I didn't even know you guys were in here. What is it that you guys do again?
+006_start_transition1_1,"I'm not super excited about the spiders. They're kind of gross. I'll do my best, though.","I'm not super excited about the spiders. They're kind of gross. I'll do my best, though."
+006_start_transition2_1,Okay. Slow start. I get it.,Okay. Slow start. I get it.
+006_start_transition3_1,Not bad. I'm kind of in the helping people business too.,Not bad. I'm kind of in the helping people business too.
+006_start_transition4_1,"Well... I tried to get my friends back home to call me ""Mr. Tough Stuff"", but it didn't work. Does that count?","Well... I tried to get my friends back home to call me ""Mr. Tough Stuff"", but it didn't work. Does that count?"
+006_start_transition5_1,"Okay. Well, I'll be right back.","Okay. Well, I'll be right back."
+011_finish_node0,Have you completed every task? Excellent! We need young and dynamic comrades like you! Congrats! Since now and then you're the order member. Don't thank me!,Have you completed every task? Excellent! We need young and dynamic comrades like you! Congrats! Since now and then you're the order member. Don't thank me!
+011_finish_node1,"Remember to pay dues no later than the third day of each month! Be honest, fair, and things like that.","Remember to pay dues no later than the third day of each month! Be honest, fair, and things like that."
+011_finish_transition0_1,"Uhhh... It's a great honor, and things like that...","Uhhh... It's a great honor, and things like that..."
+011_finish_transition1_1,"Okay, boss!","Okay, boss!"
+011_start_node0,"I decided to install a special board in every settlement on which creatures can leave ads with their tasks. So far, we've installed only one board - the one in our Order.","I decided to install a special board in every settlement on which creatures can leave ads with their tasks. So far, we've installed only one board - the one in our Order."
+011_start_node1,"Only the Order's members are leaving their tasks there. We can't complete them by ourselves! Help my comrades, and I'll give you a special reward. A wonderful reward!","Only the Order's members are leaving their tasks there. We can't complete them by ourselves! Help my comrades, and I'll give you a special reward. A wonderful reward!"
+011_start_transition0_1,And?,And?
+011_start_transition1_1,OK,OK
+012_start_node0,Text: Fox needs a volunteer with steel nerves and an iron stomach. I'll provide the details at the meeting.,Text: Fox needs a volunteer with steel nerves and an iron stomach. I'll provide the details at the meeting.
+012_start_transition0_1,(take the note),(take the note)
+013_start_node0,Text: The Robot Blacksmith is looking for a messenger made of stainless materials. Knowledge of botany a plus.,Text: The Robot Blacksmith is looking for a messenger made of stainless materials. Knowledge of botany a plus.
+013_start_transition0_1,(take the note),(take the note)
+007_finish_node0,You're back! Perfect! What about my potion?,You're back! Perfect! What about my potion?
+007_finish_node1,Really? So adding the rotten eggs wasn't a waste of time! Take your reward. And let's test another potion!,Really? So adding the rotten eggs wasn't a waste of time! Take your reward. And let's test another potion!
+007_finish_node2,Whoa! I'd better not put too many slugs in it... I just the taste of the slugs would mask the flavor of the stag fur... Never mind... Let's try another potion!,Whoa! I'd better not put too many slugs in it... I just the taste of the slugs would mask the flavor of the stag fur... Never mind... Let's try another potion!
+007_finish_transition0_1,It's better than ever! (smiles vengefully),It's better than ever! (smiles vengefully)
+007_finish_transition0_2,Awful! I saw double and fought without being able to see who I was hitting.,Awful! I saw double and fought without being able to see who I was hitting.
+007_finish_transition1_1,I hope it'll taste better.,I hope it'll taste better.
+007_finish_transition2_1,I hope it'll taste better.,I hope it'll taste better.
+007_start_node0,"What else should I add to the potion? How about green mushrooms, or guts, or a spider? I wonder what I'll get...","What else should I add to the potion? How about green mushrooms, or guts, or a spider? I wonder what I'll get..."
+007_start_node1,"Take the potion and go to the shipwreck. Once there, drink it and wait. It's a wild place; someone will definitely attack you. While the potion is active, you'll be incredibly strong. At least I think so... Anyway, will you tell me everything that happens?","Take the potion and go to the shipwreck. Once there, drink it and wait. It's a wild place; someone will definitely attack you. While the potion is active, you'll be incredibly strong. At least I think so... Anyway, will you tell me everything that happens?"
+007_start_node2,"I'm glad you asked! I made a potion, and I need a brave volunteer to test it. It's nothing complicated! Just go to where there's a bunch of monsters, drink the potion, fight them, and, if you win, which you will, tell me what happened.","I'm glad you asked! I made a potion, and I need a brave volunteer to test it. It's nothing complicated! Just go to where there's a bunch of monsters, drink the potion, fight them, and, if you win, which you will, tell me what happened."
+007_start_node3,"I've never made a battle potion before, but I'm an excellent cook! The creatures here love my mushroom soup! You'll be fine! At least I hope so... You're the hero! What is there to be afraid of?","I've never made a battle potion before, but I'm an excellent cook! The creatures here love my mushroom soup! You'll be fine! At least I hope so... You're the hero! What is there to be afraid of?"
+007_start_transition0_1,I'm here to talk about the ad on the board.,I'm here to talk about the ad on the board.
+007_start_transition1_1,Fine!,Fine!
+007_start_transition2_1,"What do you mean by ""if you win?""","What do you mean by ""if you win?"""
+007_start_transition3_1,"OK, I'll take the risk. What should I do?","OK, I'll take the risk. What should I do?"
+008_finish_node0,How did it go?,How did it go?
+008_finish_node1,But are you invisible? Are you?,But are you invisible? Are you?
+008_finish_node2,Hmmm... That's a strange effect... Although it should be exactly as you described... Take the reward! Good job!,Hmmm... That's a strange effect... Although it should be exactly as you described... Take the reward! Good job!
+008_finish_transition0_1,Fine! I didn't even vomit.,Fine! I didn't even vomit.
+008_finish_transition1_1,Nope! I was reduced to the size of a spider.,Nope! I was reduced to the size of a spider.
+008_finish_transition2_1,Fine! Deal!,Fine! Deal!
+008_start_node0,I want to try a potion that will make you invisible! It's amazing! A true breakthrough!,I want to try a potion that will make you invisible! It's amazing! A true breakthrough!
+008_start_node1,"Don't worry! Everything will be fine! I'm sure... Or almost sure... Anyway, take the potion and go to Spider Island.","Don't worry! Everything will be fine! I'm sure... Or almost sure... Anyway, take the potion and go to Spider Island."
+008_start_transition0_1,"Well, do you have an antidote?","Well, do you have an antidote?"
+008_start_transition1_1,Fine!,Fine!
+015_finish_node0,Did you bring me the leaves?,Did you bring me the leaves?
+015_finish_node1,Wonderful! I can paint my weapons now. And I need to forge the swords!,Wonderful! I can paint my weapons now. And I need to forge the swords!
+015_finish_transition0_1,"Yes, take them.","Yes, take them."
+015_finish_transition1_1,"Please, don't bother me with this.","Please, don't bother me with this."
+015_hint_node0,I'm afraid the silverfish is afraid of giant creatures.,I'm afraid the silverfish is afraid of giant creatures.
+015_hint_transition0_1,hmm,hmm
+015_start_node0,Swords ... Why does he need swords? The most effective weapon is a cannon!,Swords ... Why does he need swords? The most effective weapon is a cannon!
+015_start_node1,"Fox promised to give me some paint if I bring her every plant she wants. I don't want to walk along the marshes, as I might get rusty, Can you bring me three silverfish leaves?","Fox promised to give me some paint if I bring her every plant she wants. I don't want to walk along the marshes, as I might get rusty, Can you bring me three silverfish leaves?"
+015_start_node2,"Listen! I was ordered to deliver silver swords to the Order's warriors. But I don't have any money for silver, and need to use silver paint... Which I don't have, either...","Listen! I was ordered to deliver silver swords to the Order's warriors. But I don't have any money for silver, and need to use silver paint... Which I don't have, either..."
+015_start_transition0_1,Hi! I'm here regarding the ad on the board.,Hi! I'm here regarding the ad on the board.
+015_start_transition1_1,Sure!,Sure!
+015_start_transition2_1,What should we do?,What should we do?
+091_start_humble_bundle_node0,">psst!< Hey! You over there! Yoo hoo! It is I, Manfred the Polyglot! How lucky -- or ""Grunzo"" as the trolls would say -- I am that you came by. I am in need of your help.",">psst!< Hey! You over there! Yoo hoo! It is I, Manfred the Polyglot! How lucky -- or ""Grunzo"" as the trolls would say -- I am that you came by. I am in need of your help."
+091_start_humble_bundle_node1,"Hoo hoo! How did you ever guess? You are very perceptive, my young friend. What the Gnarks would call ""Gnark"", in fact! Oh my! This is lucky, indeed! I need someone who is quick-witted and sharp-tongued to do me a favor.","Hoo hoo! How did you ever guess? You are very perceptive, my young friend. What the Gnarks would call ""Gnark"", in fact! Oh my! This is lucky, indeed! I need someone who is quick-witted and sharp-tongued to do me a favor."
+091_start_humble_bundle_node2,"Why yes! That sounds excellent -- or ""Hmmhm-Mmm"" as the Golems would say! My conundrum is this: the Forgers -- they're the sinister merchants and artisans that run this city -- would do well to form a trade alliance with the creatures that live in the surrounding hills: Gnarks, Trolls, and Golems. But the Forgers are arrogant, and they will not believe that any of these three tribes are intelligent, no matter how passionately I try to argue with them!","Why yes! That sounds excellent -- or ""Hmmhm-Mmm"" as the Golems would say! My conundrum is this: the Forgers -- they're the sinister merchants and artisans that run this city -- would do well to form a trade alliance with the creatures that live in the surrounding hills: Gnarks, Trolls, and Golems. But the Forgers are arrogant, and they will not believe that any of these three tribes are intelligent, no matter how passionately I try to argue with them!"
+091_start_humble_bundle_node3,"Aha ha ha!! That is a good one! Hoo hoo! Oh, human, well done. You have tickled my funny bone! No, the problem most certainly is that the Forgers are idiots and uncultured swine. But ... hmmm...perhaps if you would attempt to talk it through, they would see reason. I have been working to compile a database of  languages in this translator. If you wish to use it, I could sell it to you for 1000 gold. Ahh, then I could afford to get out of...oh, hm-hm, that is not important. 1000 gold.","Aha ha ha!! That is a good one! Hoo hoo! Oh, human, well done. You have tickled my funny bone! No, the problem most certainly is that the Forgers are idiots and uncultured swine. But ... hmmm...perhaps if you would attempt to talk it through, they would see reason. I have been working to compile a database of  languages in this translator. If you wish to use it, I could sell it to you for 1000 gold. Ahh, then I could afford to get out of...oh, hm-hm, that is not important. 1000 gold."
+091_start_humble_bundle_node4,"Ah yes, indeed! Here you are! Seek out the trolls, the Gnarks, and the Golems in the hills surrounding here. You will need many conversations with the creatures in order to build its vocabulary. I wish you luck. And I will definitely still be around when you get back. Hoo hoo! Don't you worry on that!","Ah yes, indeed! Here you are! Seek out the trolls, the Gnarks, and the Golems in the hills surrounding here. You will need many conversations with the creatures in order to build its vocabulary. I wish you luck. And I will definitely still be around when you get back. Hoo hoo! Don't you worry on that!"
+091_start_humble_bundle_node5,"If you don't have gold coins, you'll need to drive off some of the monsters around here to earn them. I'll be here waiting! Hee-hee!","If you don't have gold coins, you'll need to drive off some of the monsters around here to earn them. I'll be here waiting! Hee-hee!"
+091_start_humble_bundle_node6,>bzzt bzzt< Then the price is reduced. 700 gold and it is yours.,>bzzt bzzt< Then the price is reduced. 700 gold and it is yours.
+091_start_humble_bundle_transition0_1,"Yeah? Say, you look like the type who would be in something called the ""Forest Brotherhood"". Is that right?","Yeah? Say, you look like the type who would be in something called the ""Forest Brotherhood"". Is that right?"
+091_start_humble_bundle_transition1_1,"Actually, this is pretty convenient. I have to ask you a favor, too. You first.","Actually, this is pretty convenient. I have to ask you a favor, too. You first."
+091_start_humble_bundle_transition2_1,Could the problem be that you are a little bit...arrogant?,Could the problem be that you are a little bit...arrogant?
+091_start_humble_bundle_transition3_1,"A thousand?? Sheesh, okay.","A thousand?? Sheesh, okay."
+091_start_humble_bundle_transition3_2,"I'm a little short on funds at the moment. Do you take...credit? Never mind, I can trade some of my items for gold coins, or scavange for some.","I'm a little short on funds at the moment. Do you take...credit? Never mind, I can trade some of my items for gold coins, or scavange for some."
+091_start_humble_bundle_transition4_1,"Er, okay, thanks.","Er, okay, thanks."
+091_start_humble_bundle_transition4_2,I'm a little short on funds. I'll be back when I get some more money.,I'm a little short on funds. I'll be back when I get some more money.
+091_start_humble_bundle_transition5_1,Okay,Okay
+091_start_humble_bundle_transition6_1,Deal.,Deal.
+091_start_humble_bundle_transition6_2,I'm a little short on funds. I'll be back when I get some more money.,I'm a little short on funds. I'll be back when I get some more money.
+091_return_buy_humble_bundle_node0,"Helloooo!! Welcome back, friend. Do you have the money?","Helloooo!! Welcome back, friend. Do you have the money?"
+091_return_buy_humble_bundle_node1,Ah yes. Here you go. Excellent. Here is the translator. It will require many interactions with the creatures in order to build its vocabulary. I wish you luck.,Ah yes. Here you go. Excellent. Here is the translator. It will require many interactions with the creatures in order to build its vocabulary. I wish you luck.
+091_return_buy_humble_bundle_transition0_1,"Sheesh, I forgot!","Sheesh, I forgot!"
+091_return_buy_humble_bundle_transition0_2,"Yep, here you go, 1000 gold.","Yep, here you go, 1000 gold."
+091_return_buy_humble_bundle_transition1_1,"Okay, after I do all of this for you, you can help me with my thing, right?","Okay, after I do all of this for you, you can help me with my thing, right?"
+091_finish_humble_bundle_node0,"[furiously packing bag] Wh-what? Back already? But I didn't have enough time to uh... I mean, hellooo there traveler! What have you found out there in the wild wild wastes?","[furiously packing bag] Wh-what? Back already? But I didn't have enough time to uh... I mean, hellooo there traveler! What have you found out there in the wild wild wastes?"
+091_finish_humble_bundle_node1,[reads a few pages] Oh. Very interesting. I didn't know what that word meant. Ohh. That's bad. I've been insulting the Gnarks' mothers for about 5 years.,[reads a few pages] Oh. Very interesting. I didn't know what that word meant. Ohh. That's bad. I've been insulting the Gnarks' mothers for about 5 years.
+091_finish_humble_bundle_transition0_1,"Check it out. I can communicate with all the Gnarks, Golems, and Trolls now. In fact, we're all pretty good friends.","Check it out. I can communicate with all the Gnarks, Golems, and Trolls now. In fact, we're all pretty good friends."
+091_finish_humble_bundle_transition1_1,"Awesome. Well, that's done. so now I have a question for you. How do I get home?","Awesome. Well, that's done. so now I have a question for you. How do I get home?"
+091_return_buy_humble_bundle_node2,"What? Oh, ho ho, ...yyyees. I will definitely still be around. Okay, now hop to it!","What? Oh, ho ho, ...yyyees. I will definitely still be around. Okay, now hop to it!"
+091_return_buy_humble_bundle_transition2_1,Hmm.,Hmm.
+091_finish_humble_bundle_node2,"Uh... ha ha! Yes, oh, I definitely know this one. You're going to want to go to the we-- I mean north. Definitely north. Yep. that's where it is. Home.","Uh... ha ha! Yes, oh, I definitely know this one. You're going to want to go to the we-- I mean north. Definitely north. Yep. that's where it is. Home."
+091_finish_humble_bundle_node3,"Uh... Yeah, well, still north. No need to thank me. I'll uh... definitely still be here if you need more advice. [continues furiously packing bags]","Uh... Yeah, well, still north. No need to thank me. I'll uh... definitely still be here if you need more advice. [continues furiously packing bags]"
+091_finish_humble_bundle_transition2_1,I haven't even told you where I'm from.,I haven't even told you where I'm from.
+091_finish_humble_bundle_transition3_1,Great. Thanks.,Great. Thanks.
+006_fox_start_node3,"Oh, yeah, we're such an important group of warriors! Everything we do is such a big deal that... that we have to celebrate every successful thing we do, but we haven't even DONE anything yet!","Oh, yeah, we're such an important group of warriors! Everything we do is such a big deal that... that we have to celebrate every successful thing we do, but we haven't even DONE anything yet!"
+006_fox_start_transition2_2,A celebration for a meeting?,A celebration for a meeting?
+046_start_node0,Get out!,Get out!
+046_start_node1,You must help me! I’ll pay you generously!,You must help me! I’ll pay you generously!
+046_start_node2,"First of all, clear your mind. Then go swim in the Lake of Purity. It's located to the south.","First of all, clear your mind. Then go swim in the Lake of Purity. It's located to the south."
+046_start_transition0_1,Who are you talking with?,Who are you talking with?
+046_start_transition1_1,How?,How?
+046_start_transition2_1,You're weird. But OK!,You're weird. But OK!
+046_hat_first_node0,Do you want to buy perfect tin foil hat?,Do you want to buy perfect tin foil hat?
+046_hat_first_node1,"It can be yours for 100,000 coins!","It can be yours for 100,000 coins!"
+046_hat_first_node2,"Well... What about this? You can buy it for 1,000 coins.","Well... What about this? You can buy it for 1,000 coins."
+046_hat_first_transition0_1,Yes. I'm ready to buy it.,Yes. I'm ready to buy it.
+046_hat_first_transition1_1,Are you crazy? It’s just foil...,Are you crazy? It’s just foil...
+046_hat_first_transition2_1,Something is better than nothing...,Something is better than nothing...
+046_finish_node0,Do you feel better? Can you feel the purity?,Do you feel better? Can you feel the purity?
+046_finish_node1,"Yes, that's it! The feeling of purification will come soon!","Yes, that's it! The feeling of purification will come soon!"
+046_finish_transition0_1,I was wrong in wishing to deal with this.,I was wrong in wishing to deal with this.
+046_finish_transition1_1,Gotcha!,Gotcha!
+048_start_node0,"Oh, no! They're transforming the world! Did you bring the cap?","Oh, no! They're transforming the world! Did you bring the cap?"
+048_start_node1,"Put it on! You must see this, too.","Put it on! You must see this, too."
+048_start_transition0_1,"Yes, here it is.","Yes, here it is."
+048_start_transition1_1,*sigh* *puts on the cap*,*sigh* *puts on the cap*
+048_find_water_for_sword_node0,See them?,See them?
+048_find_water_for_sword_node1,"To defeat them, you need to craft a sword from another dimension! Here's a jar. Fill it with water from the well under the star and craft a sword according for the manual. We must eliminate them!","To defeat them, you need to craft a sword from another dimension! Here's a jar. Fill it with water from the well under the star and craft a sword according for the manual. We must eliminate them!"
+048_find_water_for_sword_transition0_1,It seems I'm going crazy along with you.,It seems I'm going crazy along with you.
+048_find_water_for_sword_transition1_1,"I don’t like them, either.","I don’t like them, either."
+048_finish_node0,I can breathe freely again. Take your reward.,I can breathe freely again. Take your reward.
+048_finish_node1,It’s money from another dimension! You're now rich!,It’s money from another dimension! You're now rich!
+048_finish_node2,Anything you want! It's yours!,Anything you want! It's yours!
+048_finish_transition0_1,What is it?,What is it?
+048_finish_transition1_1,What should I do with this?,What should I do with this?
+048_finish_transition2_1,I knew this wouldn't work.,I knew this wouldn't work.
+091_return_buy_humble_bundle_node3,"If you don't have gold coins, you'll need to drive off some of the monsters around here to earn them. I'll be here waiting! Hee-hee!","If you don't have gold coins, you'll need to drive off some of the monsters around here to earn them. I'll be here waiting! Hee-hee!"
+091_return_buy_humble_bundle_transition3_1,"Okay, thanks!","Okay, thanks!"
+092_after_fight_3_node0,"Gnark Gnark Gnark, Gnark Gnark Gnark! [Translator: They may take our Gnark, but they’ll never Gnark our Gnark!]","Gnark Gnark Gnark, Gnark Gnark Gnark! [Translator: They may take our Gnark, but they’ll never Gnark our Gnark!]"
+092_after_fight_3_transition0_1,Is that a Scottish brogue I hear? Whew...this looks like the last of them. Finish him off and it's back to their leader for some haggis I guess.,Is that a Scottish brogue I hear? Whew...this looks like the last of them. Finish him off and it's back to their leader for some haggis I guess.
+006_fox_start_transition3_1,Gotcha.,Gotcha.
+093_start_node2,Hmm humm-HM! [Translator: Do not touch that!],Hmm humm-HM! [Translator: Do not touch that!]
+093_start_transition2_1,"I'm guessing if I grab this, they'll shout their heads off at me. I just need them to yell long enough for me to fill up the translator and then I can put this back.","I'm guessing if I grab this, they'll shout their heads off at me. I just need them to yell long enough for me to fill up the translator and then I can put this back."
+113_start_node0,Чего тебе?,What do you want?
+113_start_node1,Сначала заслужи доверие,"First, earn the trust"
+113_start_transition0_1,Мне нужны ваши секреты.,I need your secrets.
+113_start_transition1_1,Ок,OK
+114_start_node0,Чего надо?,What do you want?
+114_start_node1,Доверия недостаточно,Trust is not enough
+114_start_transition0_1,Нужны секреты Лис,Looking secrets Fox
+114_start_transition1_1,Ок,OK
+114_finish_node0,Мы лисы. Ты сделал для нас многое. Мы друзья теперь.,We foxes. You did a lot for us. We're friends now.
+114_finish_node1,"Давай я расскажу про ритуалы, а ты записывай","Let me tell you about the rituals, and you write down"
+114_finish_transition0_1,Класс,Class
+114_finish_transition1_1,Круто,cool
+115_start_node0,Я пигмей. Хочу чтобы ты ходил и убивал Замка-Босса,I pygmy. I want you to go and kill Castle Bossa
+115_start_node1,Класс!,Class!
+115_start_transition0_1,"Ок, иду","Ok, I'm coming"
+115_start_transition1_1,Ага,aha
+115_finish_node0,Убил Замок?,Killed Castle?
+115_finish_node1,Круто.,Cool.
+115_finish_transition0_1,Да,Yes
+115_finish_transition1_1,Да,Yes
+IC_004_start_node0,Пш-пш. Это Дейв звонит. Как там у тебя успехи?,PN PN. It calls Dave. How are you getting on?
+IC_004_start_node1,"Я все попробую устроить сам, ты главное дождись. А пока узнай секреты фракции Лис и Демонов","I'll try to arrange itself, you are the main rains. In the meantime, to learn the secret faction Fox and Demons"
+IC_004_start_transition0_1,"Не могу достать информацию про место, где находятся технологии созданий",I can not get information about the place where the creatures technology
+IC_004_start_transition1_1,"Окей, понял. Будет исполнено","Okay, understood. Will be done"
+IC_005_start_node0,Это снова Дейв беспокоит.,This is again worried about Dave.
+IC_005_start_node1,"Координаты достал. Записывай. Но твой портал не справится, его нужно усилить. Иди к пигмеям, они помогут.","Coordinates got. Write it down. But your portal can not cope, it should be strengthened. Go to the pygmies, they will help."
+IC_005_start_transition0_1,"Как неожиданно, что с координатами?",As unexpectedly that coordinates?
+IC_005_start_transition1_1,"Ок, это я сделаю.","Ok, I'll do it."
+115_kill_castle_node0,Убил Замок?,Killed Castle?
+115_kill_castle_node1,"Круто. Теперь у тебя есть нужная запчасть, чтобы усилить портал. Иди и усиливай",Cool. Now you have the necessary spare parts to enhance the portal. Go and strengthens
+115_kill_castle_transition0_1,Да,Yes
+115_kill_castle_transition1_1,Ок,OK
+115_daive_after_kill_castle_node0,Эгегей. Как у тебя дела?,Egegey. How are you?
+115_daive_after_kill_castle_node1,"А ты ничего не помнишь? *Рассказывает историю* Больше не хочу об этом говорить, ок?","Do not you remember anything? * Tells the story * Do not want to talk about it, ok?"
+115_daive_after_kill_castle_transition0_1,"Я только что убил Замок с говорящими привидениями. Они обвиняли меня в чем-то, но я не понимаю в чем","I just killed a castle with talking ghosts. They accused me of something, but I do not understand what"
+115_daive_after_kill_castle_transition1_1,Ну ок,"well, OK"
+IC_006_start_node0,Это Дейв. Держи координаты Великого Хранилища Знаний Созданий.,It's Dave. Keep coordinates Great repository of knowledge creation.
+IC_006_start_node1,"Но будь осторожен, неизвестно как тебя встретят.","But be careful, do not know how you will meet."
+IC_006_start_transition0_1,Ок,OK
+IC_006_start_transition1_1,Ок,OK
+116_start_node0,Я верховный патриарх церкви Создателя. Чего тебе?,I am the supreme patriarch of the Church of the Creator. What do you want?
+116_start_node1,"Все данные хранятся в Великом Хранилище. Но доступ туда могут получить только сами Создания или лица, причисляемые Созданиями к великим друзьям.",All data is stored in the Great Vault. But access to it can only get themselves create or persons who consider creation by great friends.
+116_start_node2,"Ты можешь, да. Заслужи наше доверие","You can, yes. We earn our trust"
+116_start_transition0_1,Мне нужны координаты центра. Могу я их получить?,I need the coordinates of the center. Can I get them?
+116_start_transition1_1,"В таком случае, могу ли я чем-то помочь?","In this case, if I can be of any help?"
+116_start_transition2_1,Выдвигаюсь,advance
+116_back_to_patriarch_node0,Теперь ты заслуживаешь нашего доверия и мы готовы дать тебе информацию,"Now, you deserve our trust, and we are ready to give you information"
+116_back_to_patriarch_node1,Почему бы тебе не воспользоваться одним из наших терминалов. Теперь у тебя есть доступ к необходимой информации,Why do not you use one of our terminals. Now you have access to the necessary information
+116_back_to_patriarch_transition0_1,"Отлично, расскажите про координаты пустоты, будьте добры","Well, tell us about the coordinates of emptiness, please"
+116_back_to_patriarch_transition1_1,"Класс, пойту воспользуюсь",The class will use to go
+116_creatures_terminal_node0,На черном фоне монитора мелькают яркие зеленые буквы и цифры,On a black background the monitor flashed bright green letters and numbers
+116_creatures_terminal_node1,Успех! *Координаты пустоты успешно скопированы*,Success! * Coordinates the emptiness successfully copied *
+116_creatures_terminal_transition0_1,Запросить координаты пустоты,Request coordinates void
+116_creatures_terminal_transition1_1,Отлично,Excellent
+117_choose_daemons_node0,"Привет, друг. Чего тебе надо от Кузнецов?",Hello Friend. What do you want from the Kuznetsov?
+117_choose_daemons_node1,"Сделаем это! Встретимся на месте, а пока изучи эти точки, нужно понять, какая из них правильная.","Let's do it! Meet me on the spot, but for now examine these points, you need to understand which one is correct."
+117_choose_daemons_transition0_1,Нужна ваша помощь в усилении портала,I need your help in enhancing the portal
+117_choose_daemons_transition1_1,Выдвигаюсь,advance
+117_choose_daemons_denied_node0,Своими действиями ты запятнал репутацию перед Кузнецами. Исправься и тогда поговорим (Надо 100 репутации Кузнецов),"By their actions, you tarnished reputation before Kuznetsov. Correct and then talk (Need 100 reputation Kuznetsov)"
+117_choose_daemons_denied_transition0_1,Ну ок,"well, OK"
+117_choose_robots_node0,"Привет, друг. Чего тебе надо от Созданий?",Hello Friend. What do you want from the foundation?
+117_choose_robots_node1,"Мы поможем! Встретимся на месте, а пока изучи точки - только одна из них правильная.",We can help! Meet me on the spot and have been studied in terms - only one of them is correct.
+117_choose_robots_transition0_1,"Нужно усилить портал, без вас я не справлюсь","It is necessary to strengthen the portal, without you I can not do it"
+117_choose_robots_transition1_1,Выдвигаюсь,advance
+117_choose_robots_denied_node0,"Ты испортил репутацию и Создания тебе помогать не будут. Если ты исправишь репутацию, то тогда возможен дальнейший диалог. (Надо 100 репутации Созданий)","You ruined the reputation and creation will not help you. If you will correct reputation, then it is possible further dialogue. (It must be 100 reputation Creations)"
+117_choose_robots_denied_transition0_1,Ну ок,"well, OK"
+117_choose_foxes_node0,"Привет, друг. Чего тебе надо от Братства?",Hello Friend. What do you want from the Brotherhood?
+117_choose_foxes_node1,Можешь на нас положиться. Встретимся на месте. А пока изучи точки - только одна из них правильная.,You can rely on us. Meet me on the spot. And yet to investigate the point - only one of them is correct.
+117_choose_foxes_transition0_1,Нужна ваша помощь в постройке портала.,We need your help in the construction of the portal.
+117_choose_foxes_transition1_1,Выдвигаюсь,advance
+117_choose_foxes_denied_node0,Ты запятнал свою репутацию перед Братством. Мы больше не друзья и помощи от нас не жди. (Надо 100 репутации Братства),"You tarnished its reputation to the Brotherhood. We are no longer friends, and help us not to wait. (It must be 100 reputation of the Brotherhood)"
+117_choose_foxes_denied_transition0_1,Ну ок,"well, OK"
+IC_007_start_node0,Это Дейв. Тебе удалось достать координаты пустоты?,It's Dave. You managed to get the coordinates of the void?
+IC_007_start_node1,"Хорошо, но ты не сможешь в одиночку усовершенствовать портал для прыжка. Нужны инженеры и рабочая сила. Придется выбрать помощь одной из фракций.","Okay, but you can not alone improve the portal for the jump. We need engineers and workforce. We'll have to help choose one of the factions."
+IC_007_start_transition0_1,Удалось,Managed
+IC_007_start_transition1_1,"Ок, пойду выберу какую-нибудь одну фракцию","Ok, I'll choose some one fraction"
+117_engineer_call_1_node0,Это инженер звонит. Сигнал очень слабый. Продолжай двигаться.,This engineer calls. The signal is very weak. Keep moving.
+117_engineer_call_1_transition0_1,Ок,OK
+117_engineer_call_2_node0,"Это снова инженер. Сейчас сигнал лучше, но все еще недостаточный.","This again is an engineer. Now the signal is better, but still insufficient."
+117_engineer_call_2_transition0_1,Ок,OK
+117_engineer_call_3_node0,"Это инженер. Сигнал совсем пропал и это странно. Есть только одна причина - над этим осколком есть еще один, более древний. Мы нашли что искали.","This engineer. The signal completely disappeared, and it's weird. There is only one reason - on this splinter there is another, more ancient. We have found that searched."
+117_engineer_call_3_transition0_1,Ок,OK
+IC_008_start_node0,Это Дейв. Как у тебя успехи?,It's Dave. How are you getting on?
+IC_008_start_node1,"Это опасное место, поэтому я туда пойду сам.","This is a dangerous place, so I'll go there myself."
+IC_008_start_node2,"Это меньшее, что я могу сделать",It's the least I can do
+IC_008_start_transition0_1,"Я смог обнаружить, где находится Мир Ноль",I was able to discover where the World Zero
+IC_008_start_transition1_1,Не стоит так рисковать из-за меня,Do not risk it because of me
+IC_008_start_transition2_1,Ну ок,"well, OK"
+118_start_node0,"Это возмутительно – тысячу лет никто не приходил сюда и не тревожил это святое место, самую близкую к цитадели точку. А в последнее время тут проходной двор: то один приходит, то другой.","This is outrageous - no one came here and did not disturb a thousand years is a holy place, the closest point to the citadel. And recently there thoroughfare: one that comes, then another."
+118_start_node1,Это не важно,It does not matter
+118_start_transition0_1,Кто уже сюда приходил?,Who has come here?
+118_start_transition1_1,"Окей, пойду дальше и сам посмотрю","Okay, go ahead and take a look himself"
+119_fake_dave_node0,Удивлен? Нам с тобой нужно о многом поговорить... Наедине,Surprised? You and I have a lot to talk about ... Alone
+119_fake_dave_node1,"Точно. А настоящий Дейв, попав в этот мир, был смертельно ранен. Из-за тебя, виновника катастрофы. Он попал сразу на Мир Ноль.","Exactly. But the real Dave got into this world, was mortally wounded. Because of you, the culprit accident. He got right to the World Zero."
+119_fake_dave_node2,"Я могу исполнить твое желание – отправить домой. И более того, я хочу этого. Потому что если ты переместишься домой - я пойду с тобой.","I can fulfill your desire - to send home. And what's more, I want it. Because if you move home - I'll go with you."
+119_fake_dave_transition0_1,Это ты говорил со мной все это время. Ты и есть Пустота,That's what you told me all this time. You are the Void
+119_fake_dave_transition1_1,...,...
+119_fake_dave_transition2_1,Этому не бывать! Защищайся!,This will not happen! Defend yourself!
+IC_010_start_node0,Найти Созданий,Find Creations
+IC_010_start_node1,И вот,And so
+IC_010_start_transition0_1,Ок,OK
+IC_010_start_transition1_1,Ага,aha

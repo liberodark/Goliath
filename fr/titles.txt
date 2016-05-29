@@ -1,0 +1,33 @@
+WHALEBOX STUDIO:
+PRODUCER: Artem Bochkarev
+CO-PRODUCER: Nadezhda Zhuk
+LEAD ARTIST:Boris Dyatlov
+LEAD 3D ARTIST:Denis Ulianov
+PROJECT-MANAGER:Ekaterina Voynova
+2D ARTISTS:Andrey Zheltov,Veronika Akatieva,Marina Kostina,Stas Bashkatov
+3D ARTISTS:Andrey Kultishev,Anton Markin,Aleksey Ivanov,Aleksey Romanov,Vitaly Reutin
+GAME-DESIGNERS:Alexander Denisov,Viktoria Ustichenko,Evgeniy Shishkin,Ilya Solopov
+PROGRAMMERS:Maksim Ustichenko,Nikita Zheltyakov
+VFX:Vitaly Reutin
+COMPOSER: Ashton Morris
+DIRECTOR OF PARTNER RELATIONS: Ilya Grabelnikov
+LOCALIZATION MANAGER: Mikhail Belov
+HEAD OF QUALITY ASSURANCE DEPARTMENT: Alexandr Vinnik
+QUALITY ASSURANCE: Anna Kosik, Valeriy Davydov, Alexandra Nespanova
+:
+ORIGINAL STORY: Artem Bochkarev,Nadezda Zhuk
+WRITTEN BY: Zander Cannon,Artem Bochkarev
+ADDITIONAL WRITING AND EDITING: Jeremy Zoss
+:
+OCTOPUS TREE:
+DIRECTOR OF PRODUCT DEVELOPMENT: Peter Armstrong
+DIRECTOR OF MARKETING: Tracy Magnuson
+MARKETING MANAGER: Jeremy Zoss
+PRODUCER: Bruce James
+QUALITY ASSURANCE MANAGER: James Robrahn
+QUALITY ASSURANCE PROJECT LEAD: David Riebe
+QUALITY ASSURANCE PROJECT LEAD: Greg Stutsman
+QUALITY ASSURANCE TECHNICIAN: Steve Ellis
+:
+GAMINGEARZ:
+SOUND-DESIGN:Valeriy Khilobok,Victor Shcheglov
